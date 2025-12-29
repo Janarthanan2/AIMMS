@@ -39,8 +39,8 @@ AIMMS (AI Integrated Money Management System) is a project designed to integrate
 The AIMMS platform significantly enhances the user's ability to track and manage finances by automating tedious tasks. The integration of computer vision and NLP showcases the potential of AI in personal finance, providing a foundation for smarter, data-driven financial decisions.
 
 ## Articles published / References
-1. D. S, S. R. S. Suvarna Smita, R. Sheethal, T. V. Dixit, S. Sri Balaji, and T. D. Sivadharishana, "FINANCEGPT: PRECISION FINANCIAL FORECASTING AND BUDGETING FOR SMARTER INVESTMENT STRATEGIES," in 2025 6th International Conference on Control, Communication and Computing (ICCC), 2025.
-2. S. Shelke, S. Shaikh, M. Shingre, and S. Lebisha, "Smart BAT - Smart Budget Analyzer and Tracker," in 2023 International Conference on Advanced Computing Technologies and Applications (ICACTA), 2023.
-3. X. Koo and K. Khor, "Expense Tracking with Tesseract Optical Character Recognition v5: A Mobile Application Development," in 2023 IEEE Symposium on Industrial Electronics & Applications (ISIEA), 2023.
-4. S. Singla et al., "Unveiling Financial Insights: The Daily Expense Tracker System Approach," in 2024 International Conference on Emerging Innovations and Advanced Computing (INNOCOMP), 2024.
+1. D. S, S. R. S. Suvarna Smita, R. Sheethal, T. V. Dixit, S. Sri Balaji, and T. D. Sivadharishana, "FINANCEGPT: PRECISION FINANCIAL FORECASTING AND BUDGETING FOR SMARTER INVESTMENT STRATEGIES," in 2025 6th International Conference on Control, Communication and Computing (ICCC), 2025.<br>
+2. S. Shelke, S. Shaikh, M. Shingre, and S. Lebisha, "Smart BAT - Smart Budget Analyzer and Tracker," in 2023 International Conference on Advanced Computing Technologies and Applications (ICACTA), 2023.<br>
+3. X. Koo and K. Khor, "Expense Tracking with Tesseract Optical Character Recognition v5: A Mobile Application Development," in 2023 IEEE Symposium on Industrial Electronics & Applications (ISIEA), 2023.<br>
+4. S. Singla et al., "Unveiling Financial Insights: The Daily Expense Tracker System Approach," in 2024 International Conference on Emerging Innovations and Advanced Computing (INNOCOMP), 2024.<br>
 5. P. Bhatele et al., "TrackEZ Expense Tracker," in 2023 4th International Conference for Emerging Technology (INCET), pp. 1-5, 2023.
