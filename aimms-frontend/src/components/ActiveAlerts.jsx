@@ -84,7 +84,7 @@ export default function ActiveAlerts() {
             <div className="p-4 space-y-3 max-h-96 overflow-y-auto">
                 {filteredAlerts.length === 0 ? (
                     <div className="text-center py-8 text-slate-400">
-                        <div className="text-4xl mb-2">✅</div>
+                        {/* <div className="text-4xl mb-2">✅</div> */}
                         <p className="text-sm">System Healthy. No active alerts.</p>
                     </div>
                 ) : (

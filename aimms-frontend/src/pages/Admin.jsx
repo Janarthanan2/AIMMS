@@ -164,7 +164,7 @@ export default function Admin() {
             <button
               key={tab}
               onClick={() => setActiveTab(tab)}
-              className={`px-4 py-2 rounded-md text-sm font-medium transition-all ${activeTab === tab ? 'bg-white/20 text-white shadow-sm' : 'text-white/60 hover:text-white hover:bg-white/10'}`}
+              className={`px-4 py-2 rounded-md text-sm font-medium transition-all ${activeTab === tab ? 'bg-lime-500/20 text-lime-300 shadow-sm border border-lime-500/30' : 'text-white/60 hover:text-white hover:bg-white/10'}`}
             >
               {tab.charAt(0).toUpperCase() + tab.slice(1)}
             </button>
@@ -180,49 +180,49 @@ export default function Admin() {
 
           {/* KPI Cards */}
           <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
-            <KPICard title="Regular Users" value={regularUserCount} icon="👥" change="Active" color="bg-blue-50 border-blue-200 text-blue-700" />
-            <KPICard title="Total Admins" value={totalAdmins} icon="🛡️" change="Stable" color="bg-purple-50 border-purple-200 text-purple-700" />
-            <KPICard title="System Health" value={systemHealth} icon="❤️" change="All Systems Go" color="bg-green-50 border-green-200 text-green-700" />
+            <KPICard title="Regular Users" value={regularUserCount} icon="👥" change="Active" color="bg-blue-500/10 border-blue-500/30 text-blue-200" />
+            <KPICard title="Total Admins" value={totalAdmins} icon="🛡️" change="Stable" color="bg-purple-500/10 border-purple-500/30 text-purple-200" />
+            <KPICard title="System Health" value={systemHealth} icon="❤️" change="All Systems Go" color="bg-emerald-500/10 border-emerald-500/30 text-emerald-200" />
             <KPICard
               title="Active Alerts"
               value={activeAlertCount}
               icon="⚠️"
               change={activeAlertCount > 0 ? "Needs Attention" : "All Clear"}
-              color={activeAlertCount > 0 ? "bg-orange-50 border-orange-200 text-orange-700" : "bg-slate-50 border-slate-200 text-slate-500"}
+              color={activeAlertCount > 0 ? "bg-orange-500/10 border-orange-500/30 text-orange-200" : "bg-white/5 border-white/10 text-white/50"}
             />
           </div>
 
           {/* Charts Section */}
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
-            <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100">
-              <h3 className="font-bold text-slate-700 mb-4">User Growth Trend</h3>
+            <div className="card-vibrant p-6 border-white/10">
+              <h3 className="font-bold text-white mb-4">User Growth Trend</h3>
               <div className="h-64">
                 <ResponsiveContainer width="100%" height="100%">
                   <LineChart data={growthData}>
-                    <CartesianGrid strokeDasharray="3 3" stroke="#f0f0f0" />
-                    <XAxis dataKey="month" stroke="#94a3b8" />
-                    <YAxis stroke="#94a3b8" />
-                    <Tooltip />
-                    <Line type="monotone" dataKey="users" stroke="#8b5cf6" strokeWidth={3} dot={{ r: 4 }} />
+                    <CartesianGrid strokeDasharray="3 3" stroke="rgba(255,255,255,0.1)" />
+                    <XAxis dataKey="month" stroke="rgba(255,255,255,0.5)" />
+                    <YAxis stroke="rgba(255,255,255,0.5)" />
+                    <Tooltip contentStyle={{ backgroundColor: '#1a2e05', borderColor: '#3f6212', color: '#fff' }} />
+                    <Line type="monotone" dataKey="users" stroke="#84cc16" strokeWidth={3} dot={{ r: 4, fill: '#ecfccb' }} />
                   </LineChart>
                 </ResponsiveContainer>
               </div>
             </div>
 
-            <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100">
-              <h3 className="font-bold text-slate-700 mb-4">User Distribution</h3>
+            <div className="card-vibrant p-6 border-white/10">
+              <h3 className="font-bold text-white mb-4">User Distribution</h3>
               <div className="h-64">
                 <ResponsiveContainer width="100%" height="100%">
                   <PieChart>
                     <Pie data={distributionData} cx="50%" cy="50%" innerRadius={60} outerRadius={80} paddingAngle={5} dataKey="value">
                       {distributionData.map((entry, index) => (
-                        <Cell key={`cell-${index}`} fill={entry.color} />
+                        <Cell key={`cell-${index}`} fill={entry.color} stroke="rgba(0,0,0,0.5)" />
                       ))}
                     </Pie>
-                    <Tooltip />
+                    <Tooltip contentStyle={{ backgroundColor: '#1a2e05', borderColor: '#3f6212', color: '#fff' }} />
                   </PieChart>
                 </ResponsiveContainer>
-                <div className="flex justify-center gap-4 mt-2 text-sm text-slate-500">
+                <div className="flex justify-center gap-4 mt-2 text-sm text-white/60">
                   {distributionData.map((d, i) => (
                     <div key={i} className="flex items-center gap-1">
                       <div className="w-3 h-3 rounded-full" style={{ backgroundColor: d.color }}></div>
@@ -237,27 +237,27 @@ export default function Admin() {
       )}
 
       {activeTab === 'users' && (
-        <div className="bg-white rounded-xl shadow-sm border border-slate-100 overflow-hidden animate-fade-in">
-          <div className="p-4 border-b flex justify-between items-center bg-slate-50/50">
+        <div className="card-vibrant overflow-hidden animate-fade-in border-white/10">
+          <div className="p-4 border-b border-white/10 flex justify-between items-center bg-black/20">
             <div className="flex items-center gap-4">
               <div className="relative">
                 <input
                   type="text"
                   placeholder="Search users..."
-                  className="pl-10 pr-4 py-2 rounded-lg border border-slate-200 focus:outline-none focus:ring-2 focus:ring-purple-500 w-64"
+                  className="pl-10 pr-4 py-2 rounded-lg border border-lime-500/30 bg-black/20 text-white focus:outline-none focus:ring-2 focus:ring-lime-500 w-64 placeholder-white/40"
                   value={searchTerm}
                   onChange={(e) => setSearchTerm(e.target.value)}
                 />
-                <span className="absolute left-3 top-2.5 text-slate-400">🔍</span>
+                <span className="absolute left-3 top-2.5 text-lime-100/50">🔍</span>
               </div>
 
               {currentRole === 'ADMIN' && (
-                <div className="flex bg-slate-100 rounded-lg p-1 text-xs font-medium border border-slate-200">
+                <div className="flex bg-black/20 rounded-lg p-1 text-xs font-medium border border-white/10">
                   {['ALL', 'SUB_ADMIN', 'USER'].map(role => (
                     <button
                       key={role}
                       onClick={() => setFilterRole(role)}
-                      className={`px-3 py-1.5 rounded-md transition-all ${filterRole === role ? 'bg-white text-purple-700 shadow-sm font-bold' : 'text-slate-500 hover:text-slate-700'}`}
+                      className={`px-3 py-1.5 rounded-md transition-all ${filterRole === role ? 'bg-lime-500/20 text-lime-300 shadow-sm font-bold border border-lime-500/30' : 'text-white/50 hover:text-white'}`}
                     >
                       {role === 'ALL' ? 'All' : role === 'SUB_ADMIN' ? 'Sub-Admins' : 'Regular Users'}
                     </button>
@@ -266,17 +266,17 @@ export default function Admin() {
               )}
             </div>
             <div className="flex gap-2">
-              <button onClick={exportData} className="px-4 py-2 bg-white border border-slate-200 rounded-lg text-slate-600 hover:bg-slate-50 font-medium text-sm">
+              <button onClick={exportData} className="px-4 py-2 bg-white/5 border border-white/10 rounded-lg text-white/80 hover:bg-white/10 font-medium text-sm">
                 📥 Export CSV
               </button>
-              <button onClick={() => setShowSubAdminModal(true)} className="px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 font-medium text-sm">
+              <button onClick={() => setShowSubAdminModal(true)} className="px-4 py-2 btn-vibrant text-white rounded-lg hover:scale-105 font-medium text-sm">
                 + Add Sub-Admin
               </button>
             </div>
           </div>
 
           <table className="w-full text-sm text-left">
-            <thead className="bg-slate-50 text-slate-500 uppercase font-bold text-xs">
+            <thead className="bg-black/20 text-lime-200 uppercase font-bold text-xs">
               <tr>
                 <th className="px-6 py-3">ID</th>
                 <th className="px-6 py-3">User</th>
@@ -285,7 +285,7 @@ export default function Admin() {
                 <th className="px-6 py-3 text-right">Actions</th>
               </tr>
             </thead>
-            <tbody className="divide-y divide-slate-100">
+            <tbody className="divide-y divide-white/10">
               {users
                 .filter(u => {
                   const matchesSearch = u.name.toLowerCase().includes(searchTerm.toLowerCase());
@@ -302,11 +302,11 @@ export default function Admin() {
                   return actualRole === filterRole;
                 })
                 .map(u => (
-                  <tr key={u.userId} className="hover:bg-slate-50/50 transition-colors">
-                    <td className="px-6 py-4 font-mono text-slate-400">#{u.userId}</td>
+                  <tr key={u.userId} className="hover:bg-white/5 transition-colors">
+                    <td className="px-6 py-4 font-mono text-white/50">#{u.userId}</td>
                     <td className="px-6 py-4">
-                      <div className="font-bold text-slate-700">{u.name}</div>
-                      <div className="text-slate-400 text-xs">{u.email}</div>
+                      <div className="font-bold text-white">{u.name}</div>
+                      <div className="text-white/50 text-xs">{u.email}</div>
                     </td>
                     <td className="px-6 py-4">
                       {(() => {
@@ -318,7 +318,7 @@ export default function Admin() {
                           role = 'USER';
                         }
 
-                        const badgeColor = role === 'USER' ? 'bg-blue-100 text-blue-700' : 'bg-purple-100 text-purple-700';
+                        const badgeColor = role === 'USER' ? 'bg-blue-500/20 text-blue-200 border border-blue-500/30' : 'bg-purple-500/20 text-purple-200 border border-purple-500/30';
 
                         return (
                           <span className={`px-2 py-1 rounded-full ${badgeColor} text-xs font-bold`}>
@@ -335,7 +335,7 @@ export default function Admin() {
                     <td className="px-6 py-4 text-right">
                       <button
                         onClick={() => setSelectedUser(u)}
-                        className="text-slate-400 hover:text-purple-600 font-medium">
+                        className="text-white/50 hover:text-lime-300 font-medium">
                         Manage
                       </button>
                     </td>
@@ -477,7 +477,7 @@ export default function Admin() {
 
 function KPICard({ title, value, icon, change, color }) {
   return (
-    <div className={`p-6 rounded-xl border ${color} transition-all hover:shadow-md`}>
+    <div className={`p-6 rounded-xl border ${color} bg-opacity-10 backdrop-blur-sm transition-all hover:scale-[1.02] cursor-default`}>
       <div className="flex justify-between items-start">
         <div>
           <h3 className="text-sm font-bold uppercase opacity-70 mb-1">{title}</h3>
