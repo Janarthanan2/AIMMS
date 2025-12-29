@@ -28,10 +28,7 @@ AIMMS (AI Integrated Money Management System) is a project designed to integrate
 
 ## Output
 ### Output 1 - Dashboard View
-*(Placeholder for Dashboard Screenshot)*
-
-### Output 2 - Receipt Scanning & OCR
-*(Placeholder for OCR Screenshot)*
+<img src="dash.png">
 
 ### Detection Accuracy
 - **OCR Accuracy**: ~95%
