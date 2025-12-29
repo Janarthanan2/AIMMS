@@ -1,0 +1,7 @@
+{
+    "title": "File Based Test",
+    "body": "Testing via JSON file",
+    "priority": "HIGH",
+    "broadcast": true,
+    "pinned": true
+}

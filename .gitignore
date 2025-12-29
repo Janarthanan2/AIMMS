@@ -1,0 +1,39 @@
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+bin/
+obj/
+input/
+# Java/Maven
+target/
+*.class
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Large media files
+*.mp4
+*.mov
+*.avi
+
+# ML Models
+*.pt
+*.safetensors
+*.h5
+*.pkl

@@ -1,0 +1,2628 @@
+date,description,merchant,amount,category
+2024-04-29,Gas Cylinder 143,Indane,1161.13,Bills
+2023-10-26,Apollo Pharmacy,Apollo Pharmacy,630.0,Health
+2025-03-26,Repair Services 437,Urban Company,364.74,Miscellaneous
+2024-04-02,Cafe Coffee Day Bill,Cafe Coffee Day,362.0,Food & Drink
+2023-02-18,flipkart,Flipkart,1599.0,Shopping
+2023-07-07,MedPlus,MedPlus,190.0,Health
+2025-01-18,Apollo Pharmacy TRN 10024,Apollo Pharmacy,2598.0,Health
+2024-02-22,Swiggy order 3543,Swiggy,527.0,Food & Drink
+2025-05-19,DECATHLON RETAIL,Decathlon,4471.0,Shopping
+2025-10-22,Groceries from Dunzo #10182,Dunzo,793.0,Groceries
+2025-04-01,Rapido Ride 3502,Amazon,110.0,Transport
+2023-08-17,Dominos Pizza,Dominos,850.0,Food & Drink
+2024-02-06,Electricity Bill 781,TNEB,1140.84,Bills
+2023-02-19,PVR Cinemas,PVR Cinemas,500.0,Entertainment
+2025-02-20,Apollo Pharmacy,Apollo Pharmacy,240.0,Health
+2025-05-23,Gaming Currency 971,Steam,494.6,Entertainment
+2024-09-24,Amazon.in Order AMZ10007,Amazon,570.0,Shopping
+2023-01-01,UPI to Swiggy Order #10001,Swiggy,942.0,Food & Drink
+2025-08-05,Ola Cabs,Ola,230.0,Transport
+2024-10-03,APOLLO PHARMACY TRN,Apollo Pharmacy,450.0,Health
+2024-02-04,Rapido,Rapido,135.0,Transport
+2023-09-21,UPI to Friend 10184,Miscellaneous,6500.0,Miscellaneous
+2025-03-01,Uber Ride,Uber,240.0,Transport
+2025-04-06,NETFLIX.COM,Netflix,199.0,Subscriptions
+2025-12-13,Gas Cylinder 184,Indane,1120.37,Bills
+2025-11-02,Stationery 170,Local Shop,120.02,Miscellaneous
+2024-01-14,Apollo Pharmacy Bill,Apollo Pharmacy,246.0,Health
+2025-03-05,IMPS - Rent Mar,House Rent,20000.0,Rent
+2023-01-16,MedPlus,MedPlus,230.0,Health
+2023-02-09,BigBazaar,BigBazaar,3300.0,Groceries
+2025-07-09,Printout 676,Xerox Shop,49.56,Miscellaneous
+2024-02-19,Rapido Ride 7837,Rapido,90.0,Transport
+2024-08-27,Zomato,Zomato,370.0,Food & Drink
+2025-05-25,Uber Trip 10187,Uber,292.0,Transport
+2025-02-03,AIRTEL POSTPAID BILL 10045,Airtel,821.0,Bills
+2024-01-14,Ola Ride 6554,Ola,121.0,Transport
+2023-07-18,Amazon Prime renewal 10256,Amazon Prime,1499.0,Subscriptions
+2024-01-25,Swiggy order 8089,Swiggy,538.0,Food & Drink
+2024-06-22,Swiggy,Swiggy,480.0,Food & Drink
+2024-01-25,MedPlus Bill,MedPlus,410.0,Health
+2025-02-20,PVR Cinemas,PVR Cinemas,520.0,Entertainment
+2025-01-02,DOMINOS BILL 10098,Dominos,878.0,Food & Drink
+2024-07-13,Gift Purchase 385,Archies,425.5,Miscellaneous
+2024-03-01,NETFLIX.COM 1234,Netflix,199.0,Subscriptions
+2025-08-12,Disney+ Hotstar,Hotstar,499.0,Subscriptions
+2025-04-01,Swiggy order 7609,Uber,234.0,Food & Drink
+2025-07-04,Order #10238 from Zomato,Zomato,623.0,Food & Drink
+2024-04-11,Zomato Order #2357,Zomato,430.0,Food & Drink
+2024-01-14,UPI to Friend 727,UPI,522.94,Miscellaneous
+2023-11-26,Ola Ride,Ola,260.0,Transport
+2023-01-21,Myntra Order 7289,Myntra,1100.0,Shopping
+2025-04-12,Croma.com Inv#10132,Croma,6272.0,Shopping
+2025-09-19,Movie Ticket 899,BookMyShow,294.0,Entertainment
+2025-06-08,PVR Cinemas Ticket 10204,PVR Cinemas,964.0,Entertainment
+2023-06-07,More Supermarket Store Bill,More Supermarket,2257.0,Groceries
+2024-08-10,Maintenance Charge 404,Association,1974.49,Rent
+2023-06-20,Concert Ticket 405,Insider,1420.28,Entertainment
+2023-08-05,More Supermarket,More Supermarket,2600.0,Groceries
+2024-04-24,Maintenance Charge 707,Association,1853.04,Rent
+2025-12-21,Courier Charges 957,DTDC,109.31,Miscellaneous
+2025-12-29,Flat Rent Jul,Landlord,17150.59,Rent
+2023-05-17,Cafe Coffee Day,Cafe Coffee Day,350.0,Food & Drink
+2025-02-19,Dunzo Groceries,Dunzo,1130.0,Groceries
+2023-08-09,Repair Services 211,Urban Company,393.37,Miscellaneous
+2025-12-14,Zomato order 6088,Zomato,715.0,Food & Drink
+2025-06-17,DOMINOS BILL 10216,Dominos,878.0,Food & Drink
+2024-04-21,Gas Cylinder 315,Indane,1027.89,Bills
+2024-01-18,Pizza Hut,Pizza Hut,930.0,Food & Drink
+2024-10-23,Courier Charges 880,DTDC,104.22,Miscellaneous
+2025-10-18,Steam Games Purchase,Steam Games,1299.0,Entertainment
+2025-05-01,NETFLIX.COM 10156,Netflix,843.0,Subscriptions
+2025-03-09,Stationery 625,Local Shop,116.29,Miscellaneous
+2025-07-30,Zomato,Zomato,370.0,Food & Drink
+2023-12-29,Fuel at Indian Oil,Indian Oil,2026.0,Transport
+2025-01-22,VI RECHARGE 10029,Vi,657.0,Bills
+2023-06-26,Rent Payment 233,Owner,23571.36,Rent
+2025-04-16,TNEB Bill,TNEB,1020.0,Utilities
+2025-02-04,PG Rent Aug,Stanza Living,7753.68,Rent
+2023-03-28,Charity Donation 702,Charity,1069.95,Miscellaneous
+2025-08-16,Spotify,Spotify,119.0,Subscriptions
+2025-12-13,Lab Test 595,Thyrocare,1254.54,Health
+2025-07-08,NETFLIX.COM 10243,Netflix,843.0,Subscriptions
+2025-12-16,Zomato order 8625,Zomato,458.0,Food & Drink
+2024-09-25,AIRTEL BROADBAND FTTH 10101,Airtel Broadband,1413.0,Utilities
+2023-05-29,Doctor Visit,Local Clinic,1236.0,Health
+2025-10-11,CMRL Metro Card Recharge,Chennai Metro,500.0,Transport
+2023-03-03,Jio Fiber FTTH 10080,Jio Fiber,1022.0,Utilities
+2024-04-17,Movie Ticket 823,BookMyShow,322.99,Entertainment
+2023-04-23,Myntra,Myntra,4000.0,Shopping
+2023-10-23,UPI to Friend,Miscellaneous,1000.0,Miscellaneous
+2023-02-06,Rapido Ride 9651,Rapido,149.0,Transport
+2025-06-08,swiggy,Swiggy,360.0,Food & Drink
+2025-05-11,amazon.in,Amazon,1199.0,Shopping
+2023-03-11,BookMyShow Transaction,BookMyShow,914.0,Entertainment
+2024-01-06,Fuel at BPCL Bill 10008,BPCL,2203.0,Transport
+2023-04-11,Streaming Sub 627,Netflix,184.55,Entertainment
+2024-09-18,Licious,Licious,690.0,Groceries
+2023-03-29,uber trip,Uber,240.0,Transport
+2024-02-06,Myntra Retail,Myntra,8517.0,Shopping
+2025-12-06,Spotify AB 92386,Spotify,119.0,Subscriptions
+2024-08-01,amazon pay,Amazon,870.0,Shopping
+2025-10-11,Croma.com Inv#10170,Croma,6907.0,Shopping
+2025-07-07,Starbucks,Starbucks,520.0,Food & Drink
+2024-10-17,Flat Rent Jan,Landlord,16375.96,Rent
+2025-05-17,Reliance Fresh,Reliance Fresh,1100.0,Groceries
+2024-09-05,Zomato order 9934,Zomato,350.0,Food & Drink
+2025-11-27,Zomato,Zomato,310.0,Food & Drink
+2023-01-08,MedPlus Bill,MedPlus,435.0,Health
+2023-03-22,Swiggy order 2070,Swiggy,461.0,Food & Drink
+2024-08-10,amazon pay,Amazon,880.0,Shopping
+2023-11-20,ZARA RETAIL,Zara,7864.0,Shopping
+2023-07-11,Printout 385,Xerox Shop,51.33,Miscellaneous
+2023-07-16,Electricity Bill 941,TNEB,1263.26,Bills
+2023-08-18,BigBazaar,BigBazaar,2900.0,Groceries
+2023-10-31,Swiggy Instamart Purchase 10018,Swiggy Instamart,447.0,Groceries
+2024-10-31,Gas Cylinder 350,Indane,1080.44,Bills
+2024-01-09,TNEB Bill Pay 10012,TNEB,1438.0,Utilities
+2023-08-10,The Hindu,The Hindu,999.0,Subscriptions
+2024-05-02,Charity Donation 708,Charity,939.27,Miscellaneous
+2023-03-10,Rapido Ride 4802,Rapido,110.0,Transport
+2024-01-20,Steam Purchase 10011,Steam Games,799.0,Entertainment
+2025-08-18,BigBazaar,BigBazaar,3800.0,Groceries
+2025-01-11,MedPlus Bill,MedPlus,420.0,Health
+2023-10-11,Uber Ride 20251011,Uber,140.0,Transport
+2025-08-06,Maintenance Charge 923,Association,1922.0,Rent
+2024-12-03,Amazon.in Order AMZ925,Amazon,2199.0,Shopping
+2023-10-15,Ola Cabs 2345,Ola,310.0,Transport
+2025-11-15,House Rent Nov,House Rent,18878.55,Rent
+2024-11-08,MedPlus Bill,MedPlus,350.0,Health
+2024-12-02,Ola Cabs,Ola,230.0,Transport
+2025-04-15,NETFLIX.COM,Netflix,199.0,Subscriptions
+2023-10-25,Zomato order,Zomato,710.0,Food & Drink
+2025-03-09,Amusement Park 303,Wonderla,1098.35,Entertainment
+2025-12-16,Amazon Order 3662,Amazon,3554.0,Shopping
+2025-01-22,NETFLIX.COM 5678,Netflix,199.0,Subscriptions
+2025-01-20,ZARA RETAIL,Zara,7864.0,Shopping
+2025-01-08,Broadband Bill 443,ACT Fibernet,1094.2,Bills
+2024-01-14,Amazon Order 3502,Amazon,1535.0,Shopping
+2024-09-08,Amazon Prime renewal 10060,Amazon Prime,1499.0,Subscriptions
+2023-02-26,More Supermarket Purchase,More Supermarket,1799.0,Groceries
+2025-03-02,Pizza Hut Bill,Pizza Hut,910.0,Food & Drink
+2024-06-29,Order Blinkit 10232,Blinkit,781.0,Groceries
+2023-06-06,Broadband Bill 595,ACT Fibernet,1148.44,Bills
+2025-01-29,Water Tax 537,CMWSSB,162.02,Bills
+2024-02-15,Amazon Prime renewal 10060,Amazon Prime,1499.0,Subscriptions
+2024-01-26,MedPlus Bill,MedPlus,360.0,Health
+2025-09-06,Google Cloud,Google,150.0,Subscriptions
+2025-01-08,Zomato,Zomato,310.0,Food & Drink
+2025-10-22,Zomato,Zomato,570.0,Food & Drink
+2025-08-22,Order #10302 from Zomato,Zomato,268.0,Food & Drink
+2025-12-04,BSNL FTTH,BSNL,799.0,Utilities
+2023-02-27,Zomato order 4337,Zomato,450.0,Food & Drink
+2025-09-01,Movie Ticket 712,BookMyShow,306.75,Entertainment
+2024-04-13,swiggy instamart,Swiggy,390.0,Groceries
+2023-03-15,Swiggy Instamart Purchase 10096,Swiggy Instamart,769.0,Groceries
+2023-03-16,Dunzo,Dunzo,900.0,Groceries
+2023-05-06,Rent Payment 776,Owner,20044.52,Rent
+2024-06-15,Spotify AB 10213,Spotify,129.0,Subscriptions
+2024-04-24,Shell Fuel,Shell,1800.0,Transport
+2024-05-22,Zomato order 5830,Zomato,500.0,Food & Drink
+2023-01-28,House Rent Oct,House Rent,20131.74,Rent
+2024-03-26,Zomato order 3591,Swiggy,630.0,Food & Drink
+2024-04-18,Myntra,Myntra,3700.0,Shopping
+2023-04-04,NETFLIX.COM,Netflix,199.0,Subscriptions
+2024-08-15,Mobile Recharge 844,Jio,306.63,Bills
+2025-05-24,ATM WITHDRAWAL,ATM,5500.0,Miscellaneous
+2023-07-15,Repair Services 441,Urban Company,363.34,Miscellaneous
+2025-03-29,Myntra,Myntra,4100.0,Shopping
+2025-02-09,BigBazaar Purchase,BigBazaar,3163.0,Groceries
+2025-01-16,BSNL Bill,BSNL,799.0,Utilities
+2024-01-04,Licious Purchase,Licious,898.0,Groceries
+2024-07-24,Apollo Pharmacy,Apollo Pharmacy,260.0,Health
+2024-04-28,Water Tax 744,CMWSSB,156.5,Bills
+2023-02-12,Zomato order 2736,Zomato,623.0,Food & Drink
+2024-08-12,PG Rent Jun,Stanza Living,8000.76,Rent
+2023-01-28,Reliance Fresh,Reliance Fresh,1650.0,Groceries
+2025-08-21,Swiggy Instamart Purchase 10141,Swiggy Instamart,678.0,Groceries
+2025-02-06,zomato,Zomato,290.0,Food & Drink
+2025-04-18,Ola Cabs 2352,Ola,270.0,Transport
+2023-01-27,CMRL Topup 10036,Chennai Metro,300.0,Transport
+2024-04-28,NETFLIX.COM,Netflix,199.0,Subscriptions
+2023-03-02,Medicines 936,Apollo,344.59,Health
+2025-11-10,BigBazaar Purchase 10010,BigBazaar,2620.0,Groceries
+2023-03-11,uber trip,Uber,270.0,Transport
+2024-01-10,Dominos Bill 10013,Dominos,1031.0,Food & Drink
+2024-03-11,FLIPKART Order FK2406,Flipkart,570.0,Shopping
+2023-12-08,Croma.com Inv#10132,Croma,6272.0,Shopping
+2024-09-21,Swiggy,Swiggy,400.0,Food & Drink
+2024-10-03,Steam Purchase,Steam Games,1599.0,Entertainment
+2023-10-05,Flat Rent Mar,Landlord,18256.75,Rent
+2024-08-12,Reliance Fresh Purchase 10289,Reliance Fresh,3350.0,Groceries
+2025-03-14,More Supermarket Purchase,More Supermarket,1968.0,Groceries
+2023-06-13,Charity Donation 455,Charity,1051.65,Miscellaneous
+2023-01-29,Zomato order 4446,Zomato,380.0,Food & Drink
+2023-02-24,Courier Charges 730,DTDC,95.4,Miscellaneous
+2024-07-06,Zomato,Zomato,360.0,Food & Drink
+2023-11-07,Rapido Ride ID10171,Rapido,133.0,Transport
+2023-07-22,BigBazaar Store Bill,BigBazaar,4355.0,Groceries
+2024-12-10,Monthly Rent 458,NoBroker,19896.91,Rent
+2023-09-13,Flat Rent Aug,Landlord,16732.03,Rent
+2025-10-25,Medicines 366,Apollo,344.93,Health
+2023-03-31,Subscr The Hindu,The Hindu,1299.0,Subscriptions
+2025-12-21,ZARA Retail Purchase,Zara,5156.0,Shopping
+2023-07-13,Rapido 2409,Rapido,110.0,Transport
+2024-01-26,PVR Cinemas Ticket 10047,PVR Cinemas,964.0,Entertainment
+2025-10-09,swiggy food,Swiggy,600.0,Food & Drink
+2024-01-24,Amazon Order 5698,Amazon,3886.0,Shopping
+2023-11-06,Spotify AB 92385,Spotify,119.0,Subscriptions
+2025-05-05,Maintenance Charge 120,Association,2097.6,Rent
+2023-03-29,TNEB Bill Pay 10114,TNEB,2668.0,Utilities
+2025-02-10,Payment to McDonald's,McDonald's,922.0,Food & Drink
+2025-03-09,uber trip,Uber,230.0,Transport
+2024-09-06,GYM FEE,Fitness First,1812.0,Health
+2025-03-17,Dominos Bill,Dominos,912.0,Food & Drink
+2024-10-03,Amazon Prime,Amazon Prime,299.0,Subscriptions
+2023-06-22,BILL BSNL ID 10223,BSNL,2315.0,Utilities
+2025-02-28,Rapido,Rapido,160.0,Transport
+2025-08-29,Ola Cabs,Ola,240.0,Transport
+2023-12-22,NETFLIX.COM 5678,Netflix,199.0,Subscriptions
+2023-01-09,Dunzo Groceries,Dunzo,1048.0,Groceries
+2025-10-30,Amazon.in Order AMZ10089,Amazon,4844.0,Shopping
+2025-06-21,BSNL FTTH Bill,BSNL,799.0,Utilities
+2024-02-01,Monthly Rent 703,NoBroker,21117.4,Rent
+2024-08-10,Amazon.in Order AMZ10286,Amazon,5159.0,Shopping
+2024-03-07,Streaming Sub 657,Netflix,202.09,Entertainment
+2023-11-19,Google Cloud,Google,150.0,Subscriptions
+2025-12-13,Amazon.in Order AMZ10089,Amazon,4844.0,Shopping
+2024-08-17,Electricity Bill 509,TNEB,1223.91,Bills
+2024-10-04,Amazon.in Order AMZ923,Amazon,2999.0,Shopping
+2025-03-31,Spotify,Spotify,119.0,Subscriptions
+2024-07-28,ZARA,Zara,5300.0,Shopping
+2025-02-03,Swiggy order 3591,Swiggy,472.0,Food & Drink
+2023-06-18,Broadband Bill 192,ACT Fibernet,1023.45,Bills
+2025-06-12,swiggy,Swiggy,340.0,Food & Drink
+2025-02-12,Uber Ride 5183,Uber,228.0,Transport
+2023-03-21,UPI to Friend 864,UPI,520.19,Miscellaneous
+2025-07-07,Repair Services 616,Urban Company,379.5,Miscellaneous
+2025-06-25,TNEB Bill Pay 10226,TNEB,2661.0,Utilities
+2024-12-01,Zomato Order #2347,Zomato,360.0,Food & Drink
+2024-11-15,Charity Donation 693,Charity,1081.75,Miscellaneous
+2023-02-05,BSNL FTTH Bill,BSNL,799.0,Utilities
+2024-12-09,Uber Ride 7644,Uber,141.0,Transport
+2025-01-11,Reliance Fresh,Reliance Fresh,1550.0,Groceries
+2025-08-26,Rent Payment 847,Owner,23515.14,Rent
+2025-11-07,Dental Checkup 522,Clove Dental,750.03,Health
+2023-10-17,Spotify AB 92391,Spotify,119.0,Subscriptions
+2023-11-18,Milk delivery,Local Mart,1200.0,Groceries
+2025-09-07,Rent Payment 286,Owner,21815.31,Rent
+2025-12-24,Printout 107,Xerox Shop,49.07,Miscellaneous
+2023-06-29,Postpaid Bill 237,Airtel,546.59,Bills
+2024-01-11,Fuel at Indian Oil,Indian Oil,2228.0,Transport
+2025-10-11,Stationery 950,Local Shop,110.51,Miscellaneous
+2025-03-09,Swiggy Instamart,Swiggy,509.0,Groceries
+2025-10-27,Gym Supplement 767,HealthKart,2728.64,Health
+2024-08-31,Order Blinkit 10035,Blinkit,825.0,Groceries
+2023-08-02,BookMyShow,BookMyShow,840.0,Entertainment
+2024-01-25,Zomato order 4465,Zomato,710.0,Food & Drink
+2023-03-12,uber auto,Uber,115.0,Transport
+2024-04-14,Gym Membership,Fitness First,2500.0,Health
+2025-02-08,Uber Ride 5066,Uber,294.0,Transport
+2024-05-15,Swiggy Foods,Swiggy,929.0,Food & Drink
+2024-04-11,Medicines 476,Apollo,344.82,Health
+2025-02-17,Swiggy order 4165,Swiggy,617.0,Food & Drink
+2023-04-12,Cafe Coffee Day,Cafe Coffee Day,330.0,Food & Drink
+2023-06-15,Swiggy Foods,Swiggy,570.0,Food & Drink
+2025-11-14,Water Tax,CMWSSB,150.0,Utilities
+2025-03-24,Flipkart Order FK10108,Flipkart,10065.0,Shopping
+2024-04-01,NETFLIX.COM,Netflix,199.0,Subscriptions
+2023-09-23,Gym Supplement 660,HealthKart,2255.17,Health
+2025-07-17,Swiggy Foods,Swiggy,929.0,Food & Drink
+2024-08-30,Gas Cylinder 853,Indane,1129.06,Bills
+2025-09-15,TNEB Bill,TNEB,1350.0,Utilities
+2025-12-24,Swiggy order 9051,Swiggy,381.0,Food & Drink
+2025-01-09,TNEB Bill Payment 100238,TNEB,1120.0,Utilities
+2024-03-13,Licious Purchase 10093,Licious,995.0,Groceries
+2025-09-16,Courier Charges 288,DTDC,99.21,Miscellaneous
+2023-10-21,Rapido 2398,Rapido,80.0,Transport
+2024-11-06,PG Rent Aug,Stanza Living,8701.64,Rent
+2025-11-10,Uber Ride 20251110,Uber,150.0,Transport
+2023-03-18,H&M,H&M,2600.0,Shopping
+2023-07-24,House Rent Mar,House Rent,18721.71,Rent
+2023-05-30,Payment to Cafe Coffee Day,Cafe Coffee Day,779.0,Food & Drink
+2024-08-19,Mobile Recharge 450,Jio,277.04,Bills
+2025-04-29,swiggy food,Swiggy,670.0,Food & Drink
+2025-03-05,Uber Ride,Uber,270.0,Transport
+2023-01-23,Licious Purchase,Licious,804.0,Groceries
+2025-09-21,UPI to Friend,Miscellaneous,3500.0,Miscellaneous
+2025-06-23,ACT Fibernet,ACT Fibernet,1049.0,Utilities
+2025-04-02,Zomato Order #2352,Zomato,380.0,Food & Drink
+2025-05-25,Lab Test 674,Thyrocare,1202.44,Health
+2023-06-23,Courier Charges 326,DTDC,104.34,Miscellaneous
+2024-03-08,Swiggy order 4066,Zomato,355.0,Food & Drink
+2023-04-02,Ola Ride 9062,Swiggy,273.0,Transport
+2024-07-03,Water Tax,CMWSSB,150.0,Utilities
+2025-02-06,Medicines 809,Apollo,381.81,Health
+2023-10-26,Electricity Bill 356,TNEB,1190.3,Bills
+2025-05-21,Stationery 165,Local Shop,121.89,Miscellaneous
+2024-11-10,Local Tea Shop,Local Tea Shop,50.0,Food & Drink
+2025-01-28,flipkart,Flipkart,1300.0,Shopping
+2023-01-03,Pizza Hut,Pizza Hut,940.0,Food & Drink
+2023-10-03,Payment to Starbucks,Starbucks,1065.0,Food & Drink
+2023-10-04,Postpaid Bill 623,Airtel,499.7,Bills
+2023-02-04,Uber Auto,Uber,130.0,Transport
+2023-01-30,Flipkart Order 7136,Flipkart,2035.0,Shopping
+2023-08-09,Zomato,Zomato,400.0,Food & Drink
+2025-08-24,Dominos Pizza,Dominos,830.0,Food & Drink
+2024-11-22,ORDER #10163 FROM SWIGGY,Swiggy,981.0,Food & Drink
+2025-02-25,Mobile Recharge 417,Jio,278.95,Bills
+2025-09-25,Swiggy Instamart,Swiggy,480.0,Groceries
+2023-03-27,Uber Ride,Uber,280.0,Transport
+2023-02-07,Uber Ride 5769,Uber,238.0,Transport
+2024-11-27,UPI to Zomato Order #10106,Zomato,514.0,Food & Drink
+2025-10-05,PVR Cinemas Food,PVR Cinemas,600.0,Entertainment
+2025-04-03,amazon pay,Amazon,700.0,Shopping
+2024-01-19,Mobile Recharge,Airtel,246.0,Bills
+2025-06-12,Ola Ride,Ola,310.0,Transport
+2024-02-09,Fuel IOCL,Indian Oil,2500.0,Transport
+2025-01-21,TNEB Bill Pay,TNEB,1470.0,Utilities
+2023-10-03,Ola Cabs Ride 9023,Ola,220.0,Transport
+2025-12-15,PVR Cinemas Transaction,PVR Cinemas,661.0,Entertainment
+2023-07-31,Monthly Rent 132,NoBroker,18261.51,Rent
+2024-09-29,Local Tea Stall,Local Tea Shop,100.0,Food & Drink
+2023-01-22,More Supermarket,More Supermarket,2200.0,Groceries
+2023-11-02,Swiggy Foods,Swiggy,530.0,Food & Drink
+2025-01-26,Reliance Fresh,Reliance Fresh,1700.0,Groceries
+2025-08-04,BSNL FTTH 10278,BSNL,2347.0,Utilities
+2025-05-13,House Rent Mar,House Rent,20445.79,Rent
+2024-06-27,Movie Ticket 183,BookMyShow,285.28,Entertainment
+2025-06-07,Gaming Currency 949,Steam,494.43,Entertainment
+2025-05-08,Gym Fee,Fitness First,1812.0,Health
+2024-03-24,Cafe Coffee Day Bill,Cafe Coffee Day,362.0,Food & Drink
+2025-07-23,Myntra Order MYN1015,Myntra,2799.0,Shopping
+2023-09-11,MedPlus Bill,MedPlus,320.0,Health
+2025-02-16,BigBazaar Purchase,BigBazaar,2920.0,Groceries
+2025-03-07,uber auto,Uber,165.0,Transport
+2024-01-03,MedPlus,MedPlus,220.0,Health
+2025-11-02,Apollo Pharmacy,Apollo Pharmacy,300.0,Health
+2024-10-31,Broadband Bill 569,ACT Fibernet,991.35,Bills
+2025-01-19,amazon.in,Amazon,1199.0,Shopping
+2025-03-19,Uber Ride,Uber,300.0,Transport
+2023-01-05,Amazon.in Order AMZ10176,Amazon,1818.0,Shopping
+2023-01-01,Dominos,Dominos,680.0,Food & Drink
+2024-10-31,uber trip,Uber,170.0,Transport
+2025-04-11,Gym Membership,Fitness First,2500.0,Health
+2024-02-26,BigBazaar,BigBazaar,2800.0,Groceries
+2023-01-27,More Supermarket,More Supermarket,2100.0,Groceries
+2025-07-29,Netflix,Netflix,199.0,Subscriptions
+2023-07-06,Repair Services 911,Urban Company,390.32,Miscellaneous
+2023-09-21,PG Rent Jun,Stanza Living,7335.79,Rent
+2025-03-27,ORDER #10112 FROM SWIGGY,Swiggy,917.0,Food & Drink
+2024-03-24,Groceries from Dunzo,Dunzo,1020.0,Groceries
+2023-02-26,Dominos Bill,Dominos,873.0,Food & Drink
+2024-02-12,Charity Donation 485,Charity,1098.71,Miscellaneous
+2023-04-16,Licious Purchase 10137,Licious,751.0,Groceries
+2025-10-22,Postpaid Bill 637,Airtel,504.31,Bills
+2023-10-16,swiggy order,Swiggy,470.0,Food & Drink
+2025-07-06,Postpaid Bill 671,Airtel,485.84,Bills
+2023-02-11,Spotify AB 10055,Spotify,129.0,Subscriptions
+2025-02-28,Pizza Hut Bill,Pizza Hut,733.0,Food & Drink
+2025-06-17,Courier Charges 705,DTDC,108.58,Miscellaneous
+2025-07-14,Postpaid Bill 839,Airtel,525.92,Bills
+2024-03-27,PAYMENT TO CAFE COFFEE DAY,Cafe Coffee Day,652.0,Food & Drink
+2025-06-08,ACT Fibernet,ACT Fibernet,1049.0,Utilities
+2023-08-19,Gym Fee,Fitness First,1968.0,Health
+2024-09-01,Bowling 635,Amoeba,399.92,Entertainment
+2024-08-20,Amazon.in Order AMZ10299,Amazon,4844.0,Shopping
+2025-01-06,amazon.in,Amazon,1099.0,Shopping
+2024-08-14,Order #10291 from Zomato,Zomato,753.0,Food & Drink
+2024-11-11,PG Rent May,Stanza Living,7696.11,Rent
+2025-01-13,flipkart,Flipkart,1200.0,Shopping
+2023-02-13,Gaming Currency 598,Steam,465.08,Entertainment
+2025-01-02,RAPIDO RIDE ID10171,Rapido,133.0,Transport
+2025-02-23,Licious Order,Licious,720.0,Groceries
+2025-01-09,MedPlus Bill,MedPlus,400.0,Health
+2023-08-09,Rapido 2405,Rapido,75.0,Transport
+2025-01-23,Netflix,Netflix,199.0,Subscriptions
+2025-07-09,Sony PSN Purchase 10245,Sony PSN,1656.0,Entertainment
+2025-12-02,Apollo Pharmacy,Apollo Pharmacy,320.0,Health
+2025-02-19,OLA AUTO 10065,Ola,282.0,Transport
+2023-05-28,More Supermarket,More Supermarket,2150.0,Groceries
+2025-09-15,BookMyShow Movie,BookMyShow,680.0,Entertainment
+2025-06-16,House Rent May,House Rent,18434.79,Rent
+2025-02-18,Ola Ride 8516,Ola,129.0,Transport
+2023-01-16,CMRL TOPUP 10036,Chennai Metro,286.0,Transport
+2023-07-09,Postpaid Bill 161,Airtel,528.45,Bills
+2024-09-26,CMRL TOPUP 10036,Chennai Metro,286.0,Transport
+2024-07-11,Postpaid Bill 469,Airtel,521.46,Bills
+2024-01-20,Local Tea Shop Bill 10027,Local Tea Shop,288.0,Food & Drink
+2023-03-17,Uber Ride 5971,Uber,262.0,Transport
+2025-08-27,Water Tax 984,CMWSSB,138.18,Bills
+2023-12-27,Uber Ride 4305,Uber,219.0,Transport
+2023-12-31,Rapido Ride 1907,Rapido,141.0,Transport
+2023-01-19,Uber Ride 5262,Uber,217.0,Transport
+2025-10-03,Streaming Sub 575,Netflix,180.12,Entertainment
+2024-07-04,Maintenance Charge 458,Association,1940.46,Rent
+2025-01-25,MedPlus,MedPlus,180.0,Health
+2024-02-29,Charity Donation 964,Charity,905.86,Miscellaneous
+2023-12-19,Milk delivery,Local Mart,1200.0,Groceries
+2023-07-22,Flat Rent Feb,Landlord,18721.27,Rent
+2025-09-01,IMPS - House Rent Sep,House Rent,18490.0,Rent
+2025-09-30,Gas Cylinder 290,Indane,1180.45,Bills
+2024-02-03,Fuel at Shell Bill 10044,Shell,2085.0,Transport
+2024-09-17,swiggy order,Swiggy,560.0,Food & Drink
+2024-11-06,Printout 283,Xerox Shop,51.26,Miscellaneous
+2025-02-20,Doctor Visit,Local Clinic,1254.0,Health
+2024-06-25,Mobile Recharge 211,Jio,293.06,Bills
+2023-11-29,BSNL FTTH 10122,BSNL,2347.0,Utilities
+2025-01-24,Gas Cylinder 681,Indane,1067.59,Bills
+2024-06-09,Concert Ticket 595,Insider,1353.87,Entertainment
+2025-08-23,Ola Cabs,Ola,250.0,Transport
+2025-01-28,Zomato order 5727,Zomato,491.0,Food & Drink
+2024-02-01,IMPS - House Rent Feb,House Rent,18442.0,Rent
+2024-05-11,Monthly Rent 826,NoBroker,21042.43,Rent
+2023-01-22,Gym Supplement 247,HealthKart,2359.67,Health
+2025-11-03,Starbucks,Starbucks,510.0,Food & Drink
+2023-07-24,Amazon.in Order AMZ10264,Amazon,10352.0,Shopping
+2023-02-12,INOX TICKET 10056,INOX,1048.0,Entertainment
+2023-03-01,Zomato order 5727,Zomato,271.0,Food & Drink
+2023-07-10,Water Tax,CMWSSB,150.0,Utilities
+2024-06-25,Swiggy Foods,Swiggy,600.0,Food & Drink
+2023-01-22,Ola Ride 8931,Ola,257.0,Transport
+2024-03-15,Cafe Coffee Day Bill,Cafe Coffee Day,338.0,Food & Drink
+2025-11-05,TNEB BILL PAY 10166,TNEB,2168.0,Utilities
+2023-02-13,BigBazaar Purchase 10057,BigBazaar,2281.0,Groceries
+2023-07-22,House Rent Jan,House Rent,18200.53,Rent
+2023-02-26,Uber Ride 4880,Uber,181.0,Transport
+2023-08-23,Concert Ticket 339,Insider,1382.84,Entertainment
+2024-05-09,TNEB BILL PAY 10166,TNEB,2168.0,Utilities
+2024-02-28,BigBazaar,BigBazaar,2900.0,Groceries
+2023-02-22,Swiggy Instamart,Swiggy,496.0,Groceries
+2024-10-25,Doctor's Visit,Local Clinic,800.0,Health
+2023-04-03,Myntra,Myntra,3800.0,Shopping
+2023-07-27,Apollo Pharmacy,Apollo Pharmacy,270.0,Health
+2025-05-11,Bowling 563,Amoeba,364.05,Entertainment
+2023-11-04,Lab Test 371,Thyrocare,1173.97,Health
+2025-08-16,Licious Purchase 10059,Licious,1016.0,Groceries
+2024-03-23,Apollo Pharmacy,Apollo Pharmacy,360.0,Health
+2024-03-17,Uber Ride,Uber,290.0,Transport
+2023-12-30,Amazon Prime renewal 10060,Amazon Prime,1499.0,Subscriptions
+2025-05-31,flipkart,Flipkart,1299.0,Shopping
+2025-12-23,Order Blinkit 10035,Blinkit,825.0,Groceries
+2023-04-01,Swiggy order 6554,Ola,381.0,Food & Drink
+2025-04-07,Shell Fuel,Shell,2300.0,Transport
+2023-03-31,Charity Donation 969,Charity,991.17,Miscellaneous
+2023-09-18,UPI to Friend 947,UPI,520.34,Miscellaneous
+2024-04-29,BSNL Bill,BSNL,799.0,Utilities
+2025-01-02,Postpaid Bill 752,Airtel,527.98,Bills
+2025-03-17,Flipkart Order 3266,Flipkart,1671.0,Shopping
+2024-09-02,Uber Trip 20250902,Uber,160.0,Transport
+2023-10-28,Amazon.in,Amazon,1500.0,Shopping
+2025-12-05,Fuel IOCL,Indian Oil,2200.0,Transport
+2023-07-18,Apollo Pharmacy,Apollo Pharmacy,230.0,Health
+2023-10-22,BigBazaar,BigBazaar,2400.0,Groceries
+2024-02-03,Flipkart Order 9815,Flipkart,1671.0,Shopping
+2024-08-29,BigBazaar,BigBazaar,4200.0,Groceries
+2025-02-21,Movie Ticket 343,BookMyShow,282.8,Entertainment
+2023-01-06,Rapido Ride 4945,Rapido,69.0,Transport
+2024-05-12,Croma.com Inv#10170,Croma,6907.0,Shopping
+2024-06-14,Courier Charges 858,DTDC,106.26,Miscellaneous
+2025-02-12,Swiggy Foods,Swiggy,560.0,Food & Drink
+2024-10-08,zomato order,Zomato,210.0,Food & Drink
+2024-12-14,Gift Purchase 152,Archies,416.76,Miscellaneous
+2025-05-29,CMRL Metro Card,Chennai Metro,300.0,Transport
+2023-11-09,Pizza Hut Bill 10130,Pizza Hut,523.0,Food & Drink
+2024-08-08,Steam Purchase 10284,Steam Games,1130.0,Entertainment
+2025-03-19,Broadband Bill 951,ACT Fibernet,953.35,Bills
+2025-06-09,Swiggy,Swiggy,420.0,Food & Drink
+2023-01-06,Pizza Hut Bill,Pizza Hut,592.0,Food & Drink
+2024-02-26,House Rent Feb,House Rent,20000.0,Rent
+2023-05-26,Amazon.in Order AMZ10188,Amazon,570.0,Shopping
+2024-10-21,Zomato,Zomato,500.0,Food & Drink
+2025-06-13,BSNL FTTH,BSNL,799.0,Utilities
+2024-11-23,More Supermarket,More Supermarket,2200.0,Groceries
+2024-02-26,Uber Ride 20250226,Uber,200.0,Transport
+2024-01-25,Doctor Consultation 136,Practo,522.82,Health
+2023-06-28,Credit Card Bill 293,HDFC Bank,5065.87,Bills
+2023-09-22,swiggy order,Swiggy,520.0,Food & Drink
+2025-01-26,Dominos Bill,Dominos,924.0,Food & Drink
+2025-04-13,swiggy food,Swiggy,650.0,Food & Drink
+2025-08-14,Ola Auto 10181,Ola,147.0,Transport
+2025-07-25,Shell Fuel,Shell,1800.0,Transport
+2024-12-31,BigBazaar Purchase 10057,BigBazaar,2281.0,Groceries
+2025-07-03,Credit Card Bill 708,HDFC Bank,4677.78,Bills
+2023-04-28,Repair Services 889,Urban Company,384.32,Miscellaneous
+2023-01-28,Amusement Park 221,Wonderla,1176.93,Entertainment
+2024-03-08,Charity Donation 108,Charity,1020.14,Miscellaneous
+2023-08-21,The Hindu,The Hindu,999.0,Subscriptions
+2025-12-17,House Rent Apr,House Rent,18415.84,Rent
+2024-08-13,Croma.com Inv#10290,Croma,6272.0,Shopping
+2024-12-16,Movie Ticket 794,BookMyShow,315.24,Entertainment
+2023-11-09,Amazon Prime,Amazon Prime,299.0,Subscriptions
+2024-05-14,Jio Postpaid Bill,Jio,499.0,Bills
+2024-10-12,Ola Ride ID10019,Ola,236.0,Transport
+2024-08-14,Zomato,Zomato,410.0,Food & Drink
+2024-07-01,IMPS - House Rent Jul,House Rent,16954.0,Rent
+2023-11-23,Myntra,Myntra,3400.0,Shopping
+2025-08-22,Movie Ticket 204,BookMyShow,322.81,Entertainment
+2025-10-10,MedPlus TRN 10168,MedPlus,1428.0,Health
+2023-11-02,Ola Cabs,Ola,250.0,Transport
+2024-10-30,swiggy,Swiggy,310.0,Food & Drink
+2025-02-21,H&M Retail Purchase,H&M,2727.0,Shopping
+2024-11-09,swiggy food,Swiggy,620.0,Food & Drink
+2025-07-19,ACT Fibernet Bill,ACT Fibernet,1049.0,Utilities
+2023-06-26,UPI to Friend 939,UPI,520.02,Miscellaneous
+2024-11-15,Ola Cabs 2346,Ola,330.0,Transport
+2025-01-24,Lab Test 907,Thyrocare,1181.09,Health
+2024-02-14,Dominos,Dominos,690.0,Food & Drink
+2025-05-08,Rent Payment 552,Owner,19857.48,Rent
+2025-10-13,Apollo Pharmacy,Apollo Pharmacy,600.0,Health
+2025-01-28,BigBazaar Purchase,BigBazaar,2853.0,Groceries
+2025-07-04,Zomato order,Zomato,770.0,Food & Drink
+2024-10-02,Reliance Fresh Pvt Ltd,Reliance Fresh,1250.0,Groceries
+2025-12-11,Dominos Bill,Dominos,912.0,Food & Drink
+2025-07-23,Spotify AB 10263,Spotify,129.0,Subscriptions
+2024-01-30,MedPlus,MedPlus,210.0,Health
+2024-08-19,Dominos Pizza,Dominos,840.0,Food & Drink
+2023-01-18,flipkart,Flipkart,2900.0,Shopping
+2025-07-10,Rapido 2411,Rapido,130.0,Transport
+2025-10-30,BigBazaar,BigBazaar,3300.0,Groceries
+2023-01-07,Reliance Fresh Purchase 10129,Reliance Fresh,3350.0,Groceries
+2024-11-26,IMPS - House Rent Nov,House Rent,22253.0,Rent
+2024-04-02,Water Tax 828,CMWSSB,161.28,Bills
+2023-02-01,Amazon Order 3247,Amazon,2188.0,Shopping
+2023-11-01,Zomato Order #2346,Zomato,410.0,Food & Drink
+2024-01-12,Zomato order 7765,Zomato,628.0,Food & Drink
+2024-06-08,Credit Card Bill 952,HDFC Bank,5383.2,Bills
+2025-10-05,Doctor's Visit,Local Clinic,800.0,Health
+2025-06-14,Swiggy,Swiggy,430.0,Food & Drink
+2024-07-29,Rapido 2407,Rapido,90.0,Transport
+2023-11-21,Amusement Park 942,Wonderla,1192.62,Entertainment
+2025-02-21,Pizza Hut Bill,Pizza Hut,759.0,Food & Drink
+2025-12-24,Charity Donation 897,Charity,955.08,Miscellaneous
+2024-03-18,Dunzo,Dunzo,860.0,Groceries
+2025-01-15,AIRTEL BROADBAND FTTH 10101,Airtel Broadband,1413.0,Utilities
+2025-07-19,AIRTEL RECHARGE 10258,Airtel,220.0,Bills
+2024-01-08,BMS Ticket 10103,BookMyShow,2419.0,Entertainment
+2025-02-01,House Rent Apr,House Rent,21861.96,Rent
+2023-11-17,Water Tax 896,CMWSSB,136.63,Bills
+2025-09-27,Local Tea Stall,Local Tea Shop,70.0,Food & Drink
+2025-11-16,amazon.in,Amazon,999.0,Shopping
+2023-03-21,Zomato order 1629,Zomato,436.0,Food & Drink
+2025-07-14,Apollo Pharmacy,Apollo Pharmacy,290.0,Health
+2025-02-13,Amazon.in,Amazon,1800.0,Shopping
+2025-03-17,Apollo Pharmacy,Apollo Pharmacy,390.0,Health
+2024-10-19,Zomato,Zomato,330.0,Food & Drink
+2024-02-01,NETFLIX.COM 1234,Netflix,199.0,Subscriptions
+2025-09-13,Microsoft 365 renewal 10099,Microsoft 365,712.0,Subscriptions
+2024-12-12,Zomato order 4066,Zomato,517.0,Food & Drink
+2023-03-01,Flipkart Order 2831,Flipkart,2035.0,Shopping
+2023-10-14,Streaming Sub 709,Netflix,209.94,Entertainment
+2025-02-19,zomato,Zomato,300.0,Food & Drink
+2024-11-08,BigBazaar Purchase,BigBazaar,3250.0,Groceries
+2023-03-26,More Supermarket Purchase,More Supermarket,2191.0,Groceries
+2025-10-03,Movie Ticket 705,BookMyShow,301.08,Entertainment
+2025-04-03,Myntra Retail,Myntra,8078.0,Shopping
+2024-02-23,Fuel at Shell,Shell,2762.0,Transport
+2024-11-22,Swiggy,Swiggy,410.0,Food & Drink
+2023-01-27,ORDER BLINKIT 10035,Blinkit,825.0,Groceries
+2025-06-18,Apollo Pharmacy TRN 10217,Apollo Pharmacy,2425.0,Health
+2025-10-27,Ola Ride,Ola,240.0,Transport
+2024-01-17,Doctor Visit,Local Clinic,1236.0,Health
+2025-06-26,Streaming Sub 229,Netflix,204.08,Entertainment
+2025-10-29,Apollo Pharmacy,Apollo Pharmacy,550.0,Health
+2023-06-25,Repair Services 969,Urban Company,437.5,Miscellaneous
+2024-04-27,Shell Fuel,Shell,2000.0,Transport
+2023-03-04,Rapido Ride 7349,Rapido,145.0,Transport
+2023-08-07,Payment to McDonald's,McDonald's,1166.0,Food & Drink
+2024-11-21,BigBazaar,BigBazaar,2600.0,Groceries
+2025-07-07,Postpaid Bill 853,Airtel,452.59,Bills
+2024-01-09,Uber Auto 10181,Uber,147.0,Transport
+2025-12-08,Amusement Park 461,Wonderla,1135.21,Entertainment
+2023-01-24,Uber Ride 7414,Uber,143.0,Transport
+2025-12-08,MedPlus Bill,MedPlus,370.0,Health
+2023-10-23,Swiggy,Swiggy,390.0,Food & Drink
+2025-03-17,Swiggy order 7741,Swiggy,324.0,Food & Drink
+2023-11-06,PG Rent Jan,Stanza Living,8242.25,Rent
+2025-02-15,More Supermarket Purchase,More Supermarket,2250.0,Groceries
+2023-10-18,Gym Supplement 258,HealthKart,2417.59,Health
+2023-05-11,Flat Rent Oct,Landlord,17378.66,Rent
+2023-06-19,swiggy,Swiggy,400.0,Food & Drink
+2024-01-13,More Supermarket,More Supermarket,2500.0,Groceries
+2023-11-17,Mobile Recharge 750,Jio,290.45,Bills
+2025-03-14,Swiggy order 6931,Zomato,236.0,Food & Drink
+2024-04-21,Water Tax 381,CMWSSB,138.22,Bills
+2025-11-25,Groceries from Dunzo,Dunzo,950.0,Groceries
+2023-08-11,Rent Payment 471,Owner,22034.74,Rent
+2023-01-30,Pizza Hut Bill,Pizza Hut,569.0,Food & Drink
+2024-10-28,Swiggy Instamart,Swiggy,420.0,Groceries
+2023-03-02,Courier Charges 986,DTDC,90.29,Miscellaneous
+2025-01-01,Rent Payment 539,Owner,21949.37,Rent
+2023-09-01,Medicines 677,Apollo,322.39,Health
+2025-04-30,swiggy instamart,Swiggy,450.0,Groceries
+2023-03-17,Uber Auto,Uber,150.0,Transport
+2023-10-13,PVR Cinemas,PVR Cinemas,490.0,Entertainment
+2025-02-21,Water Tax 254,CMWSSB,163.51,Bills
+2023-03-10,Licious Purchase,Licious,812.0,Groceries
+2025-02-03,Fuel at Indian Oil,Indian Oil,1730.0,Transport
+2024-03-20,Gym Membership,Fitness First,2500.0,Health
+2024-12-21,Swiggy Instamart,Swiggy,509.0,Groceries
+2023-11-15,AIRTEL RECHARGE 10131,Airtel,220.0,Bills
+2024-03-19,Gas Cylinder 455,Indane,1029.18,Bills
+2024-12-10,Myntra Order 6389,Myntra,3752.0,Shopping
+2023-01-19,Dunzo Groceries,Dunzo,1186.0,Groceries
+2023-07-05,JIO RECHARGE 10239,Jio,752.0,Bills
+2024-04-10,Cafe Coffee Day,Cafe Coffee Day,380.0,Food & Drink
+2024-06-08,Gaming Currency 889,Steam,521.22,Entertainment
+2025-05-02,House Rent,House Rent,22000.0,Rent
+2023-09-30,Order #10119 from Zomato,Zomato,714.0,Food & Drink
+2025-12-11,Swiggy order 2351,Swiggy,733.0,Food & Drink
+2024-09-06,Courier Charges 613,DTDC,108.34,Miscellaneous
+2023-12-21,Concert Ticket 995,Insider,1421.3,Entertainment
+2025-03-24,Ola Ride 4181,Ola,161.0,Transport
+2023-05-12,Gym Supplement 817,HealthKart,2291.7,Health
+2025-10-19,Milk delivery,Local Mart,1200.0,Groceries
+2025-06-30,Concert Ticket 405,Insider,1390.04,Entertainment
+2025-11-11,INOX TICKET 10056,INOX,1048.0,Entertainment
+2023-02-21,Uber Ride 20250221,Uber,170.0,Transport
+2024-01-28,Payment to Cafe Coffee Day,Cafe Coffee Day,779.0,Food & Drink
+2024-03-14,Gift Purchase 375,Archies,470.86,Miscellaneous
+2024-10-24,Amazon Prime,Amazon Prime,299.0,Subscriptions
+2023-11-22,Gas Cylinder 714,Indane,1018.35,Bills
+2024-02-24,Printout 470,Xerox Shop,54.96,Miscellaneous
+2024-05-07,House Rent,House Rent,22000.0,Rent
+2023-03-12,Cafe Coffee Day Bill,Cafe Coffee Day,294.0,Food & Drink
+2023-08-18,Ola Cabs,Ola,270.0,Transport
+2025-12-21,Repair Services 799,Urban Company,409.36,Miscellaneous
+2025-01-10,Amazon Prime renewal,Amazon Prime,299.0,Subscriptions
+2024-03-02,Water Tax 515,CMWSSB,157.28,Bills
+2023-07-16,H&M RETAIL,H&M,3029.0,Shopping
+2024-03-13,Ola Ride 7083,Ola,252.0,Transport
+2025-07-27,Starbucks,Starbucks,560.0,Food & Drink
+2023-04-21,Gaming Currency 330,Steam,468.34,Entertainment
+2024-08-22,Courier Charges 165,DTDC,93.82,Miscellaneous
+2023-05-20,BMS Ticket 10180,BookMyShow,2419.0,Entertainment
+2023-06-10,Monthly Rent 988,NoBroker,18222.55,Rent
+2024-06-20,Lab Test 836,Thyrocare,1107.03,Health
+2023-02-28,Myntra Order 4976,Myntra,1673.0,Shopping
+2025-03-14,Ola Ride ID10094,Ola,233.0,Transport
+2025-09-30,TNEB Bill,TNEB,1250.0,Utilities
+2023-04-19,swiggy food,Swiggy,690.0,Food & Drink
+2025-02-06,Rapido,Rapido,170.0,Transport
+2024-12-18,JIO RECHARGE 10052,Jio,290.0,Bills
+2024-01-08,ACT Fibernet Bill,ACT Fibernet,1049.0,Utilities
+2025-02-15,Swiggy order 7760,Swiggy,748.0,Food & Drink
+2025-02-19,PG Rent Sep,Stanza Living,7467.58,Rent
+2023-12-27,Swiggy order 3591,Swiggy,517.0,Food & Drink
+2024-10-17,Ola Cabs 2354,Ola,350.0,Transport
+2024-02-14,Amazon.in,Amazon,2400.0,Shopping
+2023-10-11,Apollo Pharmacy,Apollo Pharmacy,640.0,Health
+2023-01-15,BigBazaar Purchase,BigBazaar,2789.0,Groceries
+2023-01-31,ORDER #10040 FROM SWIGGY,Swiggy,437.0,Food & Drink
+2025-01-11,CMRL Metro Card Recharge,Chennai Metro,353.0,Transport
+2023-07-30,Credit Card Bill 992,HDFC Bank,4519.54,Bills
+2024-05-19,Streaming Sub 111,Netflix,182.34,Entertainment
+2024-01-04,Swiggy Instamart,Swiggy,519.0,Groceries
+2025-03-21,FLIPKART Order FK2408,Flipkart,610.0,Shopping
+2025-09-10,Amazon.in Order AMZ932,Amazon,2299.0,Shopping
+2025-07-23,Netflix,Netflix,199.0,Subscriptions
+2024-07-11,Rapido Ride ID10247,Rapido,124.0,Transport
+2023-03-23,Groceries from Dunzo,Dunzo,960.0,Groceries
+2025-03-09,Rapido Ride 7644,Rapido,124.0,Transport
+2023-10-18,Charity Donation 544,Charity,1040.72,Miscellaneous
+2023-06-06,Licious Purchase 10201,Licious,751.0,Groceries
+2024-10-13,Gift Purchase 432,Archies,480.68,Miscellaneous
+2023-09-05,Amazon.in Order AMZ933,Amazon,2399.0,Shopping
+2024-05-30,Flat Rent Jan,Landlord,19659.64,Rent
+2025-01-30,Order Dunzo 10039,Dunzo,1065.0,Groceries
+2023-04-19,BSNL Bill,BSNL,799.0,Utilities
+2024-04-01,Zomato order 7226,Swiggy,411.0,Food & Drink
+2025-12-06,NETMEDS BILL,Netmeds,2541.0,Health
+2025-12-22,Amazon Order 8361,Amazon,2138.0,Shopping
+2023-09-12,Reliance Fresh,Reliance Fresh,1100.0,Groceries
+2025-09-30,Electricity Bill 605,TNEB,1159.32,Bills
+2025-10-17,amazon.in purchase,Amazon,899.0,Shopping
+2025-08-27,RAPIDO RIDE 2315,Rapido,110.0,Transport
+2023-11-28,Dental Checkup 250,Clove Dental,741.71,Health
+2024-05-22,Stationery 445,Local Shop,119.51,Miscellaneous
+2023-08-05,Repair Services 377,Urban Company,384.61,Miscellaneous
+2025-01-23,Courier Charges 442,DTDC,105.42,Miscellaneous
+2023-05-09,UPI to Friend 705,UPI,455.87,Miscellaneous
+2023-05-20,Rent Payment 412,Owner,21138.29,Rent
+2025-01-05,Lab Test 918,Thyrocare,1280.38,Health
+2024-10-04,PG Rent Apr,Stanza Living,8554.23,Rent
+2023-02-20,Croma.com Inv#10066,Croma,6511.0,Shopping
+2024-04-03,Cafe Coffee Day Bill,Cafe Coffee Day,483.0,Food & Drink
+2024-09-23,Zomato order 9933,Zomato,340.0,Food & Drink
+2024-05-09,Cafe Coffee Day,Cafe Coffee Day,390.0,Food & Drink
+2023-10-12,swiggy instamart,Swiggy,350.0,Groceries
+2024-03-11,ZARA Retail Purchase,Zara,4311.0,Shopping
+2024-05-04,Reliance Fresh,Reliance Fresh,980.0,Groceries
+2025-03-13,uber trip,Uber,210.0,Transport
+2024-06-03,Swiggy,Swiggy,440.0,Food & Drink
+2025-10-13,Uber Auto,Uber,110.0,Transport
+2024-02-06,Streaming Sub 184,Netflix,213.51,Entertainment
+2025-03-21,PVR Cinemas Transaction,PVR Cinemas,661.0,Entertainment
+2025-12-16,The Hindu Subscription,The Hindu,999.0,Subscriptions
+2025-07-25,Netflix,Netflix,199.0,Subscriptions
+2025-11-18,Medicines 552,Apollo,332.03,Health
+2025-03-01,Concert Ticket 870,Insider,1585.01,Entertainment
+2024-07-08,Apollo Pharmacy,Apollo Pharmacy,250.0,Health
+2024-01-20,amazon.in,Amazon,1499.0,Shopping
+2025-06-12,Croma.com Inv#10209,Croma,6907.0,Shopping
+2023-02-27,Fuel at IOCL,Indian Oil,3000.0,Transport
+2024-04-08,Myntra,Myntra,4100.0,Shopping
+2023-10-20,Amazon Prime,Amazon Prime,299.0,Subscriptions
+2023-09-27,Flipkart Order FK10004,Flipkart,3891.0,Shopping
+2024-01-16,MedPlus Bill,MedPlus,390.0,Health
+2024-08-30,Gift Purchase 413,Archies,484.13,Miscellaneous
+2023-01-05,House Rent,House Rent,22000.0,Rent
+2023-02-03,Swiggy order 5725,Swiggy,517.0,Food & Drink
+2024-12-15,Ola Ride 7083,Ola,257.0,Transport
+2024-01-30,Apollo Pharmacy Bill,Apollo Pharmacy,437.0,Health
+2023-12-09,Myntra Order 4731,Myntra,2068.0,Shopping
+2024-08-09,amazon pay,Amazon,830.0,Shopping
+2024-08-03,Fuel at IOCL Bill 10277,Indian Oil,2955.0,Transport
+2025-04-14,Order Dunzo 10134,Dunzo,873.0,Groceries
+2024-11-12,swiggy instamart,Swiggy,380.0,Groceries
+2024-06-14,Courier Charges 951,DTDC,107.39,Miscellaneous
+2025-09-11,RAPIDO RIDE ID10171,Rapido,133.0,Transport
+2024-12-28,More Supermarket Purchase,More Supermarket,2191.0,Groceries
+2023-11-29,Charity Donation 571,Charity,1002.79,Miscellaneous
+2023-05-28,Reliance Fresh,Reliance Fresh,1080.0,Groceries
+2024-11-29,Monthly Rent 439,NoBroker,19211.62,Rent
+2023-09-27,Streaming Sub 774,Netflix,204.85,Entertainment
+2024-11-30,Rapido,Rapido,120.0,Transport
+2025-02-04,House Rent Oct,House Rent,18593.85,Rent
+2023-10-23,Uber,Uber,180.0,Transport
+2023-09-03,BigBazaar Purchase,BigBazaar,3900.0,Groceries
+2025-12-15,Flat Rent Aug,Landlord,18947.96,Rent
+2023-04-25,Gym Membership,Fitness First,2500.0,Health
+2025-10-25,Bowling 519,Amoeba,434.33,Entertainment
+2024-10-11,Broadband Bill 359,ACT Fibernet,1017.29,Bills
+2023-12-07,RAPIDO RIDE 2311,Rapido,115.0,Transport
+2025-01-28,KFC BILL 10161,KFC,601.0,Food & Drink
+2025-02-24,Licious,Licious,700.0,Groceries
+2025-04-05,PVR Cinemas Ticket 10123,PVR Cinemas,953.0,Entertainment
+2024-03-07,SWIGGY FOODS,Swiggy,742.0,Food & Drink
+2024-01-12,Local Tea Shop Bill,Local Tea Shop,76.0,Food & Drink
+2023-03-07,Rent Payment 336,Owner,22000.35,Rent
+2024-01-05,flipkart,Flipkart,3100.0,Shopping
+2025-10-28,Order Blinkit 10157,Blinkit,781.0,Groceries
+2025-04-27,Water Tax CMWSSB,CMWSSB,234.0,Utilities
+2023-01-31,Pizza Hut,Pizza Hut,960.0,Food & Drink
+2024-01-02,Zomato Order #2348,Zomato,510.0,Food & Drink
+2023-08-19,Disney+ Hotstar,Hotstar,499.0,Subscriptions
+2025-01-27,flipkart,Flipkart,3000.0,Shopping
+2023-01-14,More Supermarket,More Supermarket,2250.0,Groceries
+2023-04-26,swiggy food,Swiggy,680.0,Food & Drink
+2023-08-24,Concert Ticket 411,Insider,1358.38,Entertainment
+2025-01-21,ZARA Retail Purchase,Zara,4818.0,Shopping
+2024-09-23,UPI to Friend,Miscellaneous,5000.0,Miscellaneous
+2024-03-03,Uber Auto,Uber,170.0,Transport
+2023-05-23,UPI to Friend 10184,Miscellaneous,6500.0,Miscellaneous
+2024-12-13,Disney+ Hotstar,Hotstar,499.0,Subscriptions
+2024-11-21,amazon pay,Amazon,800.0,Shopping
+2024-10-09,Gaming Currency 132,Steam,450.06,Entertainment
+2023-06-30,TNEB Bill Pay,TNEB,1390.0,Utilities
+2024-10-25,Monthly Rent 792,NoBroker,18505.03,Rent
+2023-05-22,Repair Services 625,Urban Company,368.76,Miscellaneous
+2023-09-28,Doctor Visit,Local Clinic,1236.0,Health
+2025-07-17,Zomato Order #2351,Zomato,370.0,Food & Drink
+2025-03-26,House Rent Mar,House Rent,20000.0,Rent
+2023-02-04,CMRL TOPUP 10046,Chennai Metro,453.0,Transport
+2024-02-22,Fuel IOCL,Indian Oil,2300.0,Transport
+2024-10-22,Spotify AB 92392,Spotify,119.0,Subscriptions
+2024-02-08,Amazon.in,Amazon,2100.0,Shopping
+2023-11-19,Spotify AB 10110,Spotify,129.0,Subscriptions
+2025-06-13,Gift Purchase 756,Archies,468.79,Miscellaneous
+2024-08-04,Licious Purchase 10279,Licious,995.0,Groceries
+2025-04-06,Postpaid Bill 941,Airtel,476.58,Bills
+2023-02-13,PVR Cinemas Transaction,PVR Cinemas,697.0,Entertainment
+2023-08-10,IMPS - Rent Aug,House Rent,22000.0,Rent
+2024-10-01,NETFLIX.COM,Netflix,199.0,Subscriptions
+2024-07-18,Order Dunzo 10257,Dunzo,873.0,Groceries
+2023-11-24,TNEB Bill,TNEB,1050.0,Utilities
+2023-05-27,Printout 763,Xerox Shop,48.47,Miscellaneous
+2025-02-11,Gas Cylinder 782,Indane,1178.37,Bills
+2024-03-08,uber auto,Uber,105.0,Transport
+2024-04-04,Uber Ride 5262,Uber,217.0,Transport
+2025-02-20,Myntra Order 1930,Myntra,3333.0,Shopping
+2024-02-28,Doctor Consultation 934,Practo,500.84,Health
+2024-09-17,BookMyShow,BookMyShow,830.0,Entertainment
+2024-04-04,Swiggy Instamart,Swiggy,519.0,Groceries
+2024-01-10,Monthly Rent 874,NoBroker,19456.54,Rent
+2024-02-21,Fuel IOCL,Indian Oil,2800.0,Transport
+2023-03-25,TNEB Bill,TNEB,1227.0,Utilities
+2025-02-07,More Supermarket Store Bill,More Supermarket,2924.0,Groceries
+2024-01-07,More Supermarket,More Supermarket,1950.0,Groceries
+2023-02-15,Milk delivery,Local Mart,1280.0,Groceries
+2024-03-22,NETFLIX.COM 5678,Netflix,199.0,Subscriptions
+2023-10-02,Doctor's Visit,Local Clinic,800.0,Health
+2023-02-02,Rapido,Rapido,125.0,Transport
+2023-03-04,Uber Ride 7644,Uber,323.0,Transport
+2024-06-30,Swiggy,Swiggy,470.0,Food & Drink
+2025-09-14,Apollo Pharmacy,Apollo Pharmacy,580.0,Health
+2023-12-12,Gym Supplement 645,HealthKart,2416.41,Health
+2023-03-13,PVR Cinemas,PVR Cinemas,670.0,Entertainment
+2024-01-22,Payment to Starbucks,Starbucks,1065.0,Food & Drink
+2024-12-06,Rent Payment 113,Owner,21414.38,Rent
+2024-05-26,Printout 519,Xerox Shop,52.23,Miscellaneous
+2025-01-07,Myntra Order 2649,Myntra,2908.0,Shopping
+2023-12-17,Swiggy order 7765,Swiggy,519.0,Food & Drink
+2025-05-27,House Rent,House Rent,22000.0,Rent
+2024-02-24,Swiggy order 8410,Swiggy,610.0,Food & Drink
+2024-12-20,Movie Ticket 935,BookMyShow,282.99,Entertainment
+2023-08-11,NETMEDS BILL,Netmeds,2541.0,Health
+2024-12-20,Mobile Recharge 121,Jio,311.2,Bills
+2025-09-08,Flat Rent Aug,Landlord,17971.53,Rent
+2023-06-10,Uber,Uber,140.0,Transport
+2025-11-08,NETMEDS BILL,Netmeds,2035.0,Health
+2023-06-26,PAYMENT TO MCDONALD'S,McDonald's,836.0,Food & Drink
+2023-10-12,Printout 709,Xerox Shop,54.83,Miscellaneous
+2024-01-20,More Supermarket,More Supermarket,2000.0,Groceries
+2023-09-06,Medicines 441,Apollo,327.0,Health
+2023-01-24,Uber Ride 8443,Uber,220.0,Transport
+2023-07-28,Zomato order,Zomato,780.0,Food & Drink
+2024-09-10,UPI to Friend,Miscellaneous,3000.0,Miscellaneous
+2025-03-31,Flipkart Order 2062,Flipkart,4334.0,Shopping
+2025-01-03,Dominos Bill,Dominos,773.0,Food & Drink
+2025-06-19,Amazon.in Order AMZ10219,Amazon,1818.0,Shopping
+2024-12-18,Ola Ride 9390,Ola,282.0,Transport
+2024-05-01,IMPS - House Rent May,House Rent,18490.0,Rent
+2024-05-30,Zomato order 5833,Zomato,530.0,Food & Drink
+2025-10-09,Gaming Currency 486,Steam,504.01,Entertainment
+2023-08-13,BigBazaar,BigBazaar,4100.0,Groceries
+2023-09-17,Charity Donation 403,Charity,1084.78,Miscellaneous
+2024-12-25,Gym Supplement 672,HealthKart,2380.61,Health
+2025-10-08,Rapido,Rapido,115.0,Transport
+2024-09-06,Amusement Park 362,Wonderla,1244.92,Entertainment
+2023-01-24,Dominos Pizza,Dominos,820.0,Food & Drink
+2024-05-18,Steam Purchase,Steam Games,1499.0,Entertainment
+2025-09-10,Swiggy Instamart,Swiggy,510.0,Groceries
+2025-11-25,Subscr The Hindu,The Hindu,1299.0,Subscriptions
+2025-06-03,Fuel at IOCL Bill 10198,Indian Oil,2083.0,Transport
+2025-08-20,Disney+ Hotstar,Hotstar,499.0,Subscriptions
+2025-10-12,Credit Card Bill 456,HDFC Bank,4998.71,Bills
+2023-07-11,Ola Cabs 2351,Ola,215.0,Transport
+2024-01-08,flipkart,Flipkart,1700.0,Shopping
+2025-08-06,RAPIDO RIDE 2316,Rapido,100.0,Transport
+2023-03-13,uber auto,Uber,155.0,Transport
+2023-01-10,Zomato order 2516,Zomato,316.0,Food & Drink
+2023-07-06,Postpaid Bill 241,Airtel,507.67,Bills
+2023-07-13,Pizza Hut Bill 10250,Pizza Hut,523.0,Food & Drink
+2024-03-22,Pizza Hut Bill,Pizza Hut,546.0,Food & Drink
+2023-02-02,Swiggy Instamart,Swiggy,422.0,Groceries
+2024-08-01,H&M Purchase,H&M,2799.0,Shopping
+2023-04-26,swiggy food,Swiggy,630.0,Food & Drink
+2024-01-13,Swiggy order 7226,Swiggy,411.0,Food & Drink
+2025-03-11,Postpaid Bill 395,Airtel,479.39,Bills
+2024-12-06,Dunzo,Dunzo,850.0,Groceries
+2024-02-25,uber auto,Uber,110.0,Transport
+2025-04-19,Flat Rent Sep,Landlord,17038.78,Rent
+2023-03-02,Apollo Pharmacy Bill,Apollo Pharmacy,472.0,Health
+2024-05-20,Zomato order 5831,Zomato,510.0,Food & Drink
+2024-04-25,Reliance Digital Retail,Reliance Digital,7029.0,Shopping
+2025-04-21,Gaming Currency 298,Steam,548.63,Entertainment
+2025-02-20,Google Cloud,Google,150.0,Subscriptions
+2025-01-15,Dominos Bill,Dominos,828.0,Food & Drink
+2024-01-20,Google Cloud,Google,150.0,Subscriptions
+2025-12-20,Cafe Coffee Day Bill,Cafe Coffee Day,294.0,Food & Drink
+2025-10-16,The Hindu Subscription,The Hindu,999.0,Subscriptions
+2024-10-21,UPI to Friend 657,UPI,538.97,Miscellaneous
+2024-08-04,amazon pay,Amazon,820.0,Shopping
+2023-10-19,Apollo Pharmacy,Apollo Pharmacy,620.0,Health
+2023-09-19,TNEB Bill,TNEB,1150.0,Utilities
+2024-10-28,BMS TICKET 10152,BookMyShow,1619.0,Entertainment
+2025-03-16,BigBazaar Purchase,BigBazaar,2068.0,Groceries
+2023-01-15,Stationery 469,Local Shop,129.88,Miscellaneous
+2023-06-28,House Rent Oct,House Rent,21367.0,Rent
+2025-10-23,Rapido Auto 10153,Rapido,140.0,Transport
+2024-08-22,Reliance Fresh,Reliance Fresh,1050.0,Groceries
+2024-01-21,Swiggy order 7731,Swiggy,234.0,Food & Drink
+2025-05-29,Bowling 177,Amoeba,361.14,Entertainment
+2025-10-23,Broadband Bill 724,ACT Fibernet,987.72,Bills
+2023-03-17,Dominos Bill 10098,Dominos,878.0,Food & Drink
+2023-03-26,Zomato,Zomato,380.0,Food & Drink
+2023-02-13,PG Rent Jan,Stanza Living,8056.63,Rent
+2024-01-15,Reliance Fresh Purchase,Reliance Fresh,2291.0,Groceries
+2024-05-23,MedPlus,MedPlus,160.0,Health
+2023-10-10,Amazon Prime,Amazon Prime,299.0,Subscriptions
+2025-03-26,Spotify AB 10110,Spotify,129.0,Subscriptions
+2024-12-12,Streaming Sub 483,Netflix,198.27,Entertainment
+2025-02-18,Apollo Pharmacy Bill,Apollo Pharmacy,469.0,Health
+2023-06-21,Subscr Google,Google,130.0,Subscriptions
+2025-06-09,Amazon.in Order AMZ10206,Amazon,5215.0,Shopping
+2024-10-19,Mobile Recharge,Airtel,239.0,Bills
+2023-02-17,Gym Supplement 833,HealthKart,2535.27,Health
+2025-12-23,Licious Purchase,Licious,812.0,Groceries
+2025-04-03,Fuel at Indian Oil,Indian Oil,2228.0,Transport
+2023-03-26,PVR Cinemas,PVR Cinemas,660.0,Entertainment
+2025-02-28,Uber Ride 5294,Uber,156.0,Transport
+2025-06-26,Stationery 353,Local Shop,130.6,Miscellaneous
+2025-01-29,MedPlus TRN 10168,MedPlus,1428.0,Health
+2025-10-17,Apollo Pharmacy,Apollo Pharmacy,200.0,Health
+2024-07-22,Monthly Rent 739,NoBroker,18657.58,Rent
+2023-07-05,Uber Trip 10240,Uber,159.0,Transport
+2023-03-10,Amazon Prime renewal,Amazon Prime,299.0,Subscriptions
+2023-01-17,flipkart,Flipkart,2600.0,Shopping
+2024-07-24,Rent Payment 766,Owner,21506.92,Rent
+2024-10-15,Dental Checkup 635,Clove Dental,789.0,Health
+2024-06-24,Stationery 338,Local Shop,114.23,Miscellaneous
+2024-03-16,The Hindu Subscription,The Hindu,999.0,Subscriptions
+2025-12-14,Zomato order 8318,Zomato,529.0,Food & Drink
+2024-03-04,H&M Retail Purchase,H&M,3029.0,Shopping
+2024-11-03,Amazon.in Order AMZ924,Amazon,1999.0,Shopping
+2023-12-07,zomato,Zomato,250.0,Food & Drink
+2023-05-05,KFC Bill 10161,KFC,601.0,Food & Drink
+2024-03-07,Dominos Bill,Dominos,724.0,Food & Drink
+2024-03-16,Swiggy order 7765,Swiggy,519.0,Food & Drink
+2023-12-20,Stationery 957,Local Shop,125.33,Miscellaneous
+2023-03-27,Rapido Ride 4945,Rapido,141.0,Transport
+2024-03-23,Cafe Coffee Day Bill,Cafe Coffee Day,391.0,Food & Drink
+2023-10-26,Ola Cabs 2359,Ola,400.0,Transport
+2023-07-01,Amazon.in Order AMZ10235,Amazon,10850.0,Shopping
+2025-06-13,Milk delivery,Local Mart,1300.0,Groceries
+2025-04-11,Electricity Bill 806,TNEB,1105.06,Bills
+2024-02-07,BigBazaar,BigBazaar,2700.0,Groceries
+2023-10-27,Repair Services 980,Urban Company,389.93,Miscellaneous
+2024-03-07,Local Tea Stall,Local Tea Shop,20.0,Food & Drink
+2025-12-23,Starbucks Bill,Starbucks,699.0,Food & Drink
+2023-02-10,Dominos Bill,Dominos,878.0,Food & Drink
+2024-01-19,Subscr GitHub,GitHub,575.0,Subscriptions
+2025-10-26,Ola Cabs 2353,Ola,340.0,Transport
+2024-06-10,KFC BILL 10207,KFC,601.0,Food & Drink
+2024-03-11,Postpaid Bill 126,Airtel,478.16,Bills
+2024-12-29,BSNL Bill,BSNL,800.0,Utilities
+2023-02-17,TNEB Bill Pay 10063,TNEB,2661.0,Utilities
+2024-01-29,Zomato order 7411,Zomato,616.0,Food & Drink
+2023-05-23,CMRL Metro Card,Chennai Metro,300.0,Transport
+2023-04-14,Spotify AB 92390,Spotify,119.0,Subscriptions
+2025-11-25,Uber,Uber,130.0,Transport
+2025-02-05,PVR Cinemas,PVR Cinemas,510.0,Entertainment
+2023-03-24,Flat Rent Oct,Landlord,19308.1,Rent
+2024-01-19,Milk delivery,Local Mart,1200.0,Groceries
+2023-07-31,Subscr The Hindu,The Hindu,1299.0,Subscriptions
+2023-01-23,Fuel at Shell,Shell,2844.0,Transport
+2024-01-30,Uber Ride 7234,Uber,154.0,Transport
+2023-09-17,Reliance Fresh Purchase 10129,Reliance Fresh,3350.0,Groceries
+2024-10-15,Uber,Uber,150.0,Transport
+2025-02-17,Uber Ride 8056,Uber,234.0,Transport
+2023-07-26,Myntra Order MYN1014,Myntra,2699.0,Shopping
+2024-03-28,Myntra Order 4443,Myntra,3752.0,Shopping
+2023-01-03,Myntra Order 4443,Myntra,3343.0,Shopping
+2025-01-30,Croma.com Inv#10170,Croma,6907.0,Shopping
+2025-01-09,Pizza Hut Bill,Pizza Hut,511.0,Food & Drink
+2024-10-24,Myntra,Myntra,3200.0,Shopping
+2025-09-18,Printout 725,Xerox Shop,48.55,Miscellaneous
+2025-05-26,Credit Card Bill 285,HDFC Bank,4520.64,Bills
+2024-10-12,More Supermarket,More Supermarket,1800.0,Groceries
+2025-07-12,Apollo Pharmacy,Apollo Pharmacy,240.0,Health
+2023-06-27,Purchase H&M 10229,H&M,4224.0,Shopping
+2023-07-29,DECATHLON RETAIL,Decathlon,4471.0,Shopping
+2024-02-27,Swiggy order 8709,Swiggy,260.0,Food & Drink
+2024-11-06,Flat Rent Apr,Landlord,16809.43,Rent
+2023-01-12,Medicines 315,Apollo,316.63,Health
+2025-02-23,Uber Ride 20250223,Uber,180.0,Transport
+2024-07-02,Gaming Currency 620,Steam,497.05,Entertainment
+2024-10-18,Apollo Pharmacy,Apollo Pharmacy,650.0,Health
+2023-01-30,TNEB Bill Pay,TNEB,1420.0,Utilities
+2025-04-06,swiggy instamart,Swiggy,440.0,Groceries
+2023-05-11,BigBazaar Purchase 10169,BigBazaar,1099.0,Groceries
+2024-03-21,Apollo Pharmacy Bill,Apollo Pharmacy,648.0,Health
+2025-09-10,Zomato order 9931,Zomato,320.0,Food & Drink
+2023-03-07,Spotify AB 923XX,Spotify,119.0,Subscriptions
+2025-05-25,Printout 994,Xerox Shop,50.42,Miscellaneous
+2024-01-27,MedPlus Bill,MedPlus,455.0,Health
+2024-02-25,PVR Cinemas,PVR Cinemas,530.0,Entertainment
+2024-07-16,Water Tax,CMWSSB,150.0,Utilities
+2025-01-06,Postpaid Bill 113,Airtel,450.57,Bills
+2023-01-13,Order Dunzo 10039,Dunzo,1065.0,Groceries
+2023-01-05,Zomato order 9924,Zomato,526.0,Food & Drink
+2025-08-28,Rapido Auto 10032,Rapido,140.0,Transport
+2025-12-04,Rapido Ride ID10125,Rapido,124.0,Transport
+2023-04-12,Bowling 707,Amoeba,385.55,Entertainment
+2024-01-04,Charity Donation 705,Charity,1099.56,Miscellaneous
+2023-02-04,Swiggy order 1804,Swiggy,622.0,Food & Drink
+2023-01-22,flipkart,Flipkart,2500.0,Shopping
+2025-12-12,Bill BSNL ID 10138,BSNL,2315.0,Utilities
+2024-01-19,Amazon.in Order AMZ10025,Amazon,9874.0,Shopping
+2025-02-22,NETFLIX.COM 5678,Netflix,199.0,Subscriptions
+2024-02-06,zomato order,Zomato,650.0,Food & Drink
+2024-02-09,Water Tax 202,CMWSSB,163.62,Bills
+2025-12-01,Uber Trip 20251201,Uber,190.0,Transport
+2025-03-06,Myntra Order 6389,Myntra,2097.0,Shopping
+2024-02-05,Uber Ride 20250205,Uber,220.0,Transport
+2023-09-07,TNEB Bill,TNEB,1200.0,Utilities
+2023-04-01,swiggy food,Swiggy,660.0,Food & Drink
+2024-12-02,Credit Card Bill 229,HDFC Bank,4897.4,Bills
+2025-09-14,BigBazaar Purchase,BigBazaar,3500.0,Groceries
+2023-12-20,Gym Membership,Fitness First,2500.0,Health
+2025-01-16,Cafe Coffee Day Bill,Cafe Coffee Day,362.0,Food & Drink
+2024-11-16,Shell Fuel,Shell,1600.0,Transport
+2023-01-14,More Supermarket,More Supermarket,2300.0,Groceries
+2024-08-11,More Supermarket,More Supermarket,2350.0,Groceries
+2023-01-12,flipkart,Flipkart,1500.0,Shopping
+2025-09-15,Amazon.in Order AMZ10176,Amazon,1818.0,Shopping
+2023-03-19,AIRTEL BROADBAND FTTH 10101,Airtel Broadband,1413.0,Utilities
+2023-01-26,Reliance Fresh Purchase,Reliance Fresh,1085.0,Groceries
+2024-10-07,RAPIDO RIDE 2309,Rapido,95.0,Transport
+2025-12-05,Amazon.in Order AMZ10127,Amazon,5159.0,Shopping
+2023-03-18,Ola Ride 2471,Ola,282.0,Transport
+2025-09-02,Swiggy Instamart,Swiggy,470.0,Groceries
+2024-09-19,Gas Cylinder 165,Indane,1163.19,Bills
+2025-03-14,Myntra Order 2649,Myntra,2352.0,Shopping
+2025-08-06,Disney+ Hotstar,Hotstar,499.0,Subscriptions
+2025-08-04,BookMyShow,BookMyShow,890.0,Entertainment
+2023-03-29,Swiggy order 3881,Uber,214.0,Food & Drink
+2023-01-28,Amazon.in Order AMZ10160,Amazon,5215.0,Shopping
+2025-07-03,Netflix.COM 10237,Netflix,649.0,Subscriptions
+2024-08-12,BigBazaar,BigBazaar,3900.0,Groceries
+2025-09-27,TNEB Bill,TNEB,1100.0,Utilities
+2025-08-05,PVR Cinemas Ticket 10280,PVR Cinemas,953.0,Entertainment
+2023-12-21,Rapido Auto 10032,Rapido,140.0,Transport
+2024-11-22,uber trip,Uber,200.0,Transport
+2023-12-04,IMPS - Rent Dec,House Rent,20000.0,Rent
+2024-01-21,Apollo Pharmacy,Apollo Pharmacy,430.0,Health
+2025-04-06,Broadband Bill 706,ACT Fibernet,1075.74,Bills
+2023-02-18,Amazon Order 5493,Amazon,4326.0,Shopping
+2024-12-10,ATM WITHDRAWAL 10136,ATM,11500.0,Miscellaneous
+2025-03-06,Fuel at Indian Oil,Indian Oil,2009.0,Transport
+2025-12-11,Swiggy Instamart,Swiggy,304.0,Groceries
+2024-02-24,Licious,Licious,730.0,Groceries
+2024-07-30,Gaming Currency 238,Steam,539.04,Entertainment
+2023-12-31,Starbucks Bill,Starbucks,610.0,Food & Drink
+2024-08-17,amazon pay,Amazon,860.0,Shopping
+2024-11-24,BigBazaar Purchase 10057,BigBazaar,2281.0,Groceries
+2025-08-24,Flat Rent Oct,Landlord,16891.5,Rent
+2025-07-17,Monthly Rent 384,NoBroker,20981.61,Rent
+2025-07-13,Myntra Order MYN1010,Myntra,2299.0,Shopping
+2025-09-30,Monthly Rent 545,NoBroker,21233.49,Rent
+2025-06-26,Water Tax 252,CMWSSB,158.97,Bills
+2025-04-29,Gift Purchase 640,Archies,443.45,Miscellaneous
+2025-06-06,Amusement Park 429,Wonderla,1225.88,Entertainment
+2024-10-06,Zomato order 5821,Zomato,420.0,Food & Drink
+2024-11-15,The Hindu,The Hindu,999.0,Subscriptions
+2025-09-15,Google Cloud,Google,150.0,Subscriptions
+2023-08-16,The Hindu,The Hindu,999.0,Subscriptions
+2024-02-24,Amazon.in Order AMZ10072,Amazon,11305.0,Shopping
+2024-02-02,Uber Ride 20250202,Uber,210.0,Transport
+2023-09-02,UPI to Friend 10159,Miscellaneous,6500.0,Miscellaneous
+2024-02-08,Zomato order 2993,Zomato,236.0,Food & Drink
+2024-07-08,TNEB BILL PAY 10244,TNEB,2168.0,Utilities
+2023-08-25,More Supermarket,More Supermarket,2500.0,Groceries
+2025-08-16,Rent Payment 263,Owner,22089.06,Rent
+2023-12-15,Subscr Google,Google,130.0,Subscriptions
+2023-06-04,Electricity Bill 324,TNEB,1264.76,Bills
+2024-07-11,Maintenance Charge 630,Association,1972.74,Rent
+2025-12-22,More Supermarket Purchase,More Supermarket,2213.0,Groceries
+2025-11-06,Zomato order 5822,Zomato,450.0,Food & Drink
+2023-04-18,Shell Fuel,Shell,2200.0,Transport
+2025-04-25,Steam Purchase,Steam Games,1999.0,Entertainment
+2024-05-01,Ola Ride,Ola,250.0,Transport
+2024-06-24,Rapido Auto 10225,Rapido,140.0,Transport
+2024-10-13,LOCAL TEA SHOP BILL 10088,Local Tea Shop,288.0,Food & Drink
+2023-06-28,Mobile Recharge,Airtel,399.0,Bills
+2023-03-16,UPI to Friend 822,UPI,492.8,Miscellaneous
+2025-10-29,Google Cloud,Google,150.0,Subscriptions
+2023-03-25,Ola Ride 8660,Ola,257.0,Transport
+2025-09-13,Gas Cylinder 310,Indane,1095.19,Bills
+2025-10-07,Dunzo Groceries,Dunzo,780.0,Groceries
+2024-12-20,Water Tax 367,CMWSSB,157.44,Bills
+2025-03-28,PVR Cinemas,PVR Cinemas,650.0,Entertainment
+2025-12-20,Water Tax CMWSSB,CMWSSB,234.0,Utilities
+2023-01-04,Courier Charges 791,DTDC,93.3,Miscellaneous
+2025-12-18,Subscr Google,Google,130.0,Subscriptions
+2025-12-17,Stationery 336,Local Shop,122.23,Miscellaneous
+2024-04-12,Cafe Coffee Day,Cafe Coffee Day,360.0,Food & Drink
+2025-12-05,Myntra Order MYN1004,Myntra,2399.0,Shopping
+2023-02-19,Dominos Bill,Dominos,828.0,Food & Drink
+2025-03-29,BSNL Bill,BSNL,800.0,Utilities
+2024-04-28,Printout 476,Xerox Shop,45.31,Miscellaneous
+2025-08-20,PG Rent May,Stanza Living,7419.17,Rent
+2024-02-26,NETFLIX.COM 10074,Netflix,843.0,Subscriptions
+2024-09-09,Local Tea Shop,Local Tea Shop,90.0,Food & Drink
+2023-01-31,Ola Ride ID10019,Ola,236.0,Transport
+2023-12-20,Amazon Order 9308,Amazon,3302.0,Shopping
+2023-10-29,Fuel at Shell Bill 10044,Shell,2085.0,Transport
+2024-03-01,Apollo Pharmacy,Apollo Pharmacy,370.0,Health
+2023-02-05,IMPS - Rent Feb,House Rent,20000.0,Rent
+2024-08-05,Maintenance Charge 515,Association,1810.11,Rent
+2024-01-07,Spotify AB 923XX,Spotify,119.0,Subscriptions
+2023-03-21,Ola Ride 7837,Ola,257.0,Transport
+2023-10-24,Netflix.COM 10053,Netflix,661.0,Subscriptions
+2025-06-05,ORDER #10200 FROM SWIGGY,Swiggy,437.0,Food & Drink
+2023-04-05,Mobile Recharge,Airtel,299.0,Bills
+2024-02-09,JIO RECHARGE 10052,Jio,752.0,Bills
+2024-04-03,Zomato order 1876,Ola,614.0,Food & Drink
+2025-02-17,BigBazaar Purchase,BigBazaar,3150.0,Groceries
+2025-10-27,Dominos,Dominos,600.0,Food & Drink
+2024-07-07,Charity Donation 306,Charity,1094.83,Miscellaneous
+2024-07-31,Gift Purchase 963,Archies,484.5,Miscellaneous
+2025-11-06,Dunzo,Dunzo,820.0,Groceries
+2024-03-18,Purchase H&M 10100,H&M,4224.0,Shopping
+2024-05-20,Broadband Bill 219,ACT Fibernet,1007.15,Bills
+2024-07-20,PG Rent Jan,Stanza Living,7637.02,Rent
+2023-10-04,Steam Purchase,Steam Games,1799.0,Entertainment
+2024-11-25,House Rent,House Rent,20000.0,Rent
+2023-06-09,BSNL FTTH,BSNL,799.0,Utilities
+2023-12-26,House Rent Dec,House Rent,20000.0,Rent
+2023-10-05,Licious Purchase 10137,Licious,751.0,Groceries
+2024-02-27,Fuel at IOCL Bill 10076,Indian Oil,2083.0,Transport
+2024-12-14,Bowling 848,Amoeba,414.12,Entertainment
+2024-05-27,AIRTEL BROADBAND FTTH 10189,Airtel Broadband,1413.0,Utilities
+2023-08-01,IMPS - House Rent Aug,House Rent,22253.0,Rent
+2025-06-18,Zomato,Zomato,360.0,Food & Drink
+2025-04-19,Streaming Sub 418,Netflix,192.66,Entertainment
+2023-03-19,MedPlus Bill,MedPlus,467.0,Health
+2024-08-27,Water Tax CMWSSB,CMWSSB,234.0,Utilities
+2023-03-28,uber auto,Uber,135.0,Transport
+2023-02-05,House Rent May,House Rent,18358.15,Rent
+2023-02-10,Maintenance Charge 491,Association,1826.89,Rent
+2024-12-25,Amusement Park 703,Wonderla,1125.12,Entertainment
+2023-11-11,Gift Purchase 238,Archies,491.18,Miscellaneous
+2024-03-14,The Hindu,The Hindu,999.0,Subscriptions
+2024-01-14,Ola Ride ID10019,Ola,236.0,Transport
+2024-05-06,ATM WITHDRAWAL,ATM,4000.0,Miscellaneous
+2025-10-19,Gas Cylinder 383,Indane,1008.87,Bills
+2025-09-29,Amazon.in Order AMZ934,Amazon,2499.0,Shopping
+2024-06-04,Ola Ride,Ola,320.0,Transport
+2024-04-29,Gas Cylinder 267,Indane,1150.88,Bills
+2025-03-07,Zomato order 2351,Zomato,316.0,Food & Drink
+2025-06-17,Mobile Recharge,Airtel,499.0,Bills
+2023-07-18,Concert Ticket 553,Insider,1602.92,Entertainment
+2023-03-13,Uber Ride 5919,Uber,271.0,Transport
+2025-04-20,Myntra,Myntra,3900.0,Shopping
+2025-04-20,Gym Membership,Fitness First,2500.0,Health
+2023-07-21,UPI to Friend 965,UPI,539.65,Miscellaneous
+2023-08-11,Spotify,Spotify,119.0,Subscriptions
+2024-01-24,TNEB Bill Pay,TNEB,1430.0,Utilities
+2023-11-01,Dental Checkup 708,Clove Dental,768.6,Health
+2025-09-02,UPI to Friend,Miscellaneous,4500.0,Miscellaneous
+2024-03-23,UPI to Zomato Order #10106,Zomato,514.0,Food & Drink
+2024-09-24,PG Rent Jul,Stanza Living,8060.38,Rent
+2025-11-11,Concert Ticket 377,Insider,1518.37,Entertainment
+2024-08-28,Zomato,Zomato,360.0,Food & Drink
+2025-09-09,Rapido 2406,Rapido,85.0,Transport
+2024-03-24,Swiggy order 7378,Zomato,450.0,Food & Drink
+2024-06-07,Swiggy Foods,Swiggy,580.0,Food & Drink
+2024-01-19,More Supermarket Purchase,More Supermarket,2522.0,Groceries
+2025-03-04,uber auto,Uber,125.0,Transport
+2025-03-20,Uber Trip 10102,Uber,240.0,Transport
+2025-08-31,More Supermarket,More Supermarket,2450.0,Groceries
+2025-08-26,Dominos,Dominos,610.0,Food & Drink
+2024-09-22,Amusement Park 367,Wonderla,1139.83,Entertainment
+2025-09-24,UPI to Friend,Miscellaneous,2000.0,Miscellaneous
+2023-11-20,Zomato,Zomato,520.0,Food & Drink
+2024-01-04,Amazon.in,Amazon,1700.0,Shopping
+2025-02-05,PVR Cinemas Ticket 10047,PVR Cinemas,964.0,Entertainment
+2023-08-27,BigBazaar,BigBazaar,4300.0,Groceries
+2025-10-27,Doctor's Visit Fee,Local Clinic,700.0,Health
+2023-05-27,Movie Ticket 933,BookMyShow,306.14,Entertainment
+2023-01-14,Amazon.in Order AMZ10007,Amazon,570.0,Shopping
+2024-09-04,Google Cloud,Google,150.0,Subscriptions
+2025-10-08,Amazon.in Order AMZ10160,Amazon,5215.0,Shopping
+2023-08-08,Rent Payment 959,Owner,23275.35,Rent
+2024-08-19,Dominos Pizza,Dominos,790.0,Food & Drink
+2024-11-16,Uber Trip 10102,Uber,240.0,Transport
+2025-09-26,BigBazaar Purchase,BigBazaar,3600.0,Groceries
+2025-01-15,Printout 311,Xerox Shop,54.77,Miscellaneous
+2025-11-20,Printout 418,Xerox Shop,52.64,Miscellaneous
+2023-11-13,Disney+ Hotstar,Hotstar,499.0,Subscriptions
+2024-08-03,Electricity Bill 354,TNEB,1204.14,Bills
+2023-10-14,UPI to Friend 743,UPI,517.96,Miscellaneous
+2024-03-30,CMRL Metro Card Recharge,Chennai Metro,353.0,Transport
+2025-05-08,Ola Ride ID10165,Ola,193.0,Transport
+2023-05-19,Mobile Recharge 567,Jio,318.41,Bills
+2025-02-10,UPI to Friend 196,UPI,520.58,Miscellaneous
+2023-11-10,Bowling 702,Amoeba,386.45,Entertainment
+2025-07-18,ZARA,Zara,5600.0,Shopping
+2024-02-01,Fuel at Shell,Shell,2917.0,Transport
+2025-10-18,Uber Ride,Uber,210.0,Transport
+2024-07-21,Starbucks,Starbucks,550.0,Food & Drink
+2024-01-22,Fuel at IOCL Bill 10120,Indian Oil,2083.0,Transport
+2024-02-10,Fuel IOCL,Indian Oil,2400.0,Transport
+2025-03-19,Dunzo Groceries,Dunzo,1126.0,Groceries
+2025-09-17,UPI to Friend 823,UPI,527.86,Miscellaneous
+2025-08-19,BookMyShow,BookMyShow,860.0,Entertainment
+2024-08-28,BMS Ticket 10152,BookMyShow,1619.0,Entertainment
+2024-04-15,ATM WITHDRAWAL 10136,ATM,11500.0,Miscellaneous
+2024-06-10,Ola Ride,Ola,300.0,Transport
+2025-01-25,Cafe Coffee Day Bill,Cafe Coffee Day,483.0,Food & Drink
+2025-03-26,Courier Charges 355,DTDC,104.35,Miscellaneous
+2023-09-18,BMS Ticket 10103,BookMyShow,2419.0,Entertainment
+2023-09-20,Local Tea Shop,Local Tea Shop,60.0,Food & Drink
+2025-06-05,PG Rent Sep,Stanza Living,8745.48,Rent
+2024-06-05,Streaming Sub 597,Netflix,204.03,Entertainment
+2023-06-20,Reliance Fresh Purchase 10220,Reliance Fresh,3350.0,Groceries
+2025-03-06,BigBazaar Purchase,BigBazaar,2237.0,Groceries
+2025-01-01,Medicines 423,Apollo,359.08,Health
+2024-08-13,RAPIDO RIDE 2318,Rapido,120.0,Transport
+2025-09-03,PG Rent Aug,Stanza Living,7433.64,Rent
+2024-01-17,Swiggy order 2636,Swiggy,454.0,Food & Drink
+2024-01-24,Swiggy order 7833,Swiggy,444.0,Food & Drink
+2023-05-07,Zomato order 5828,Zomato,480.0,Food & Drink
+2024-11-21,House Rent May,House Rent,21480.59,Rent
+2023-07-09,Credit Card Bill 401,HDFC Bank,5447.14,Bills
+2023-07-26,Gym Fee,Fitness First,1812.0,Health
+2024-10-06,Amazon Prime,Amazon Prime,299.0,Subscriptions
+2024-04-08,BSNL Bill,BSNL,799.0,Utilities
+2023-04-02,Maintenance Charge 469,Association,1945.0,Rent
+2023-02-16,The Hindu Subscription,The Hindu,999.0,Subscriptions
+2023-08-30,NETFLIX.COM 10074,Netflix,843.0,Subscriptions
+2024-05-18,BSNL FTTH 10177,BSNL,2347.0,Utilities
+2024-10-14,Zomato order 5921,Zomato,430.0,Food & Drink
+2025-06-14,LOCAL TEA SHOP BILL 10212,Local Tea Shop,288.0,Food & Drink
+2025-03-14,Netflix.COM 10095,Netflix,661.0,Subscriptions
+2024-06-28,Dunzo Groceries,Dunzo,890.0,Groceries
+2024-08-14,RAPIDO RIDE 2317,Rapido,110.0,Transport
+2023-01-04,flipkart,Flipkart,1400.0,Shopping
+2025-10-01,Electricity Bill 133,TNEB,1219.08,Bills
+2025-12-03,Steam Purchase 10154,Steam Games,1130.0,Entertainment
+2025-09-02,Charity Donation 612,Charity,1026.33,Miscellaneous
+2023-02-19,Milk delivery,Local Mart,1200.0,Groceries
+2023-09-01,Local Tea Stall,Local Tea Shop,90.0,Food & Drink
+2024-02-09,zomato,Zomato,240.0,Food & Drink
+2023-12-30,Swiggy order 7731,Swiggy,461.0,Food & Drink
+2023-12-12,GYM FEE,Fitness First,1968.0,Health
+2023-01-12,Amazon Order 3274,Amazon,1249.0,Shopping
+2024-03-15,uber trip,Uber,250.0,Transport
+2025-06-04,Gas Cylinder 813,Indane,1201.54,Bills
+2025-01-05,BigBazaar Purchase,BigBazaar,2068.0,Groceries
+2023-02-26,Dental Checkup 218,Clove Dental,847.18,Health
+2024-08-08,Dominos Pizza,Dominos,800.0,Food & Drink
+2025-03-04,Amazon.in Order AMZ931,Amazon,2099.0,Shopping
+2025-09-12,Zomato order 9930,Zomato,310.0,Food & Drink
+2025-03-29,Dominos Bill,Dominos,878.0,Food & Drink
+2024-07-13,Postpaid Bill 629,Airtel,493.95,Bills
+2023-11-14,Order Dunzo 10039,Dunzo,1065.0,Groceries
+2025-09-09,Monthly Rent 760,NoBroker,18862.44,Rent
+2024-03-07,Gift Purchase 554,Archies,440.32,Miscellaneous
+2024-02-07,Spotify AB 923XX,Spotify,119.0,Subscriptions
+2025-01-28,APOLLO PHARMACY TRN,Apollo Pharmacy,560.0,Health
+2023-02-02,Swiggy order 7076,Swiggy,260.0,Food & Drink
+2024-04-19,Shell Fuel,Shell,1700.0,Transport
+2024-01-20,MedPlus Bill,MedPlus,430.0,Health
+2025-10-15,Water Tax CMWSSB,CMWSSB,150.0,Utilities
+2023-09-18,DECATHLON RETAIL,Decathlon,4471.0,Shopping
+2023-12-02,More Supermarket Purchase 10109,More Supermarket,2215.0,Groceries
+2025-10-05,IMPS - House Rent Oct,House Rent,20000.0,Rent
+2023-06-16,BigBazaar Store Bill,BigBazaar,1968.0,Groceries
+2024-03-15,Swiggy Instamart,Swiggy,304.0,Groceries
+2023-12-17,H&M Retail Purchase,H&M,2265.0,Shopping
+2024-11-01,Reliance Fresh,Reliance Fresh,1400.0,Groceries
+2024-07-21,Rapido 2408,Rapido,100.0,Transport
+2025-01-02,Zomato order 7378,Zomato,450.0,Food & Drink
+2025-10-07,IMPS - Rent Oct,House Rent,22000.0,Rent
+2024-01-07,TNEB Bill Pay,TNEB,1440.0,Utilities
+2024-08-11,House Rent Nov,House Rent,18260.97,Rent
+2024-04-08,Doctor's Visit,Local Clinic,800.0,Health
+2025-01-05,BSNL FTTH Bill,BSNL,799.0,Utilities
+2025-10-01,Zomato,Zomato,550.0,Food & Drink
+2023-04-08,Amazon.in Order AMZ10127,Amazon,5159.0,Shopping
+2024-08-28,More Supermarket,More Supermarket,2550.0,Groceries
+2023-03-16,H&M,H&M,2400.0,Shopping
+2025-04-28,Postpaid Bill 912,Airtel,528.46,Bills
+2025-03-07,CURE.FIT BILL,Cure.fit,2519.0,Health
+2023-05-31,Subscr GitHub,GitHub,575.0,Subscriptions
+2024-10-09,Zomato,Zomato,580.0,Food & Drink
+2023-09-11,Google Cloud,Google,150.0,Subscriptions
+2025-06-17,swiggy,Swiggy,350.0,Food & Drink
+2023-03-09,Swiggy order 2345,Swiggy,517.0,Food & Drink
+2025-11-29,flipkart,Flipkart,2400.0,Shopping
+2025-08-07,Myntra,Myntra,3300.0,Shopping
+2023-01-02,Stationery 312,Local Shop,130.79,Miscellaneous
+2025-02-17,Zomato order 8538,Zomato,316.0,Food & Drink
+2023-04-02,Myntra Order 6378,Myntra,3343.0,Shopping
+2024-08-08,Zomato,Zomato,420.0,Food & Drink
+2024-03-24,uber trip,Uber,180.0,Transport
+2024-01-11,Streaming Sub 821,Netflix,189.76,Entertainment
+2025-01-04,SWIGGY FOODS,Swiggy,929.0,Food & Drink
+2024-11-30,Local Tea Stall,Local Tea Shop,40.0,Food & Drink
+2024-07-23,Maintenance Charge 971,Association,1953.63,Rent
+2023-03-27,Printout 660,Xerox Shop,45.5,Miscellaneous
+2025-07-27,ORDER #10268 FROM SWIGGY,Swiggy,981.0,Food & Drink
+2023-02-21,Lab Test 901,Thyrocare,1230.62,Health
+2024-10-01,Steam Purchase 10011,Steam Games,799.0,Entertainment
+2025-05-26,Charity Donation 356,Charity,1097.61,Miscellaneous
+2023-05-16,CMRL Metro Card,Chennai Metro,300.0,Transport
+2025-10-01,UPI to Zomato Order #2345,Zomato,340.0,Food & Drink
+2024-09-15,Stationery 951,Local Shop,110.09,Miscellaneous
+2023-10-19,Reliance Fresh Purchase 10129,Reliance Fresh,3350.0,Groceries
+2024-06-11,Monthly Rent 117,NoBroker,18071.87,Rent
+2024-10-14,Spotify AB 10030,Spotify,129.0,Subscriptions
+2024-02-09,UPI to Friend 565,UPI,496.35,Miscellaneous
+2024-11-17,Reliance Fresh,Reliance Fresh,950.0,Groceries
+2025-05-26,Mobile Recharge 307,Jio,291.89,Bills
+2023-10-04,TNEB Bill Payment 100234,TNEB,1340.0,Utilities
+2025-03-30,Groceries from Dunzo,Dunzo,970.0,Groceries
+2025-02-16,Doctor Consultation 575,Practo,478.6,Health
+2023-10-08,ACT Fibernet Bill,ACT Fibernet,1049.0,Utilities
+2024-05-10,Amazon Prime renewal 10167,Amazon Prime,1499.0,Subscriptions
+2023-07-06,Water Tax 251,CMWSSB,138.03,Bills
+2025-04-20,PG Rent Mar,Stanza Living,8485.26,Rent
+2023-02-16,Swiggy order 1184,Swiggy,234.0,Food & Drink
+2024-11-27,Swiggy Instamart,Swiggy,440.0,Groceries
+2025-10-30,Doctor's Visit,Local Clinic,800.0,Health
+2024-02-20,Rapido Ride 2320,Rapido,124.0,Transport
+2023-03-09,Charity Donation 513,Charity,1055.08,Miscellaneous
+2024-01-06,flipkart,Flipkart,2800.0,Shopping
+2023-01-10,Steam Games Transaction,Steam Games,1765.0,Entertainment
+2024-11-19,Gym Membership,Fitness First,2500.0,Health
+2023-03-31,ZARA RETAIL,Zara,7525.0,Shopping
+2025-05-18,Reliance Fresh Purchase 10178,Reliance Fresh,3350.0,Groceries
+2024-02-10,CMRL Metro Card Recharge,Chennai Metro,453.0,Transport
+2025-11-09,FLIPKART Order FK2395,Flipkart,490.0,Shopping
+2025-01-20,Gym Membership,Fitness First,2500.0,Health
+2024-11-20,flipkart,Flipkart,1100.0,Shopping
+2024-08-23,Broadband Bill 463,ACT Fibernet,1002.33,Bills
+2025-02-01,Streaming Sub 774,Netflix,218.78,Entertainment
+2023-02-15,Fuel IOCL,Indian Oil,2700.0,Transport
+2025-03-08,ACT Fibernet Bill,ACT Fibernet,1049.0,Utilities
+2023-02-07,Postpaid Bill 479,Airtel,493.94,Bills
+2023-10-10,Dominos Pizza,Dominos,750.0,Food & Drink
+2024-06-16,Flipkart Order FK10215,Flipkart,8993.0,Shopping
+2023-10-08,Mobile Recharge 543,Jio,304.53,Bills
+2023-10-26,House Rent,House Rent,20000.0,Rent
+2023-08-24,Myntra Order FK10145,Myntra,10705.0,Shopping
+2023-09-17,UPI to Friend,Miscellaneous,2500.0,Miscellaneous
+2025-07-21,PAYMENT TO STARBUCKS,Starbucks,1053.0,Food & Drink
+2024-03-18,Ola Ride 9390,Ola,129.0,Transport
+2024-08-11,Postpaid Bill 428,Airtel,464.15,Bills
+2024-02-01,Zomato order 1629,Zomato,507.0,Food & Drink
+2024-06-23,Milk delivery,Local Mart,1250.0,Groceries
+2024-11-24,Zomato order,Zomato,730.0,Food & Drink
+2023-01-07,Electricity Bill 854,TNEB,1228.42,Bills
+2023-03-19,Reliance Fresh Purchase,Reliance Fresh,1085.0,Groceries
+2025-12-20,Streaming Sub 102,Netflix,212.23,Entertainment
+2025-12-10,Amazon Prime renewal,Amazon Prime,299.0,Subscriptions
+2024-02-14,Licious Purchase,Licious,792.0,Groceries
+2024-03-04,VI RECHARGE 10082,Vi,351.0,Bills
+2024-11-20,UPI to Friend 744,UPI,502.95,Miscellaneous
+2024-03-31,Fuel at Shell,Shell,1826.0,Transport
+2025-10-18,Cafe Coffee Day Bill,Cafe Coffee Day,340.0,Food & Drink
+2023-07-20,Water Tax,CMWSSB,150.0,Utilities
+2024-11-04,NETFLIX.COM 10156,Netflix,843.0,Subscriptions
+2024-02-10,Zomato order 4976,Zomato,450.0,Food & Drink
+2024-08-01,UPI to Zomato Order #10275,Zomato,514.0,Food & Drink
+2025-02-05,PVR Cinemas Transaction,PVR Cinemas,543.0,Entertainment
+2023-07-22,Shell Fuel,Shell,2500.0,Transport
+2024-07-10,Starbucks,Starbucks,530.0,Food & Drink
+2025-10-05,Credit Card Bill 834,HDFC Bank,5483.39,Bills
+2023-09-07,Mobile Recharge 626,Jio,295.04,Bills
+2023-08-02,Credit Card Bill 614,HDFC Bank,4969.77,Bills
+2023-03-26,More Supermarket Purchase,More Supermarket,2213.0,Groceries
+2024-02-11,Myntra Order 9797,Myntra,2352.0,Shopping
+2025-01-17,Dominos,Dominos,690.0,Food & Drink
+2025-01-23,ORDER #10040 FROM SWIGGY,Swiggy,437.0,Food & Drink
+2023-06-05,Swiggy,Swiggy,460.0,Food & Drink
+2025-10-18,Reliance Fresh,Reliance Fresh,900.0,Groceries
+2024-12-16,More Supermarket Purchase,More Supermarket,2211.0,Groceries
+2023-06-01,IMPS - House Rent Jun,House Rent,18490.0,Rent
+2025-01-01,Netflix.COM 10002,Netflix,649.0,Subscriptions
+2023-10-07,PVR Cinemas Ticket 10047,PVR Cinemas,964.0,Entertainment
+2024-02-11,MedPlus Bill,MedPlus,549.0,Health
+2023-06-02,Steam Purchase 10197,Steam Games,799.0,Entertainment
+2024-06-22,Gas Cylinder 862,Indane,1134.07,Bills
+2024-02-12,Gas Cylinder 455,Indane,1071.69,Bills
+2025-12-23,ATM WITHDRAWAL,ATM,9500.0,Miscellaneous
+2025-04-06,Cash Deposit,Miscellaneous,500.0,Miscellaneous
+2024-12-21,Uber Ride 2253,Uber,323.0,Transport
+2024-01-01,Starbucks Bill,Starbucks,419.0,Food & Drink
+2023-12-26,MedPlus Bill,MedPlus,213.0,Health
+2024-05-31,Cafe Coffee Day,Cafe Coffee Day,380.0,Food & Drink
+2024-11-15,Gift Purchase 928,Archies,459.41,Miscellaneous
+2024-01-04,Uber Trip 10006,Uber,292.0,Transport
+2024-04-29,BSNL Bill,BSNL,799.0,Utilities
+2024-12-30,Ola Ride 2070,Ola,121.0,Transport
+2025-12-01,VI RECHARGE 10029,Vi,724.0,Bills
+2025-01-12,Flipkart Order FK10185,Flipkart,8993.0,Shopping
+2024-11-14,H&M,H&M,2300.0,Shopping
+2024-10-31,Zomato,Zomato,590.0,Food & Drink
+2024-08-05,Amazon.in Order AMZ930,Amazon,1750.0,Shopping
+2025-08-18,Gym Supplement 606,HealthKart,2406.51,Health
+2025-05-21,Cafe Coffee Day,Cafe Coffee Day,400.0,Food & Drink
+2023-12-28,Swiggy order 1629,Swiggy,436.0,Food & Drink
+2024-01-28,UPI to Friend 117,UPI,467.31,Miscellaneous
+2024-02-05,Swiggy order 5971,Swiggy,530.0,Food & Drink
+2025-07-07,Local Mart Store Bill,Local Mart,2393.0,Groceries
+2024-09-23,Uber Trip 20250923,Uber,220.0,Transport
+2023-02-24,ZARA Retail Purchase,Zara,5156.0,Shopping
+2023-06-08,Movie Ticket 855,BookMyShow,321.33,Entertainment
+2025-12-21,Pizza Hut Bill,Pizza Hut,546.0,Food & Drink
+2025-06-26,Ola Ride,Ola,280.0,Transport
+2024-10-24,IMPS - Rent Nov,House Rent,22000.0,Rent
+2023-06-18,BSNL FTTH,BSNL,799.0,Utilities
+2025-01-23,Dominos,Dominos,660.0,Food & Drink
+2025-10-27,Repair Services 654,Urban Company,436.17,Miscellaneous
+2025-10-30,Spotify AB 92396,Spotify,119.0,Subscriptions
+2025-08-25,JIO RECHARGE 10052,Jio,290.0,Bills
+2024-12-06,Maintenance Charge 683,Association,2145.63,Rent
+2024-02-04,Pizza Hut Bill,Pizza Hut,903.0,Food & Drink
+2025-06-28,PG Rent Jun,Stanza Living,8603.61,Rent
+2025-12-02,UPI to Friend 491,UPI,537.6,Miscellaneous
+2023-02-22,PG Rent Apr,Stanza Living,8516.15,Rent
+2023-09-09,TNEB Bill,TNEB,1400.0,Utilities
+2023-02-13,Licious,Licious,750.0,Groceries
+2025-11-14,Amazon Prime renewal 10060,Amazon Prime,1499.0,Subscriptions
+2024-09-27,Water Tax 482,CMWSSB,149.5,Bills
+2023-09-07,BigBazaar Purchase,BigBazaar,3300.0,Groceries
+2025-09-11,swiggy order,Swiggy,570.0,Food & Drink
+2023-06-01,Dental Checkup 414,Clove Dental,779.73,Health
+2024-07-30,ZARA,Zara,5400.0,Shopping
+2023-02-07,Sony PSN Purchase 10050,Sony PSN,1656.0,Entertainment
+2025-02-10,Netflix.COM 10053,Netflix,388.0,Subscriptions
+2024-04-09,PAYMENT TO MCDONALD'S,McDonald's,836.0,Food & Drink
+2025-01-16,Broadband Bill 901,ACT Fibernet,976.32,Bills
+2024-07-26,Zomato order,Zomato,740.0,Food & Drink
+2024-10-09,MedPlus Bill,MedPlus,310.0,Health
+2024-10-23,Amazon.in,Amazon,2100.0,Shopping
+2024-01-27,Swiggy order 2780,Swiggy,511.0,Food & Drink
+2023-04-30,Zomato Order #2353,Zomato,390.0,Food & Drink
+2024-04-21,Ola Auto 10144,Ola,121.0,Transport
+2025-04-17,GYM FEE,Fitness First,1968.0,Health
+2025-05-14,Stationery 430,Local Shop,112.78,Miscellaneous
+2023-12-31,Cafe Coffee Day Bill,Cafe Coffee Day,391.0,Food & Drink
+2025-03-03,Fuel at Shell,Shell,2910.0,Transport
+2025-07-09,ZARA,Zara,5700.0,Shopping
+2024-11-17,Subscr Google,Google,130.0,Subscriptions
+2023-05-22,Groceries from Dunzo #10182,Dunzo,793.0,Groceries
+2023-09-24,Uber Trip 10187,Uber,292.0,Transport
+2025-01-23,Postpaid Bill 534,Airtel,465.71,Bills
+2024-03-25,More Supermarket Purchase 10109,More Supermarket,2215.0,Groceries
+2024-01-08,Licious Purchase,Licious,790.0,Groceries
+2025-01-03,Printout 602,Xerox Shop,45.59,Miscellaneous
+2023-10-09,KFC BILL 10161,KFC,601.0,Food & Drink
+2023-12-17,Movie Ticket 968,BookMyShow,304.7,Entertainment
+2023-11-21,GYM FEE,Fitness First,1812.0,Health
+2023-08-24,Credit Card Bill 765,HDFC Bank,5331.14,Bills
+2023-02-13,Fuel IOCL,Indian Oil,2600.0,Transport
+2024-01-10,H&M Retail Purchase,H&M,2466.0,Shopping
+2023-05-24,Flipkart Order FK10185,Flipkart,8993.0,Shopping
+2023-10-06,UPI to Friend,Miscellaneous,1500.0,Miscellaneous
+2024-03-15,Uber Ride,Uber,250.0,Transport
+2024-10-01,Uber Trip 20251001,Uber,185.0,Transport
+2025-07-01,Starbucks,Starbucks,490.0,Food & Drink
+2023-01-04,Pizza Hut,Pizza Hut,990.0,Food & Drink
+2023-06-06,VI RECHARGE 10202,Vi,351.0,Bills
+2024-07-16,Starbucks,Starbucks,510.0,Food & Drink
+2023-12-18,Mobile Recharge 753,Jio,276.81,Bills
+2023-03-07,Apollo Pharmacy,Apollo Pharmacy,350.0,Health
+2024-06-14,Stationery 693,Local Shop,109.93,Miscellaneous
+2023-08-30,Spotify,Spotify,119.0,Subscriptions
+2024-10-25,PAYMENT TO MCDONALD'S,McDonald's,836.0,Food & Drink
+2023-03-05,Local Clinic Transaction,Local Clinic,800.0,Health
+2023-07-17,Zomato,Zomato,340.0,Food & Drink
+2025-01-05,Swiggy order 4647,Swiggy,748.0,Food & Drink
+2025-02-18,PVR Cinemas,PVR Cinemas,540.0,Entertainment
+2025-07-17,ZARA,Zara,5800.0,Shopping
+2023-10-12,Courier Charges 706,DTDC,105.8,Miscellaneous
+2023-02-25,Rapido Ride 4180,Rapido,92.0,Transport
+2025-08-17,Flat Rent Sep,Landlord,18329.69,Rent
+2023-10-24,More Supermarket,More Supermarket,2100.0,Groceries
+2023-04-03,Fuel at IOCL Bill 10120,Indian Oil,2955.0,Transport
+2024-10-29,Bowling 931,Amoeba,370.38,Entertainment
+2024-01-31,Amazon Order 5433,Amazon,1238.0,Shopping
+2025-04-04,TNEB Bill Payment,TNEB,1322.0,Utilities
+2024-10-22,NETFLIX.COM,Netflix,199.0,Subscriptions
+2023-03-17,Microsoft 365 renewal 10099,Microsoft 365,712.0,Subscriptions
+2024-09-06,Zomato order 9932,Zomato,330.0,Food & Drink
+2023-08-25,Subscr Google,Google,130.0,Subscriptions
+2025-02-15,Zomato order 9942,Zomato,394.0,Food & Drink
+2024-01-04,TNEB Bill Payment,TNEB,1322.0,Utilities
+2025-05-25,House Rent,House Rent,22000.0,Rent
+2025-07-14,BookMyShow,BookMyShow,810.0,Entertainment
+2025-03-22,NETFLIX.COM 10105,Netflix,843.0,Subscriptions
+2023-01-08,Ola Ride 7687,Ola,344.0,Transport
+2023-09-13,Swiggy Instamart,Swiggy,500.0,Groceries
+2024-03-13,Disney+ Hotstar,Hotstar,499.0,Subscriptions
+2023-03-13,Medicines 193,Apollo,378.2,Health
+2024-11-04,Local Mart Store Bill,Local Mart,2393.0,Groceries
+2025-02-14,Steam Games Transaction,Steam Games,1945.0,Entertainment
+2023-10-06,Spotify AB 92397,Spotify,119.0,Subscriptions
+2024-08-29,Steam Purchase 10011,Steam Games,799.0,Entertainment
+2024-10-10,FLIPKART Order FK2394,Flipkart,5400.0,Shopping
+2025-09-17,Flat Rent May,Landlord,19630.25,Rent
+2025-10-27,CMRL TOPUP 10091,Chennai Metro,389.0,Transport
+2025-02-02,BigBazaar Store Bill,BigBazaar,1968.0,Groceries
+2023-06-22,Electricity Bill 686,TNEB,1283.01,Bills
+2025-09-04,Groceries from Dunzo,Dunzo,920.0,Groceries
+2024-01-22,Rapido Ride 6264,Rapido,124.0,Transport
+2023-03-08,Uber Ride 1109,Uber,233.0,Transport
+2024-03-20,uber auto,Uber,145.0,Transport
+2023-07-09,Rapido 2413,Rapido,150.0,Transport
+2023-08-03,The Hindu,The Hindu,999.0,Subscriptions
+2025-11-01,Printout 453,Xerox Shop,53.98,Miscellaneous
+2024-03-04,Streaming Sub 221,Netflix,183.05,Entertainment
+2025-07-28,Rapido Auto 10153,Rapido,140.0,Transport
+2023-03-25,FLIPKART Order FK2409,Flipkart,630.0,Shopping
+2023-07-15,Water Tax,CMWSSB,150.0,Utilities
+2025-09-27,Amazon.in Order AMZ937,Amazon,2799.0,Shopping
+2025-12-25,Amazon.in Order AMZ10160,Amazon,5215.0,Shopping
+2023-11-09,Reliance Digital Retail,Reliance Digital,7681.0,Shopping
+2025-06-19,AIRTEL RECHARGE 10218,Airtel,220.0,Bills
+2023-12-09,Ola Auto 10181,Ola,147.0,Transport
+2024-03-19,Apollo Pharmacy,Apollo Pharmacy,340.0,Health
+2024-01-07,BMS Ticket 10009,BookMyShow,798.0,Entertainment
+2025-06-24,BSNL FTTH,BSNL,799.0,Utilities
+2024-04-04,Swiggy order 9845,Ola,538.0,Food & Drink
+2024-03-05,Zomato order 7765,Zomato,384.0,Food & Drink
+2025-06-11,Uber Auto,Uber,95.0,Transport
+2025-12-24,Water Tax 982,CMWSSB,136.69,Bills
+2024-02-04,Broadband Bill 381,ACT Fibernet,978.94,Bills
+2023-12-15,Order #10016 from Zomato,Zomato,268.0,Food & Drink
+2023-10-05,VI RECHARGE 10082,Vi,351.0,Bills
+2025-04-25,NETFLIX.COM,Netflix,199.0,Subscriptions
+2024-07-18,Myntra Order MYN1016,Myntra,2899.0,Shopping
+2025-03-03,Local Tea Shop Bill,Local Tea Shop,59.0,Food & Drink
+2024-06-04,BSNL FTTH,BSNL,799.0,Utilities
+2025-01-05,Amazon.in Order AMZ10007,Amazon,570.0,Shopping
+2023-09-12,DOMINOS BILL 10098,Dominos,878.0,Food & Drink
+2023-07-09,Zomato,Zomato,380.0,Food & Drink
+2023-02-24,Maintenance Charge 404,Association,2037.79,Rent
+2023-09-01,Amazon.in Order AMZ935,Amazon,2599.0,Shopping
+2023-09-28,Uber Trip 20250928,Uber,210.0,Transport
+2025-08-23,UPI to Friend 927,UPI,525.05,Miscellaneous
+2023-10-31,Netflix.COM 10002,Netflix,649.0,Subscriptions
+2024-11-27,Amazon.in Order AMZ10299,Amazon,4844.0,Shopping
+2024-01-18,Water Tax 878,CMWSSB,148.13,Bills
+2025-05-17,Maintenance Charge 767,Association,1987.85,Rent
+2025-01-10,MedPlus Bill,MedPlus,198.0,Health
+2024-03-10,Reliance Fresh Store Bill,Reliance Fresh,2005.0,Groceries
+2025-04-14,Monthly Rent 981,NoBroker,19104.57,Rent
+2025-02-06,Amusement Park 322,Wonderla,1307.27,Entertainment
+2025-01-15,Licious Purchase,Licious,891.0,Groceries
+2023-11-05,BookMyShow,BookMyShow,800.0,Entertainment
+2024-02-10,BigBazaar,BigBazaar,3200.0,Groceries
+2025-02-18,Reliance Fresh Purchase,Reliance Fresh,926.0,Groceries
+2023-10-03,Ola Cabs 2358,Ola,390.0,Transport
+2023-01-20,Ola Ride 9845,Ola,131.0,Transport
+2024-10-26,Groceries from Dunzo,Dunzo,900.0,Groceries
+2023-06-23,Groceries from Dunzo #10224,Dunzo,793.0,Groceries
+2024-09-13,Local Tea Stall,Local Tea Shop,60.0,Food & Drink
+2025-07-16,Postpaid Bill 474,Airtel,487.49,Bills
+2024-01-16,The Hindu Subscription,The Hindu,999.0,Subscriptions
+2023-08-29,Maintenance Charge 845,Association,2098.19,Rent
+2023-06-22,Electricity Bill 294,TNEB,1136.5,Bills
+2023-03-29,Dunzo Groceries,Dunzo,1048.0,Groceries
+2024-07-28,Courier Charges 544,DTDC,97.82,Miscellaneous
+2024-10-25,TNEB Bill,TNEB,980.0,Utilities
+2023-03-03,Uber Ride 9444,Uber,298.0,Transport
+2024-12-03,TNEB Bill Pay,TNEB,1380.0,Utilities
+2025-12-29,Dominos Bill,Dominos,878.0,Food & Drink
+2025-10-20,Gym Membership,Fitness First,2500.0,Health
+2024-10-13,Doctor's Visit Fee,Local Clinic,800.0,Health
+2024-10-17,Uber,Uber,190.0,Transport
+2023-11-21,Gym Supplement 300,HealthKart,2566.33,Health
+2024-01-21,Doctor Visit,Local Clinic,1236.0,Health
+2024-10-28,Zomato,Zomato,290.0,Food & Drink
+2023-03-14,Dunzo,Dunzo,880.0,Groceries
+2024-10-27,Repair Services 223,Urban Company,425.42,Miscellaneous
+2024-05-07,Flat Rent Sep,Landlord,17120.84,Rent
+2023-06-04,Flat Rent Nov,Landlord,18432.54,Rent
+2023-07-24,UPI to Friend 298,UPI,512.06,Miscellaneous
+2024-12-13,Ola Ride 2028,Ola,341.0,Transport
+2023-06-15,Ola Ride,Ola,290.0,Transport
+2024-04-28,Cafe Coffee Day,Cafe Coffee Day,370.0,Food & Drink
+2023-11-16,swiggy order,Swiggy,500.0,Food & Drink
+2023-06-30,Fuel at Shell Bill 10233,Shell,2085.0,Transport
+2023-11-30,PVR Cinemas Ticket 10123,PVR Cinemas,953.0,Entertainment
+2024-12-30,Streaming Sub 987,Netflix,191.79,Entertainment
+2023-09-20,Groceries from Dunzo #10182,Dunzo,793.0,Groceries
+2025-01-12,Swiggy order 3058,Swiggy,709.0,Food & Drink
+2024-04-06,Gift Purchase 424,Archies,412.34,Miscellaneous
+2024-10-21,Bill BSNL ID 10138,BSNL,2315.0,Utilities
+2025-03-04,TNEB Bill Payment,TNEB,1325.0,Utilities
+2024-05-08,Cafe Coffee Day,Cafe Coffee Day,340.0,Food & Drink
+2024-01-25,More Supermarket Store Bill,More Supermarket,2257.0,Groceries
+2023-06-11,ACT Fibernet,ACT Fibernet,1049.0,Utilities
+2023-02-11,Reliance Fresh Pvt Ltd,Reliance Fresh,1800.0,Groceries
+2024-01-15,Subscr GitHub,GitHub,575.0,Subscriptions
+2024-10-24,Water Tax 936,CMWSSB,158.05,Bills
+2024-12-27,Spotify,Spotify,119.0,Subscriptions
+2024-06-27,BSNL FTTH,BSNL,799.0,Utilities
+2024-02-07,Uber Ride 6268,Uber,327.0,Transport
+2025-04-28,Rapido Auto 10153,Rapido,140.0,Transport
+2025-08-02,BigBazaar,BigBazaar,4000.0,Groceries
+2024-06-18,Streaming Sub 312,Netflix,202.8,Entertainment
+2023-08-03,RAPIDO RIDE 2322,Rapido,160.0,Transport
+2023-02-25,Swiggy order 6813,Swiggy,318.0,Food & Drink
+2025-07-13,Zomato,Zomato,350.0,Food & Drink
+2025-01-11,UPI to Friend 10184,Miscellaneous,6500.0,Miscellaneous
+2023-12-19,Zomato order 9053,Zomato,276.0,Food & Drink
+2024-04-16,Concert Ticket 981,Insider,1619.63,Entertainment
+2025-01-13,Movie Ticket 532,BookMyShow,298.63,Entertainment
+2024-10-30,Streaming Sub 444,Netflix,210.04,Entertainment
+2024-06-09,Jio Fiber FTTH 10205,Jio Fiber,631.0,Utilities
+2024-07-17,Charity Donation 735,Charity,1092.37,Miscellaneous
+2025-12-14,Stationery 695,Local Shop,117.43,Miscellaneous
+2025-11-22,Doctor Consultation 940,Practo,476.09,Health
+2023-09-24,swiggy order,Swiggy,530.0,Food & Drink
+2023-02-12,Local Tea Shop Bill,Local Tea Shop,58.0,Food & Drink
+2025-10-12,Gaming Currency 545,Steam,493.68,Entertainment
+2024-03-11,CMRL TOPUP 10091,Chennai Metro,389.0,Transport
+2024-01-22,amazon.in,Amazon,1699.0,Shopping
+2023-10-07,Spotify AB 92384,Spotify,119.0,Subscriptions
+2023-09-16,Stationery 867,Local Shop,114.29,Miscellaneous
+2024-07-25,Repair Services 830,Urban Company,380.4,Miscellaneous
+2023-09-01,BigBazaar Purchase,BigBazaar,3450.0,Groceries
+2025-09-04,KFC BILL 10027,KFC,601.0,Food & Drink
+2023-07-12,Netflix,Netflix,199.0,Subscriptions
+2023-10-06,More Supermarket Store Bill,More Supermarket,2257.0,Groceries
+2025-07-25,Charity Donation 410,Charity,931.28,Miscellaneous
+2024-03-20,uber auto,Uber,100.0,Transport
+2024-03-13,Swiggy order 8318,Zomato,715.0,Food & Drink
+2025-03-29,Credit Card Bill 547,HDFC Bank,5334.6,Bills
+2023-03-30,Zomato order 3058,Swiggy,709.0,Food & Drink
+2023-01-12,The Hindu Subscription,The Hindu,999.0,Subscriptions
+2023-01-02,Gift Purchase 668,Archies,414.6,Miscellaneous
+2023-04-17,swiggy instamart,Swiggy,400.0,Groceries
+2025-04-22,Gym Membership,Fitness First,2500.0,Health
+2023-11-10,Doctor Consultation 506,Practo,474.31,Health
+2025-11-23,Movie Ticket 875,BookMyShow,288.94,Entertainment
+2023-09-08,UPI to Friend,Miscellaneous,4000.0,Miscellaneous
+2023-04-07,Rapido Ride ID10125,Rapido,124.0,Transport
+2024-06-26,ACT Fibernet,ACT Fibernet,1049.0,Utilities
+2023-03-15,Water Tax CMWSSB,CMWSSB,150.0,Utilities
+2025-05-05,Reliance Fresh,Reliance Fresh,1060.0,Groceries
+2024-08-09,Rapido Ride ID10125,Rapido,124.0,Transport
+2025-01-15,Lab Test 187,Thyrocare,1293.63,Health
+2024-01-17,Payment to Starbucks,Starbucks,1065.0,Food & Drink
+2023-09-16,Google Cloud,Google,150.0,Subscriptions
+2023-01-26,amazon.in,Amazon,1299.0,Shopping
+2025-01-05,IMPS - Rent Jan,House Rent,20000.0,Rent
+2024-04-03,Local Tea Shop Bill,Local Tea Shop,82.0,Food & Drink
+2025-01-26,Cafe Coffee Day Bill,Cafe Coffee Day,458.0,Food & Drink
+2024-01-02,Local Tea Shop Bill,Local Tea Shop,92.0,Food & Drink
+2024-10-11,Uber,Uber,160.0,Transport
+2025-12-18,Gym Supplement 146,HealthKart,2285.22,Health
+2025-09-19,Google Cloud,Google,150.0,Subscriptions
+2025-03-05,H&M Retail,H&M,3029.0,Shopping
+2025-10-06,Rent Payment 153,Owner,20285.04,Rent
+2024-02-27,Broadband Bill 679,ACT Fibernet,962.71,Bills
+2025-03-28,CMRL TOPUP 10113,Chennai Metro,286.0,Transport
+2024-04-07,NETMEDS BILL,Netmeds,2541.0,Health
+2023-03-31,Zomato order 1582,Swiggy,731.0,Food & Drink
+2024-10-23,uber trip,Uber,190.0,Transport
+2024-01-31,Licious Purchase,Licious,912.0,Groceries
+2023-02-27,PAYMENT TO STARBUCKS,Starbucks,1053.0,Food & Drink
+2025-09-18,BigBazaar Purchase,BigBazaar,3700.0,Groceries
+2024-12-29,Gas Cylinder 966,Indane,1095.44,Bills
+2024-04-21,BSNL Bill,BSNL,799.0,Utilities
+2023-04-15,Myntra,Myntra,3500.0,Shopping
+2025-08-22,Spotify,Spotify,119.0,Subscriptions
+2024-10-28,Zomato,Zomato,530.0,Food & Drink
+2024-02-17,Fuel IOCL,Indian Oil,2900.0,Transport
+2024-07-24,ZARA,Zara,5200.0,Shopping
+2025-06-06,Bowling 654,Amoeba,422.05,Entertainment
+2025-06-19,Mobile Recharge,Airtel,599.0,Bills
+2023-03-05,BSNL FTTH Bill,BSNL,799.0,Utilities
+2024-02-04,Milk delivery,Local Mart,1270.0,Groceries
+2025-10-17,swiggy order,Swiggy,480.0,Food & Drink
+2025-03-08,Steam Games Transaction,Steam Games,1869.0,Entertainment
+2023-04-14,Uber Trip 10135,Uber,159.0,Transport
+2024-02-08,ACT Fibernet Bill,ACT Fibernet,1049.0,Utilities
+2023-09-09,MedPlus TRN 10168,MedPlus,1428.0,Health
+2025-03-27,Dunzo,Dunzo,870.0,Groceries
+2025-10-01,IMPS - House Rent Oct,House Rent,17711.0,Rent
+2025-03-16,Amazon.in Order AMZ10097,Amazon,10850.0,Shopping
+2023-06-06,Amusement Park 447,Wonderla,1298.85,Entertainment
+2025-03-27,Spotify,Spotify,119.0,Subscriptions
+2023-10-12,ZARA Retail,Zara,4990.0,Shopping
+2024-03-30,PVR Cinemas,PVR Cinemas,700.0,Entertainment
+2024-04-14,Monthly Rent 101,NoBroker,19233.96,Rent
+2023-11-10,Dominos Pizza,Dominos,780.0,Food & Drink
+2023-02-06,House Rent Mar,House Rent,18445.83,Rent
+2025-02-19,Milk delivery,Local Mart,1250.0,Groceries
+2023-01-31,Starbucks Bill,Starbucks,792.0,Food & Drink
+2025-10-21,MedPlus Bill,MedPlus,270.0,Health
+2024-02-27,Lab Test 446,Thyrocare,1123.53,Health
+2023-07-06,Myntra Order FK10241,Myntra,10705.0,Shopping
+2024-01-13,Swiggy order 1582,Swiggy,731.0,Food & Drink
+2024-10-08,IMPS - Rent Oct,House Rent,22000.0,Rent
+2025-03-08,Dunzo,Dunzo,890.0,Groceries
+2025-01-02,amazon.in,Amazon,1399.0,Shopping
+2025-12-24,Flipkart Order 7083,Flipkart,4334.0,Shopping
+2025-01-19,Fuel at IOCL,Indian Oil,2000.0,Transport
+2025-07-05,Netflix,Netflix,199.0,Subscriptions
+2025-12-13,Lab Test 466,Thyrocare,1316.25,Health
+2024-06-12,Water Tax CMWSSB,CMWSSB,234.0,Utilities
+2023-06-02,Order #10196 from Zomato,Zomato,714.0,Food & Drink
+2024-12-22,Steam Purchase 10011,Steam Games,799.0,Entertainment
+2024-08-13,Amusement Park 831,Wonderla,1228.68,Entertainment
+2025-11-18,Bowling 132,Amoeba,365.15,Entertainment
+2024-02-16,BigBazaar,BigBazaar,3100.0,Groceries
+2025-03-06,H&M,H&M,2500.0,Shopping
+2024-11-23,MedPlus,MedPlus,170.0,Health
+2025-03-23,BigBazaar Purchase,BigBazaar,2889.0,Groceries
+2025-02-25,Licious Purchase,Licious,812.0,Groceries
+2023-08-17,Disney+ Hotstar,Hotstar,499.0,Subscriptions
+2024-04-23,Uber Ride 20250423,Uber,205.0,Transport
+2023-01-24,DECATHLON RETAIL,Decathlon,4471.0,Shopping
+2025-02-08,Maintenance Charge 854,Association,1856.94,Rent
+2024-04-11,AIRTEL RECHARGE 10131,Airtel,220.0,Bills
+2023-09-11,Local Tea Shop,Local Tea Shop,80.0,Food & Drink
+2024-09-25,Reliance Fresh,Reliance Fresh,1350.0,Groceries
+2025-01-24,Pizza Hut,Pizza Hut,980.0,Food & Drink
+2024-11-21,Streaming Sub 500,Netflix,215.15,Entertainment
+2025-04-20,Order #10142 from Zomato,Zomato,753.0,Food & Drink
+2025-11-28,BSNL Bill,BSNL,800.0,Utilities
+2023-12-09,Order #10142 from Zomato,Zomato,753.0,Food & Drink
+2023-03-14,Groceries from Dunzo,Dunzo,1010.0,Groceries
+2023-12-17,BigBazaar Purchase,BigBazaar,3364.0,Groceries
+2023-01-29,Steam Games Transaction,Steam Games,926.0,Entertainment
+2025-11-11,Ola Auto 10144,Ola,121.0,Transport
+2025-07-30,BigBazaar Purchase 10272,BigBazaar,2620.0,Groceries
+2025-03-01,More Supermarket Store Bill,More Supermarket,2257.0,Groceries
+2023-01-12,amazon.in,Amazon,1599.0,Shopping
+2024-01-30,Courier Charges 528,DTDC,103.77,Miscellaneous
+2024-03-30,Mobile Recharge 521,Jio,327.39,Bills
+2024-07-15,Amusement Park 640,Wonderla,1185.2,Entertainment
+2023-10-24,MedPlus,MedPlus,150.0,Health
+2023-03-09,House Rent Jun,House Rent,21220.28,Rent
+2023-09-16,Local Tea Shop,Local Tea Shop,70.0,Food & Drink
+2025-07-26,Netflix,Netflix,199.0,Subscriptions
+2023-08-07,Spotify,Spotify,119.0,Subscriptions
+2024-08-20,House Rent Jul,House Rent,18041.86,Rent
+2025-10-31,PG Rent Oct,Stanza Living,8307.86,Rent
+2023-11-02,JIO RECHARGE 10029,Jio,752.0,Bills
+2025-09-22,Local Tea Shop,Local Tea Shop,50.0,Food & Drink
+2024-08-25,BookMyShow,BookMyShow,850.0,Entertainment
+2024-12-22,Charity Donation 517,Charity,990.07,Miscellaneous
+2025-06-17,Monthly Rent 301,NoBroker,19996.42,Rent
+2023-10-12,Amazon Prime,Amazon Prime,299.0,Subscriptions
+2025-08-03,Rent Payment 337,Owner,21399.5,Rent
+2024-12-29,Postpaid Bill 693,Airtel,466.69,Bills
+2023-09-04,Rent Payment 858,Owner,21453.28,Rent
+2025-08-11,IMPS - House Rent Aug,House Rent,22000.0,Rent
+2023-01-27,Jio Fiber FTTH 10041,Jio Fiber,631.0,Utilities
+2024-10-02,Uber,Uber,210.0,Transport
+2025-03-07,PVR Cinemas Transaction,PVR Cinemas,611.0,Entertainment
+2023-03-12,Uber Ride 7173,Uber,207.0,Transport
+2024-07-22,Water Tax,CMWSSB,150.0,Utilities
+2025-05-29,Flipkart Order FK10191,Flipkart,3891.0,Shopping
+2024-04-05,Cafe Coffee Day,Cafe Coffee Day,340.0,Food & Drink
+2023-10-06,Fuel at IOCL,Indian Oil,2000.0,Transport
+2023-12-17,Myntra Order FK10145,Myntra,10705.0,Shopping
+2023-12-16,Printout 153,Xerox Shop,45.03,Miscellaneous
+2024-11-28,Apollo Pharmacy,Apollo Pharmacy,570.0,Health
+2025-09-04,swiggy order,Swiggy,550.0,Food & Drink
+2024-12-19,Mobile Recharge,Airtel,357.0,Bills
+2025-06-13,Ola Ride ID10211,Ola,236.0,Transport
+2025-11-14,Amusement Park 860,Wonderla,1309.07,Entertainment
+2024-01-19,Order #10119 from Zomato,Zomato,714.0,Food & Drink
+2024-03-20,H&M,H&M,2700.0,Shopping
+2023-05-17,House Rent Jan,House Rent,20341.6,Rent
+2023-10-20,Subscr Google,Google,130.0,Subscriptions
+2023-03-05,Myntra Order 4731,Myntra,3524.0,Shopping
+2024-03-09,LOCAL TEA SHOP BILL 10088,Local Tea Shop,361.0,Food & Drink
+2023-04-23,JIO RECHARGE 10146,Jio,290.0,Bills
+2024-02-24,ORDER BLINKIT 10071,Blinkit,1051.0,Groceries
+2024-01-16,Flipkart Order FK10004,Flipkart,3891.0,Shopping
+2023-02-23,Uber Ride 6876,Uber,263.0,Transport
+2025-08-24,Spotify,Spotify,119.0,Subscriptions
+2024-10-07,Water Tax 871,CMWSSB,143.64,Bills
+2023-10-25,TNEB Bill,TNEB,1250.0,Utilities
+2025-04-21,Subscr Google,Google,130.0,Subscriptions
+2023-08-10,BookMyShow,BookMyShow,880.0,Entertainment
+2023-11-18,Uber Ride,Uber,230.0,Transport
+2023-12-29,PVR Cinemas Transaction,PVR Cinemas,611.0,Entertainment
+2024-01-21,IMPS - House Rent Jan,House Rent,17711.0,Rent
+2024-01-11,Printout 791,Xerox Shop,53.15,Miscellaneous
+2024-12-15,Zomato order 6931,Zomato,316.0,Food & Drink
+2024-01-27,MedPlus,MedPlus,240.0,Health
+2025-02-17,ORDER #10062 FROM ZOMATO,Zomato,710.0,Food & Drink
+2025-12-09,Bowling 314,Amoeba,382.42,Entertainment
+2024-01-07,ZARA Retail Purchase,Zara,4311.0,Shopping
+2024-12-24,Amazon Order 3266,Amazon,1494.0,Shopping
+2025-10-02,Swiggy Foods Bill,Swiggy,510.0,Food & Drink
+2023-04-17,Zomato Order #2356,Zomato,420.0,Food & Drink
+2023-07-15,INOX TICKET 10252,INOX,1048.0,Entertainment
+2023-05-18,PG Rent Aug,Stanza Living,8390.15,Rent
+2025-12-25,UPI to Friend 10159,Miscellaneous,6500.0,Miscellaneous
+2025-10-06,Myntra Order MYN1002,Myntra,1899.0,Shopping
+2025-03-21,Subscr GitHub,GitHub,575.0,Subscriptions
+2025-05-11,Repair Services 101,Urban Company,402.19,Miscellaneous
+2024-12-21,BMS Ticket 10103,BookMyShow,2419.0,Entertainment
+2024-02-13,Gas Cylinder 283,Indane,1162.57,Bills
+2024-01-17,ORDER BLINKIT 10022,Blinkit,716.0,Groceries
+2024-01-29,Zomato,Zomato,530.0,Food & Drink
+2024-01-24,Rapido Auto 10032,Rapido,140.0,Transport
+2023-07-31,Rapido 2410,Rapido,120.0,Transport
+2025-06-28,CMRL TOPUP 10230,Chennai Metro,389.0,Transport
+2024-11-19,Repair Services 232,Urban Company,378.88,Miscellaneous
+2024-03-19,Courier Charges 969,DTDC,109.08,Miscellaneous
+2023-08-16,swiggy instamart,Swiggy,330.0,Groceries
+2023-12-26,Zomato order 2235,Zomato,745.0,Food & Drink
+2023-11-07,zomato,Zomato,230.0,Food & Drink
+2025-02-08,Uber Ride ID10051,Uber,154.0,Transport
+2023-08-18,Rent Payment 311,Owner,22279.76,Rent
+2025-09-30,Uber Ride,Uber,220.0,Transport
+2023-05-07,ORDER #10163 FROM SWIGGY,Swiggy,981.0,Food & Drink
+2024-06-16,Courier Charges 188,DTDC,103.75,Miscellaneous
+2023-08-04,House Rent Dec,House Rent,21071.28,Rent
+2025-04-21,BSNL Bill,BSNL,799.0,Utilities
+2023-04-18,Repair Services 617,Urban Company,421.59,Miscellaneous
+2024-02-15,Flipkart Order 9814,Flipkart,3975.0,Shopping
+2024-05-22,Medicines 642,Apollo,348.91,Health
+2025-05-27,CMRL Metro Card,Chennai Metro,300.0,Transport
+2025-05-13,ATM WITHDRAWAL,ATM,3500.0,Miscellaneous
+2025-03-09,Uber Trip 20250309,Uber,240.0,Transport
+2025-09-29,Subscr GitHub,GitHub,575.0,Subscriptions
+2024-08-18,Bill BSNL ID 10138,BSNL,2315.0,Utilities
+2023-12-27,ORDER #10163 FROM SWIGGY,Swiggy,981.0,Food & Drink
+2024-11-27,Gas Cylinder 834,Indane,1167.25,Bills
+2025-01-04,Water Tax CMWSSB,CMWSSB,234.0,Utilities
+2024-03-22,Uber Auto,Uber,160.0,Transport
+2023-09-23,zomato,Zomato,310.0,Food & Drink
+2023-08-28,Dominos Pizza,Dominos,820.0,Food & Drink
+2025-02-16,Water Tax CMWSSB,CMWSSB,228.0,Utilities
+2023-08-14,Disney+ Hotstar,Hotstar,499.0,Subscriptions
+2024-11-25,Amusement Park 172,Wonderla,1209.29,Entertainment
+2023-09-30,Maintenance Charge 732,Association,2077.75,Rent
+2024-02-24,MedPlus Bill,MedPlus,458.0,Health
+2023-10-12,Ola Cabs 2357,Ola,380.0,Transport
+2023-08-19,PG Rent Jun,Stanza Living,8721.38,Rent
+2024-03-08,uber trip,Uber,260.0,Transport
+2025-06-20,Mobile Recharge,Airtel,299.0,Bills
+2024-01-13,Uber Trip 10187,Uber,292.0,Transport
+2023-10-15,Doctor's Visit,Local Clinic,800.0,Health
+2024-10-16,Licious Order,Licious,650.0,Groceries
+2025-01-29,BSNL Bill,BSNL,800.0,Utilities
+2023-03-20,Gym Supplement 659,HealthKart,2641.51,Health
+2023-01-18,MedPlus,MedPlus,200.0,Health
+2023-10-15,Flipkart Order FK10185,Flipkart,8993.0,Shopping
+2023-11-04,IMPS - Rent Nov,House Rent,20000.0,Rent
+2024-11-21,Doctor Consultation 507,Practo,453.1,Health
+2025-12-25,Uber Ride 5707,Uber,342.0,Transport
+2024-04-10,Streaming Sub 577,Netflix,198.24,Entertainment
+2023-03-09,Uber Auto,Uber,190.0,Transport
+2025-01-03,Flipkart Order FK10004,Flipkart,3891.0,Shopping
+2023-03-14,Ola Ride 9051,Ola,121.0,Transport
+2025-10-20,Swiggy Instamart,Swiggy,430.0,Groceries
+2025-10-26,Purchase H&M 10100,H&M,4224.0,Shopping
+2023-07-20,Uber Trip 10259,Uber,240.0,Transport
+2025-10-02,More Supermarket,More Supermarket,2340.0,Groceries
+2025-01-27,Dunzo Groceries,Dunzo,1413.0,Groceries
+2024-03-05,PVR Cinemas,PVR Cinemas,690.0,Entertainment
+2025-07-10,Jio Fiber FTTH 10246,Jio Fiber,1022.0,Utilities
+2023-01-21,Dominos,Dominos,640.0,Food & Drink
+2023-02-23,BigBazaar Store Bill,BigBazaar,4355.0,Groceries
+2023-10-14,Pizza Hut Bill,Pizza Hut,890.0,Food & Drink
+2023-01-23,Spotify AB 10030,Spotify,129.0,Subscriptions
+2023-12-20,Google Cloud,Google,150.0,Subscriptions
+2025-05-26,Reliance Fresh,Reliance Fresh,1040.0,Groceries
+2024-09-15,Medicines 592,Apollo,334.5,Health
+2025-04-19,Movie Ticket 705,BookMyShow,322.41,Entertainment
+2024-02-18,Apollo Pharmacy TRN 10064,Apollo Pharmacy,2425.0,Health
+2023-07-04,House Rent Nov,House Rent,19601.86,Rent
+2025-05-16,Cafe Coffee Day,Cafe Coffee Day,310.0,Food & Drink
+2024-08-01,Electricity Bill 265,TNEB,1156.12,Bills
+2024-11-07,ACT Fibernet,ACT Fibernet,1049.0,Utilities
+2023-06-16,Mobile Recharge,Airtel,699.0,Bills
+2023-08-25,Broadband Bill 698,ACT Fibernet,1045.6,Bills
+2024-09-07,Ola Ride ID10165,Ola,193.0,Transport
+2024-11-02,Uber Trip 10135,Uber,159.0,Transport
+2023-12-06,Amusement Park 940,Wonderla,1127.81,Entertainment
+2025-10-09,Swiggy Foods Bill,Swiggy,460.0,Food & Drink
+2025-06-24,Lab Test 787,Thyrocare,1169.72,Health
+2024-07-27,Water Tax CMWSSB,CMWSSB,234.0,Utilities
+2025-01-25,TNEB Bill,TNEB,1022.0,Utilities
+2023-07-04,Gym Membership,Fitness First,2500.0,Health
+2024-02-07,PVR Cinemas,PVR Cinemas,550.0,Entertainment
+2023-07-11,Zomato order,Zomato,760.0,Food & Drink
+2023-10-12,Water Tax CMWSSB,CMWSSB,234.0,Utilities
+2023-07-03,Monthly Rent 258,NoBroker,19654.15,Rent
+2025-10-26,Uber,Uber,120.0,Transport
+2023-10-06,Rent Payment 481,Owner,21971.64,Rent
+2025-05-08,ATM WITHDRAWAL,ATM,5000.0,Miscellaneous
+2024-02-14,zomato,Zomato,310.0,Food & Drink
+2024-09-28,Payment to Cafe Coffee Day,Cafe Coffee Day,779.0,Food & Drink
+2025-12-20,Fuel at Shell,Shell,1803.0,Transport
+2025-06-29,BMS TICKET 10231,BookMyShow,798.0,Entertainment
+2025-04-24,Shell Fuel,Shell,2100.0,Transport
+2023-07-15,Swiggy,Swiggy,490.0,Food & Drink
+2023-05-02,PVR Cinemas,PVR Cinemas,710.0,Entertainment
+2023-10-22,amazon pay,Amazon,750.0,Shopping
+2023-01-31,Jio Fiber FTTH 10041,Jio Fiber,631.0,Utilities
+2023-07-13,Movie Ticket 851,BookMyShow,313.79,Entertainment
+2025-11-08,Starbucks,Starbucks,480.0,Food & Drink
+2025-01-09,TNEB Bill Pay,TNEB,1460.0,Utilities
+2024-03-02,Swiggy order 4647,Swiggy,615.0,Food & Drink
+2024-10-16,Shell Fuel,Shell,1500.0,Transport
+2024-02-27,Spotify,Spotify,119.0,Subscriptions
+2025-02-26,Water Tax 862,CMWSSB,135.98,Bills
+2025-10-18,Amazon.in Order AMZ10176,Amazon,1818.0,Shopping
+2025-11-04,PVR Cinemas,PVR Cinemas,620.0,Entertainment
+2024-03-12,Dunzo,Dunzo,910.0,Groceries
+2023-07-24,TNEB Bill Pay 10265,TNEB,1438.0,Utilities
+2023-08-28,UPI to Friend 944,UPI,503.82,Miscellaneous
+2023-02-20,PG Rent Apr,Stanza Living,8338.35,Rent
+2025-03-19,Mobile Recharge,Airtel,357.0,Bills
+2024-10-11,Local Tea Shop,Local Tea Shop,40.0,Food & Drink
+2025-09-14,SWIGGY FOODS,Swiggy,929.0,Food & Drink
+2024-01-24,Licious Purchase 10137,Licious,751.0,Groceries
+2025-12-21,Medicines 958,Apollo,318.4,Health
+2025-10-13,Amazon Prime,Amazon Prime,299.0,Subscriptions
+2025-05-24,Printout 603,Xerox Shop,49.24,Miscellaneous
+2025-05-16,Water Tax CMWSSB,CMWSSB,234.0,Utilities
+2024-02-19,Mobile Recharge,Jio,290.0,Bills
+2025-11-23,Rapido Auto 10032,Rapido,140.0,Transport
+2025-08-20,Disney+ Hotstar,Hotstar,499.0,Subscriptions
+2024-10-15,Spotify AB 92394,Spotify,119.0,Subscriptions
+2025-10-14,Uber,Uber,200.0,Transport
+2025-08-17,More Supermarket,More Supermarket,2300.0,Groceries
+2025-04-07,swiggy instamart,Swiggy,430.0,Groceries
+2023-05-06,Myntra Retail,Myntra,6099.0,Shopping
+2025-02-28,PG Rent Sep,Stanza Living,7752.13,Rent
+2023-08-01,Doctor Consultation 221,Practo,495.27,Health
+2023-09-16,Uber Trip 20250916,Uber,230.0,Transport
+2023-11-03,Myntra Order FK10145,Myntra,10705.0,Shopping
+2025-07-01,Starbucks,Starbucks,540.0,Food & Drink
+2024-12-23,Concert Ticket 527,Insider,1641.07,Entertainment
+2023-03-19,Groceries from Dunzo,Dunzo,990.0,Groceries
+2025-08-21,Spotify,Spotify,119.0,Subscriptions
+2024-09-05,ACT Fibernet,ACT Fibernet,1049.0,Utilities
+2023-08-26,The Hindu,The Hindu,999.0,Subscriptions
+2025-08-04,More Supermarket,More Supermarket,2400.0,Groceries
+2025-12-25,Cafe Coffee Day Bill,Cafe Coffee Day,362.0,Food & Drink
+2023-06-24,Mobile Recharge,Jio,299.0,Bills
+2025-08-06,VI RECHARGE 10281,Vi,724.0,Bills
+2024-01-23,flipkart,Flipkart,1600.0,Shopping
+2023-03-18,MedPlus Bill,MedPlus,213.0,Health
+2025-10-31,Steam Purchase,Steam Games,1899.0,Entertainment
+2023-05-12,House Rent,House Rent,22000.0,Rent
+2024-02-06,Uber Ride 1762,Uber,267.0,Transport
+2024-08-04,PG Rent Apr,Stanza Living,7706.23,Rent
+2024-10-11,Spotify,Spotify,119.0,Subscriptions
+2023-08-20,Concert Ticket 493,Insider,1558.2,Entertainment
+2023-07-02,Myntra Order MYN1008,Myntra,2499.0,Shopping
+2024-02-14,Ola Ride 4664,Ola,231.0,Transport
+2023-02-08,More Supermarket Purchase,More Supermarket,2215.0,Groceries
+2025-09-08,Broadband Bill 966,ACT Fibernet,1054.37,Bills
+2024-11-06,Sony PSN Purchase 10050,Sony PSN,1656.0,Entertainment
+2023-07-02,Myntra Order MYN1013,Myntra,2599.0,Shopping
+2025-06-02,House Rent Dec,House Rent,20501.79,Rent
+2024-06-25,Myntra Order MYN1009,Myntra,1999.0,Shopping
+2024-06-29,Charity Donation 195,Charity,1009.47,Miscellaneous
+2023-05-13,ATM WITHDRAWAL,ATM,4500.0,Miscellaneous
+2024-04-04,swiggy food,Swiggy,640.0,Food & Drink
+2025-10-29,uber auto,Uber,90.0,Transport
+2024-03-20,Local Tea Shop Bill,Local Tea Shop,30.0,Food & Drink
+2024-09-21,Subscr The Hindu,The Hindu,1299.0,Subscriptions
+2023-01-15,Water Tax CMWSSB,CMWSSB,150.0,Utilities
+2023-01-04,Uber Ride 9444,Uber,107.0,Transport
+2023-08-11,BSNL FTTH 10122,BSNL,2347.0,Utilities
+2025-09-19,Amazon.in,Amazon,599.0,Shopping
+2023-05-25,Order Dunzo 10186,Dunzo,1065.0,Groceries
+2023-03-30,Amazon Order 8361,Amazon,1535.0,Shopping
+2025-10-25,Dental Checkup 954,Clove Dental,734.4,Health
+2025-07-19,Maintenance Charge 556,Association,1935.63,Rent
+2024-03-20,BMS Ticket 10103,BookMyShow,2419.0,Entertainment
+2024-09-19,Uber Auto 10181,Uber,147.0,Transport
+2024-01-01,Uber Ride 8660,Uber,141.0,Transport
+2024-03-25,Swiggy order 9924,Zomato,526.0,Food & Drink
+2024-03-23,Dunzo,Dunzo,920.0,Groceries
+2024-01-04,IMPS - House Rent Jan,House Rent,17711.0,Rent
+2024-02-14,Amazon Order 3681,Amazon,4263.0,Shopping
+2023-08-29,Water Tax,CMWSSB,150.0,Utilities
+2024-01-18,Local Tea Shop Bill,Local Tea Shop,82.0,Food & Drink
+2023-03-25,Flat Rent Feb,Landlord,16288.94,Rent
+2025-03-12,Amazon Order 3662,Amazon,4263.0,Shopping
+2023-03-28,Local Tea Shop Bill,Local Tea Shop,92.0,Food & Drink
+2023-01-18,Gas Cylinder 670,Indane,991.36,Bills
+2024-01-17,Rent Payment 887,Owner,21779.16,Rent
+2025-04-28,PVR Cinemas Food,PVR Cinemas,550.0,Entertainment
+2025-08-11,Printout 228,Xerox Shop,46.69,Miscellaneous
+2023-06-04,Payment to Starbucks,Starbucks,1065.0,Food & Drink
+2025-02-10,Uber Ride 20250210,Uber,190.0,Transport
+2023-10-21,Ola Cabs 2356,Ola,370.0,Transport
+2023-10-24,Cafe Coffee Day,Cafe Coffee Day,320.0,Food & Drink
+2025-04-30,Gym Membership,Fitness First,2500.0,Health
+2023-12-07,Reliance Fresh Purchase 10220,Reliance Fresh,3350.0,Groceries
+2023-02-20,Gym Membership,Fitness First,2500.0,Health
+2025-10-29,BSNL Bill,BSNL,800.0,Utilities
+2025-01-28,Gas Cylinder 154,Indane,1188.24,Bills
+2024-05-31,Water Tax 550,CMWSSB,156.96,Bills
+2025-07-02,Swiggy Instamart Purchase 10236,Swiggy Instamart,447.0,Groceries
+2024-01-05,MedPlus,MedPlus,190.0,Health
+2025-12-26,KFC BILL 10161,KFC,601.0,Food & Drink
+2024-08-20,Rent Payment 209,Owner,23575.38,Rent
+2025-03-03,Cafe Coffee Day Bill,Cafe Coffee Day,255.0,Food & Drink
+2023-08-13,Swiggy Instamart,Swiggy,410.0,Groceries
+2023-06-14,Swiggy Foods,Swiggy,610.0,Food & Drink
+2024-11-13,ATM WITHDRAWAL,ATM,3000.0,Miscellaneous
+2023-12-24,Courier Charges 951,DTDC,107.99,Miscellaneous
+2024-03-15,Flipkart Order 7083,Flipkart,4985.0,Shopping
+2025-01-03,Mobile Recharge 794,Jio,285.24,Bills
+2024-12-02,Swiggy Foods,Swiggy,550.0,Food & Drink
+2023-02-09,Amazon Order 3624,Amazon,1307.0,Shopping
+2025-05-10,Reliance Fresh,Reliance Fresh,1000.0,Groceries
+2023-05-11,Monthly Rent 773,NoBroker,19241.36,Rent
+2023-05-15,Microsoft 365 renewal 10173,Microsoft 365,712.0,Subscriptions
+2025-06-07,Mobile Recharge,Airtel,719.0,Bills
+2024-02-11,Licious,Licious,720.0,Groceries
+2025-03-07,Dominos Bill,Dominos,828.0,Food & Drink
+2024-04-29,Steam Purchase 10154,Steam Games,1130.0,Entertainment
+2025-03-12,Gym Membership,Fitness First,2000.0,Health
+2023-03-10,H&M,H&M,2800.0,Shopping
+2025-11-22,Water Tax CMWSSB,CMWSSB,234.0,Utilities
+2023-05-11,MedPlus TRN 10168,MedPlus,1428.0,Health
+2023-06-21,Swiggy Foods,Swiggy,590.0,Food & Drink
+2025-02-27,Fuel at Indian Oil,Indian Oil,2001.0,Transport
+2025-12-15,Water Tax CMWSSB,CMWSSB,150.0,Utilities
+2023-06-22,PG Rent Jun,Stanza Living,8749.82,Rent
+2025-10-25,Mobile Recharge 291,Jio,275.15,Bills
+2023-10-27,Zomato,Zomato,560.0,Food & Drink
+2023-02-01,Stationery 650,Local Shop,123.56,Miscellaneous
+2025-04-18,Amazon.in Order AMZ10140,Amazon,3063.0,Shopping
+2023-02-01,zomato,Zomato,270.0,Food & Drink
+2023-10-10,Spotify AB 92395,Spotify,119.0,Subscriptions
+2025-11-17,Charity Donation 120,Charity,1018.08,Miscellaneous
+2025-02-18,Monthly Rent 461,NoBroker,17620.04,Rent
+2025-09-03,Medicines 637,Apollo,355.54,Health
+2024-12-11,Licious Purchase 10093,Licious,995.0,Groceries
+2025-03-09,Starbucks Bill,Starbucks,662.0,Food & Drink
+2024-07-09,Bowling 537,Amoeba,393.48,Entertainment
+2025-11-01,Order #10302 from Zomato,Zomato,268.0,Food & Drink
+2023-09-22,Flipkart Order FK10185,Flipkart,8993.0,Shopping
+2023-07-07,Zomato order,Zomato,800.0,Food & Drink
+2025-07-14,Myntra Order MYN1012,Myntra,2499.0,Shopping
+2023-02-22,zomato,Zomato,280.0,Food & Drink
+2025-11-01,Uber Trip 20251101,Uber,175.0,Transport
+2023-12-16,Ola Auto 10065,Ola,282.0,Transport
+2023-02-28,Gas Cylinder 304,Indane,1146.74,Bills
+2024-09-01,Concert Ticket 733,Insider,1353.06,Entertainment
+2025-01-15,Pizza Hut,Pizza Hut,950.0,Food & Drink
+2023-02-23,Swiggy Instamart,Swiggy,336.0,Groceries
+2024-03-07,Groceries from Dunzo,Dunzo,1000.0,Groceries
+2025-12-06,BSNL FTTH 10177,BSNL,2347.0,Utilities
+2024-09-03,Amazon.in Order AMZ10160,Amazon,5215.0,Shopping
+2025-01-09,Uber Ride 3881,Uber,262.0,Transport
+2023-11-26,Spotify,Spotify,119.0,Subscriptions
+2024-08-20,BookMyShow,BookMyShow,870.0,Entertainment
+2024-04-23,swiggy instamart,Swiggy,410.0,Groceries
+2025-11-11,More Supermarket,More Supermarket,1900.0,Groceries
+2025-06-28,Ola Ride,Ola,330.0,Transport
+2025-05-23,Amusement Park 415,Wonderla,1188.15,Entertainment
+2023-10-14,Zomato,Zomato,540.0,Food & Drink
+2025-02-07,Amusement Park 340,Wonderla,1153.64,Entertainment
+2024-04-05,Flat Rent Jul,Landlord,16756.96,Rent
+2023-08-07,Mobile Recharge 794,Jio,288.38,Bills
+2023-04-01,Cafe Coffee Day,Cafe Coffee Day,290.0,Food & Drink
+2024-02-29,Electricity Bill 775,TNEB,1148.95,Bills
+2025-11-26,Stationery 632,Local Shop,124.75,Miscellaneous
+2024-07-08,Myntra Order MYN1011,Myntra,2399.0,Shopping
+2025-04-02,Order #10119 from Zomato,Zomato,714.0,Food & Drink
+2023-11-24,DECATHLON RETAIL,Decathlon,4471.0,Shopping
+2024-02-23,Uber Ride 8608,Uber,272.0,Transport
+2024-04-16,swiggy instamart,Swiggy,420.0,Groceries
+2025-07-15,Ola Auto 10144,Ola,121.0,Transport
+2023-11-14,Zomato order 9924,Zomato,290.0,Food & Drink
+2023-01-31,Water Tax CMWSSB,CMWSSB,234.0,Utilities
+2025-11-16,Broadband Bill 252,ACT Fibernet,958.85,Bills
+2025-08-21,Gas Cylinder 604,Indane,1172.07,Bills
+2024-03-18,Uber Auto,Uber,180.0,Transport
+2024-06-29,Gift Purchase 248,Archies,420.97,Miscellaneous
+2023-11-12,H&M RETAIL,H&M,3029.0,Shopping
+2025-03-03,FLIPKART Order FK2404,Flipkart,530.0,Shopping
+2024-08-07,More Supermarket Purchase 10282,More Supermarket,2215.0,Groceries
+2024-01-27,Monthly Rent 283,NoBroker,17994.9,Rent
+2024-12-15,PG Rent Aug,Stanza Living,8403.4,Rent
+2023-08-15,Zomato,Zomato,390.0,Food & Drink
+2025-01-11,BSNL FTTH,BSNL,799.0,Utilities
+2025-01-20,BookMyShow Transaction,BookMyShow,914.0,Entertainment
+2025-04-16,Gift Purchase 409,Archies,446.65,Miscellaneous
+2025-11-18,Rent Payment 705,Owner,20856.59,Rent
+2024-09-01,Fuel at Shell Bill 10158,Shell,2958.0,Transport
+2024-01-19,Starbucks Bill,Starbucks,699.0,Food & Drink
+2024-07-04,Courier Charges 291,DTDC,109.16,Miscellaneous
+2024-02-12,Rapido,Rapido,140.0,Transport
+2024-08-07,Ola Cabs,Ola,260.0,Transport
+2025-03-12,Monthly Rent 113,NoBroker,18855.99,Rent
+2024-11-02,Flat Rent Apr,Landlord,17817.17,Rent
+2025-11-12,Flat Rent Dec,Landlord,16502.52,Rent
+2023-01-01,MedPlus Bill,MedPlus,380.0,Health
+2024-04-24,Subscr Google,Google,130.0,Subscriptions
+2025-01-01,NETFLIX.COM 1234,Netflix,199.0,Subscriptions
+2024-12-28,Rapido Ride 7837,Rapido,111.0,Transport
+2023-11-05,Fuel IOCL,Indian Oil,2500.0,Transport
+2024-03-12,GYM FEE,Fitness First,1968.0,Health
+2023-08-08,RAPIDO RIDE 2319,Rapido,130.0,Transport
+2025-01-12,Order #10016 from Zomato,Zomato,268.0,Food & Drink
+2024-12-09,Water Tax 941,CMWSSB,161.02,Bills
+2023-12-25,Steam Games Transaction,Steam Games,982.0,Entertainment
+2024-12-28,GYM FEE,Fitness First,1812.0,Health
+2025-07-22,Zomato,Zomato,330.0,Food & Drink
+2024-10-19,Apollo Pharmacy,Apollo Pharmacy,590.0,Health
+2025-01-20,More Supermarket Purchase,More Supermarket,1780.0,Groceries
+2025-06-15,UPI to Friend 238,UPI,516.82,Miscellaneous
+2024-12-14,Repair Services 646,Urban Company,420.31,Miscellaneous
+2023-04-27,BSNL Bill,BSNL,799.0,Utilities
+2024-12-31,MedPlus TRN 10168,MedPlus,1428.0,Health
+2024-10-18,Spotify AB 92393,Spotify,119.0,Subscriptions
+2024-08-17,Printout 198,Xerox Shop,49.49,Miscellaneous
+2023-11-23,Gift Purchase 537,Archies,469.22,Miscellaneous
+2024-03-31,House Rent Sep,House Rent,20440.7,Rent
+2023-07-14,BigBazaar Purchase 10251,BigBazaar,1099.0,Groceries
+2023-03-10,Amazon.in Order AMZ10089,Amazon,4844.0,Shopping
+2023-03-08,House Rent May,House Rent,21452.72,Rent
+2024-11-13,Pizza Hut,Pizza Hut,920.0,Food & Drink
+2025-02-16,Amazon.in,Amazon,2000.0,Shopping
+2023-01-08,Repair Services 672,Urban Company,385.34,Miscellaneous
+2024-04-01,NETFLIX.COM 1234,Netflix,199.0,Subscriptions
+2024-01-31,ATM WITHDRAWAL,ATM,2000.0,Miscellaneous
+2024-03-24,MedPlus TRN 10107,MedPlus,1422.0,Health
+2025-08-06,Printout 671,Xerox Shop,54.89,Miscellaneous
+2024-01-13,Postpaid Bill 238,Airtel,483.81,Bills
+2024-09-14,Water Tax CMWSSB,CMWSSB,234.0,Utilities
+2023-03-28,Pizza Hut Bill,Pizza Hut,511.0,Food & Drink
+2023-03-20,Rapido Ride 4305,Rapido,111.0,Transport
+2025-04-11,CMRL Metro Card Recharge,Chennai Metro,500.0,Transport
+2024-12-24,Postpaid Bill 495,Airtel,468.25,Bills
+2025-02-14,Milk delivery,Local Mart,1230.0,Groceries
+2023-05-02,PG Rent Jul,Stanza Living,8294.93,Rent
+2023-08-12,The Hindu,The Hindu,999.0,Subscriptions
+2024-05-02,Dental Checkup 207,Clove Dental,830.59,Health
+2024-10-29,Steam Purchase,Steam Games,1999.0,Entertainment
+2024-04-06,Monthly Rent 962,NoBroker,21137.61,Rent
+2024-12-26,Postpaid Bill 694,Airtel,500.64,Bills
+2023-06-10,Flat Rent Apr,Landlord,17871.08,Rent
+2025-05-22,Subscr The Hindu,The Hindu,1299.0,Subscriptions
+2025-06-11,MedPlus TRN 10208,MedPlus,1428.0,Health
+2023-12-18,Local Tea Shop Bill,Local Tea Shop,30.0,Food & Drink
+2023-09-09,Uber Trip 20250909,Uber,250.0,Transport
+2024-10-25,Credit Card Bill 964,HDFC Bank,4987.55,Bills
+2024-01-07,BigBazaar Purchase 10010,BigBazaar,2620.0,Groceries
+2024-02-07,Local Tea Shop Bill,Local Tea Shop,22.0,Food & Drink
+2024-01-28,Gift Purchase 507,Archies,417.98,Miscellaneous
+2025-07-08,Netflix,Netflix,199.0,Subscriptions
+2025-01-11,Jio Postpaid Bill 10015,Jio,791.0,Bills
+2025-06-08,amazon pay,Amazon,850.0,Shopping
+2024-06-27,BigBazaar,BigBazaar,3600.0,Groceries
+2025-02-11,Amazon.in,Amazon,2300.0,Shopping
+2025-02-13,Flipkart Order FK10058,Flipkart,8458.0,Shopping
+2024-06-25,Netflix.COM 10227,Netflix,661.0,Subscriptions
+2024-06-14,Postpaid Bill 424,Airtel,484.92,Bills
+2023-02-03,ZARA,Zara,5300.0,Shopping
+2024-01-30,More Supermarket,More Supermarket,2400.0,Groceries
+2024-04-27,Lab Test 441,Thyrocare,1291.87,Health
+2025-04-10,Pizza Hut Bill 10130,Pizza Hut,523.0,Food & Drink
+2025-01-26,House Rent Jan,House Rent,20000.0,Rent
+2024-06-06,ACT Fibernet,ACT Fibernet,1049.0,Utilities
+2025-07-16,Electricity Bill 640,TNEB,1211.85,Bills
+2025-08-30,The Hindu,The Hindu,999.0,Subscriptions
+2025-12-19,PG Rent Jun,Stanza Living,7478.27,Rent
+2024-05-20,Postpaid Bill 485,Airtel,473.48,Bills
+2023-12-18,Ola Ride 5971,Ola,265.0,Transport
+2023-11-28,uber auto,Uber,100.0,Transport
+2023-10-14,ATM WITHDRAWAL,ATM,5000.0,Miscellaneous
+2025-01-02,ACT Fibernet FTTH 10003,ACT Fibernet,1049.0,Utilities
+2024-10-09,IMPS - Rent Oct,House Rent,22000.0,Rent
+2023-11-13,SWIGGY FOODS,Swiggy,929.0,Food & Drink
+2025-09-02,Local Tea Shop,Local Tea Shop,110.0,Food & Drink
+2024-01-22,Dominos,Dominos,670.0,Food & Drink
+2025-10-20,Doctor's Visit,Local Clinic,800.0,Health
+2023-01-27,Spotify,Spotify,119.0,Subscriptions
+2024-06-02,swiggy,Swiggy,370.0,Food & Drink
+2023-01-10,Groceries from Dunzo #10182,Dunzo,793.0,Groceries
+2025-12-14,Ola Ride 7173,Ola,234.0,Transport
+2023-01-17,Flipkart Order 2062,Flipkart,2001.0,Shopping
+2024-01-25,VI RECHARGE 10082,Vi,351.0,Bills
+2023-10-09,Mobile Recharge 415,Jio,311.71,Bills
+2025-02-13,ATM WITHDRAWAL,ATM,10000.0,Miscellaneous
+2023-01-13,Dominos,Dominos,650.0,Food & Drink
+2025-10-21,Cafe Coffee Day,Cafe Coffee Day,310.0,Food & Drink
+2024-05-04,UPI to Friend 10159,Miscellaneous,6500.0,Miscellaneous
+2024-12-08,Gift Purchase 505,Archies,493.32,Miscellaneous
+2023-01-03,Dominos Bill,Dominos,878.0,Food & Drink
+2024-02-17,Milk delivery,Local Mart,1260.0,Groceries
+2023-04-09,Water Tax 260,CMWSSB,162.09,Bills
+2025-12-19,Dunzo Groceries,Dunzo,1126.0,Groceries
+2024-03-29,H&M,H&M,2900.0,Shopping
+2025-03-26,Apollo Pharmacy,Apollo Pharmacy,380.0,Health
+2024-04-07,PVR Cinemas,PVR Cinemas,630.0,Entertainment
+2025-02-16,Milk delivery,Local Mart,1220.0,Groceries
+2024-08-05,Monthly Rent 485,NoBroker,19383.02,Rent
+2025-04-30,Maintenance Charge 719,Association,2141.47,Rent
+2025-12-27,Zomato order 4305,Zomato,586.0,Food & Drink
+2025-10-16,DOMINOS BILL 10172,Dominos,878.0,Food & Drink
+2025-11-07,Maintenance Charge 528,Association,1916.14,Rent
+2025-05-14,Charity Donation 835,Charity,988.91,Miscellaneous
+2024-01-21,Swiggy Instamart,Swiggy,496.0,Groceries
+2024-08-27,RAPIDO RIDE 2321,Rapido,150.0,Transport
+2023-01-20,H&M,H&M,2990.0,Shopping
+2023-04-26,Concert Ticket 636,Insider,1414.94,Entertainment
+2025-04-09,NETFLIX.COM,Netflix,199.0,Subscriptions
+2025-05-20,Flat Rent May,Landlord,19395.72,Rent
+2024-09-03,Uber Trip 20250903,Uber,200.0,Transport
+2025-10-08,Jio Fiber FTTH 10041,Jio Fiber,631.0,Utilities
+2023-12-12,MedPlus Bill,MedPlus,453.0,Health
+2024-10-25,Maintenance Charge 950,Association,1844.61,Rent
+2023-03-06,FLIPKART Order FK2407,Flipkart,590.0,Shopping
+2023-02-10,Amazon Prime renewal,Amazon Prime,299.0,Subscriptions
+2024-03-27,Fuel at Shell,Shell,1812.0,Transport
+2025-01-16,Water Tax CMWSSB,CMWSSB,234.0,Utilities
+2024-04-09,Shell Fuel,Shell,1900.0,Transport
+2023-04-22,Zomato Order #2354,Zomato,400.0,Food & Drink
+2023-10-10,Amazon Prime renewal,Amazon Prime,299.0,Subscriptions
+2023-05-26,Ola Cabs,Ola,240.0,Transport
+2024-01-18,Swiggy order 9062,Swiggy,381.0,Food & Drink
+2025-04-22,BSNL Bill,BSNL,799.0,Utilities
+2023-02-01,Netflix,Netflix,199.0,Subscriptions
+2025-01-12,Concert Ticket 822,Insider,1592.09,Entertainment
+2024-05-10,CMRL Metro Card,Chennai Metro,300.0,Transport
+2025-01-14,Swiggy Instamart Purchase 10018,Swiggy Instamart,447.0,Groceries
+2025-06-05,IMPS - Rent Jun,House Rent,22000.0,Rent
+2023-07-21,Subscr Google,Google,130.0,Subscriptions
+2024-03-02,Swiggy order 1582,Swiggy,214.0,Food & Drink
+2023-07-24,Rapido 2412,Rapido,140.0,Transport
+2024-10-25,Amusement Park 285,Wonderla,1233.58,Entertainment
+2023-11-17,PAYMENT TO STARBUCKS,Starbucks,1053.0,Food & Drink
+2024-08-11,RAPIDO RIDE 2320,Rapido,140.0,Transport
+2023-10-24,House Rent Feb,House Rent,20973.67,Rent
+2025-07-06,Zomato,Zomato,320.0,Food & Drink
+2025-02-28,Payment to McDonald's,McDonald's,1166.0,Food & Drink
+2023-06-29,Gaming Currency 929,Steam,486.77,Entertainment
+2025-12-06,Zomato order 5823,Zomato,470.0,Food & Drink
+2025-07-09,Zomato order,Zomato,720.0,Food & Drink
+2023-11-04,BSNL FTTH,BSNL,799.0,Utilities
+2023-02-01,Postpaid Bill 473,Airtel,483.53,Bills
+2024-03-18,Medicines 908,Apollo,341.15,Health
+2024-05-17,Amazon.in Order AMZ10176,Amazon,1818.0,Shopping
+2023-09-08,TNEB BILL PAY 10166,TNEB,2168.0,Utilities
+2023-12-23,NETFLIX.COM 10074,Netflix,843.0,Subscriptions
+2023-11-24,Courier Charges 490,DTDC,103.64,Miscellaneous
+2023-12-19,Local Mart Store Bill,Local Mart,2393.0,Groceries
+2025-09-23,Order Dunzo 10039,Dunzo,1065.0,Groceries
+2025-07-31,Medicines 779,Apollo,382.7,Health
+2025-10-07,Uber,Uber,170.0,Transport
+2024-11-14,Mobile Recharge 757,Jio,304.45,Bills
+2023-10-31,Rapido,Rapido,110.0,Transport
+2024-04-28,BMS Ticket 10152,BookMyShow,1619.0,Entertainment
+2023-05-21,Uber Auto 10181,Uber,147.0,Transport
+2024-11-18,BigBazaar Store Bill,BigBazaar,4355.0,Groceries
+2025-10-04,swiggy,Swiggy,530.0,Food & Drink
+2024-03-22,Amazon Order 9308,Amazon,1249.0,Shopping
+2023-09-10,BigBazaar Purchase 10057,BigBazaar,2281.0,Groceries
+2023-01-08,Reliance Fresh,Reliance Fresh,1500.0,Groceries
+2024-12-12,Uber Ride 1109,Uber,213.0,Transport
+2023-04-09,Lab Test 750,Thyrocare,1247.8,Health
+2023-12-14,Swiggy Instamart Purchase 10141,Swiggy Instamart,678.0,Groceries
+2024-01-31,Uber Ride 2855,Uber,218.0,Transport
+2025-01-25,Credit Card Bill 684,HDFC Bank,5324.25,Bills
+2024-02-23,Amazon.in,Amazon,2200.0,Shopping
+2025-03-31,Swiggy order 7765,Zomato,628.0,Food & Drink
+2025-12-25,Credit Card Bill 253,HDFC Bank,4505.1,Bills
+2023-10-25,PVR Cinemas,PVR Cinemas,450.0,Entertainment
+2023-08-23,Ola Cabs,Ola,220.0,Transport
+2023-02-04,H&M Retail Purchase,H&M,1959.0,Shopping
+2023-10-05,BookMyShow Movie,BookMyShow,780.0,Entertainment
+2024-03-30,Local Tea Shop Bill,Local Tea Shop,59.0,Food & Drink
+2023-03-17,BigBazaar,BigBazaar,3800.0,Groceries
+2025-01-15,ZARA Retail,Zara,4890.0,Shopping
+2024-12-03,Cafe Coffee Day,Cafe Coffee Day,310.0,Food & Drink
+2025-02-21,Swiggy order 7762,Swiggy,309.0,Food & Drink
+2023-03-02,IMPS - House Rent Mar,House Rent,16954.0,Rent
+2023-09-03,Local Tea Stall,Local Tea Shop,80.0,Food & Drink
+2024-10-23,Courier Charges 923,DTDC,91.52,Miscellaneous
+2023-01-06,Myntra Order 6378,Myntra,3504.0,Shopping
+2023-03-10,Uber Auto,Uber,140.0,Transport
+2023-10-31,Local Tea Stall,Local Tea Shop,30.0,Food & Drink
+2023-11-11,Charity Donation 358,Charity,1020.55,Miscellaneous
+2023-02-15,Dental Checkup 511,Clove Dental,836.46,Health
+2024-05-09,Stationery 879,Local Shop,122.0,Miscellaneous
+2024-11-19,Mobile Recharge,Jio,299.0,Bills
+2023-01-29,Rapido Ride 3108,Rapido,107.0,Transport
+2024-11-24,Credit Card Bill 288,HDFC Bank,5297.31,Bills
+2023-02-25,Reliance Digital Retail,Reliance Digital,7681.0,Shopping
+2025-02-22,Amazon Order 6673,Amazon,4592.0,Shopping
+2024-10-23,Amusement Park 529,Wonderla,1220.67,Entertainment
+2024-02-15,Water Tax CMWSSB,CMWSSB,150.0,Utilities
+2023-02-25,TNEB Bill,TNEB,1151.0,Utilities
+2023-11-30,Netflix,Netflix,199.0,Subscriptions
+2024-03-17,Gaming Currency 381,Steam,498.83,Entertainment
+2024-02-05,Dunzo Groceries,Dunzo,1202.0,Groceries
+2024-03-22,Water Tax CMWSSB,CMSWW,150.0,Utilities
+2025-12-19,BookMyShow Transaction,BookMyShow,994.0,Entertainment
+2023-02-15,zomato,Zomato,260.0,Food & Drink
+2024-03-02,H&M,H&M,3000.0,Shopping
+2023-09-16,BSNL FTTH 10122,BSNL,2347.0,Utilities
+2024-04-14,Flat Rent Jan,Landlord,17211.13,Rent
+2023-03-27,FLIPKART Order FK2405,Flipkart,550.0,Shopping
+2025-07-22,Medicines 590,Apollo,371.5,Health
+2024-01-27,Pizza Hut,Pizza Hut,950.0,Food & Drink
+2023-04-24,Gas Cylinder 727,Indane,1095.87,Bills
+2023-05-25,swiggy food,Swiggy,580.0,Food & Drink
+2025-11-13,Broadband Bill 639,ACT Fibernet,1020.89,Bills
+2024-10-21,CURE.FIT BILL,Cure.fit,2519.0,Health
+2023-01-07,DECATHLON RETAIL,Decathlon,4471.0,Shopping
+2024-12-01,Reliance Fresh,Reliance Fresh,1300.0,Groceries
+2024-03-14,Movie Ticket 432,BookMyShow,320.38,Entertainment
+2024-09-12,Uber Trip 20250912,Uber,240.0,Transport
+2023-05-19,ATM WITHDRAWAL,ATM,6500.0,Miscellaneous
+2024-11-12,Uber Auto,Uber,120.0,Transport
+2024-10-10,Dental Checkup 251,Clove Dental,804.15,Health
+2023-12-25,Amusement Park 676,Wonderla,1306.54,Entertainment
+2025-03-10,Myntra Order 7289,Myntra,1248.0,Shopping
+2024-02-13,Disney+ Hotstar,Hotstar,499.0,Subscriptions
+2024-02-04,TNEB Bill Payment,TNEB,1326.0,Utilities
+2023-03-20,Google Cloud,Google,150.0,Subscriptions
+2023-01-28,Flat Rent Aug,Landlord,17286.33,Rent
+2024-12-24,Fuel at Shell Bill 10158,Shell,2958.0,Transport
+2023-04-22,Myntra Order FK10145,Myntra,10705.0,Shopping
+2024-01-03,Fuel at Shell,Shell,1826.0,Transport
+2024-03-01,Uber Ride 7367,Uber,318.0,Transport
+2024-10-01,NETFLIX.COM 892374,Netflix,199.0,Subscriptions
+2023-01-16,Zomato order 9920,Zomato,267.0,Food & Drink
+2023-01-03,Microsoft 365 renewal 10099,Microsoft 365,712.0,Subscriptions
+2025-12-13,Cafe Coffee Day Bill,Cafe Coffee Day,338.0,Food & Drink
+2025-10-12,Ola Cabs 2355,Ola,360.0,Transport
+2023-10-31,Netflix,Netflix,199.0,Subscriptions
+2025-11-24,PVR Cinemas,PVR Cinemas,480.0,Entertainment
+2024-06-29,Swiggy,Swiggy,450.0,Food & Drink
+2024-05-12,Zomato order 5829,Zomato,490.0,Food & Drink
+2025-06-24,Concert Ticket 236,Insider,1414.28,Entertainment
+2023-02-21,Subscr The Hindu,The Hindu,1299.0,Subscriptions
+2025-07-27,Groceries from Dunzo,Dunzo,1050.0,Groceries
+2025-10-20,flipkart,Flipkart,999.0,Shopping
+2024-04-02,PG Rent Sep,Stanza Living,7740.23,Rent
+2025-01-18,Ola Ride 1876,Ola,161.0,Transport
+2023-02-21,UPI to Friend 680,UPI,548.52,Miscellaneous
+2023-05-03,Fuel at Shell Bill 10158,Shell,2958.0,Transport
+2024-09-13,Zomato order 9929,Zomato,300.0,Food & Drink
+2025-12-22,Uber Ride 4802,Uber,292.0,Transport
+2024-03-05,Mobile Recharge,Jio,239.0,Bills
+2023-04-20,Credit Card Bill 573,HDFC Bank,5381.05,Bills
+2023-08-23,Monthly Rent 659,NoBroker,21231.95,Rent
+2025-12-27,Myntra Retail,Myntra,6099.0,Shopping
+2025-09-29,swiggy order,Swiggy,510.0,Food & Drink
+2023-11-27,Rent Payment 494,Owner,20183.12,Rent
+2023-02-22,Licious,Licious,760.0,Groceries
+2024-03-06,Myntra Retail,Myntra,11018.0,Shopping
+2025-05-05,Ola Ride,Ola,180.0,Transport
+2025-12-08,BigBazaar Purchase,BigBazaar,3400.0,Groceries
+2023-06-24,Broadband Bill 964,ACT Fibernet,1088.49,Bills
+2025-02-25,Repair Services 311,Urban Company,423.37,Miscellaneous
+2024-08-21,Bowling 544,Amoeba,387.3,Entertainment
+2024-01-07,Gym Supplement 266,HealthKart,2474.51,Health
+2024-01-21,Water Tax 251,CMWSSB,156.58,Bills
+2023-12-13,Apollo Pharmacy Bill,Apollo Pharmacy,648.0,Health
+2024-09-24,Swiggy Instamart,Swiggy,490.0,Groceries
+2025-11-10,Stationery 346,Local Shop,122.2,Miscellaneous
+2025-10-18,AIRTEL RECHARGE 10131,Airtel,220.0,Bills
+2023-07-20,Zomato,Zomato,300.0,Food & Drink
+2024-08-21,Electricity Bill 191,TNEB,1302.34,Bills
+2024-02-08,House Rent,House Rent,22000.0,Rent
+2024-03-25,Uber Ride 20250325,Uber,160.0,Transport
+2023-02-28,FLIPKART Order FK2403,Flipkart,510.0,Shopping
+2024-02-05,Licious,Licious,740.0,Groceries
+2025-03-11,Swiggy Instamart,Swiggy,407.0,Groceries
+2023-04-25,VI RECHARGE 10149,Vi,724.0,Bills
+2023-12-04,PVR Cinemas,PVR Cinemas,640.0,Entertainment
+2025-01-13,UPI to Friend 951,UPI,502.13,Miscellaneous
+2025-12-26,Mobile Recharge 834,Jio,298.95,Bills
+2025-03-16,Ola Ride 2028,Ola,341.0,Transport
+2024-07-31,Flat Rent Mar,Landlord,16379.41,Rent
+2023-07-22,Gym Supplement 551,HealthKart,2569.93,Health
+2023-01-14,Uber Ride 7609,Uber,271.0,Transport
+2025-01-14,TNEB Bill Pay,TNEB,1450.0,Utilities
+2023-03-17,Streaming Sub 308,Netflix,194.87,Entertainment
+2025-12-09,Rapido Ride 7349,Rapido,92.0,Transport
+2025-07-19,Postpaid Bill 757,Airtel,526.46,Bills
+2024-09-08,Repair Services 337,Urban Company,376.07,Miscellaneous
+2023-07-14,Charity Donation 315,Charity,1042.78,Miscellaneous
+2025-08-13,Broadband Bill 547,ACT Fibernet,950.09,Bills
+2025-01-10,Subscr The Hindu,The Hindu,1299.0,Subscriptions
+2024-08-23,Ola Auto 10065,Ola,282.0,Transport
+2023-03-01,House Rent Jul,House Rent,21942.27,Rent
+2025-04-17,Bill BSNL ID 10138,BSNL,2315.0,Utilities
+2024-01-10,Mobile Recharge 158,Jio,295.98,Bills
+2024-02-03,BigBazaar,BigBazaar,3000.0,Groceries
+2025-01-28,Concert Ticket 856,Insider,1416.62,Entertainment
+2025-11-13,Monthly Rent 183,NoBroker,18648.35,Rent
+2025-12-08,Starbucks,Starbucks,500.0,Food & Drink
+2025-09-22,TNEB Bill,TNEB,1300.0,Utilities
+2024-05-28,CMRL TOPUP 10190,Chennai Metro,286.0,Transport
+2025-02-06,H&M Retail Purchase,H&M,3090.0,Shopping
+2023-01-02,Reliance Fresh Purchase,Reliance Fresh,2257.0,Groceries
+2023-05-19,Local Tea Stall,Local Tea Shop,40.0,Food & Drink
+2024-01-22,Cafe Coffee Day Bill,Cafe Coffee Day,369.0,Food & Drink
+2025-12-29,TNEB BILL PAY 10166,TNEB,2168.0,Utilities
+2024-01-17,MedPlus Bill,MedPlus,622.0,Health
+2023-04-14,Myntra,Myntra,3600.0,Shopping
+2025-08-26,Local Mart Store Bill,Local Mart,2393.0,Groceries
+2023-09-12,PG Rent Oct,Stanza Living,7996.88,Rent
+2023-04-20,Local Tea Shop,Local Tea Shop,30.0,Food & Drink
+2025-04-10,Uber Trip 20250410,Uber,180.0,Transport
+2023-11-30,Licious Purchase 10059,Licious,1016.0,Groceries
+2023-01-10,Dominos,Dominos,630.0,Food & Drink
+2024-12-07,ACT Fibernet,ACT Fibernet,1049.0,Utilities
+2023-03-02,Gym Supplement 980,HealthKart,2447.87,Health
+2024-12-31,Courier Charges 523,DTDC,109.15,Miscellaneous
+2025-10-30,flipkart,Flipkart,2200.0,Shopping
+2025-10-29,Bowling 490,Amoeba,366.33,Entertainment
+2025-02-14,Licious Purchase 10059,Licious,1016.0,Groceries
+2023-03-28,Swiggy Instamart,Swiggy,496.0,Groceries
+2025-10-08,Steam Purchase,Steam Games,1699.0,Entertainment
+2025-07-23,Electricity Bill 335,TNEB,1099.92,Bills
+2025-02-18,Repair Services 630,Urban Company,435.78,Miscellaneous
+2025-07-30,Ola Cabs Ride 9028,Ola,310.0,Transport
+2024-09-19,Doctor Consultation 447,Practo,546.9,Health
+2023-08-06,Streaming Sub 724,Netflix,207.0,Entertainment
+2024-07-27,ZARA,Zara,5500.0,Shopping
+2023-10-20,Google Cloud,Google,150.0,Subscriptions
+2023-07-17,PG Rent Mar,Stanza Living,7393.77,Rent
+2023-05-15,House Rent,House Rent,22000.0,Rent
+2023-03-30,BigBazaar Purchase 10115,BigBazaar,1529.0,Groceries
+2024-02-22,ORDER #10069 FROM SWIGGY,Swiggy,1019.0,Food & Drink
+2025-11-03,TNEB Bill Pay,TNEB,1400.0,Utilities
+2023-10-08,BigBazaar Purchase,BigBazaar,3100.0,Groceries
+2023-03-05,Repair Services 558,Urban Company,367.43,Miscellaneous
+2025-03-27,Uber Ride 7687,Uber,344.0,Transport
+2023-09-26,Local Tea Shop,Local Tea Shop,100.0,Food & Drink
+2024-01-01,Rapido Ride 4181,Rapido,110.0,Transport
+2025-03-02,Groceries from Dunzo,Dunzo,980.0,Groceries
+2023-01-10,flipkart,Flipkart,1800.0,Shopping
+2024-10-15,BigBazaar Store Bill,BigBazaar,1968.0,Groceries
+2024-08-02,Dental Checkup 387,Clove Dental,745.52,Health
+2023-02-27,Rapido,Rapido,130.0,Transport
+2024-11-20,Rapido 2399,Rapido,90.0,Transport
+2025-06-01,UPI to Friend,Miscellaneous,1000.0,Miscellaneous
+2024-09-07,BigBazaar Purchase,BigBazaar,3800.0,Groceries
+2025-08-26,amazon pay,Amazon,850.0,Shopping
+2024-10-04,BSNL FTTH Bill,BSNL,799.0,Utilities
+2024-11-11,ZARA,Zara,5100.0,Shopping
+2025-10-10,Gift Purchase 558,Archies,477.35,Miscellaneous
+2025-05-28,Amusement Park 609,Wonderla,1088.97,Entertainment
+2024-01-29,flipkart,Flipkart,2700.0,Shopping
+2023-04-16,Maintenance Charge 546,Association,1823.71,Rent
+2025-10-17,Apollo Pharmacy TRN 10024,Apollo Pharmacy,2598.0,Health
+2025-03-27,Mobile Recharge 105,Jio,270.63,Bills
+2025-12-13,Fuel at Shell,Shell,1812.0,Transport
+2023-01-07,Swiggy order 3591,Swiggy,630.0,Food & Drink
+2024-07-17,UPI to Friend 649,UPI,496.04,Miscellaneous
+2023-06-01,Swiggy Foods,Swiggy,620.0,Food & Drink
+2025-03-01,Swiggy Instamart,Swiggy,437.0,Groceries
+2025-03-21,uber trip,Uber,220.0,Transport
+2024-06-03,amazon.in purchase,Amazon,999.0,Shopping
+2023-09-05,Myntra Retail,Myntra,6099.0,Shopping
+2023-01-29,Postpaid Bill 190,Airtel,532.03,Bills
+2023-08-11,Printout 608,Xerox Shop,49.82,Miscellaneous
+2023-06-22,CURE.FIT BILL,Cure.fit,2519.0,Health
+2024-10-10,Credit Card Bill 636,HDFC Bank,5160.62,Bills
+2024-09-16,Water Tax 355,CMWSSB,161.02,Bills
+2024-08-22,Zomato,Zomato,380.0,Food & Drink
+2023-12-25,TNEB Bill,TNEB,1227.0,Utilities
+2023-10-15,H&M Purchase,H&M,2100.0,Shopping
+2024-04-04,BSNL FTTH 10122,BSNL,2347.0,Utilities
+2025-01-28,Rapido Ride 3217,Rapido,136.0,Transport
+2025-06-20,swiggy,Swiggy,380.0,Food & Drink
+2025-01-13,Disney+ Hotstar,Hotstar,499.0,Subscriptions
+2025-08-01,Dominos Pizza,Dominos,810.0,Food & Drink
+2023-09-26,FLIPKART Order FK2402,Flipkart,899.0,Shopping
+2025-12-25,BigBazaar Purchase,BigBazaar,2068.0,Groceries
+2023-03-18,Uber Ride 5046,Uber,290.0,Transport
+2024-11-29,BigBazaar,BigBazaar,3500.0,Groceries
+2023-02-03,PVR Cinemas,PVR Cinemas,560.0,Entertainment
+2024-10-05,Steam Purchase,Steam Games,2199.0,Entertainment
+2023-12-26,Monthly Rent 586,NoBroker,18760.39,Rent
+2025-09-18,swiggy order,Swiggy,540.0,Food & Drink
+2023-10-04,IMPS - Rent Oct,House Rent,22000.0,Rent
+2023-08-24,BigBazaar,BigBazaar,2750.0,Groceries
+2024-02-08,Rapido,Rapido,150.0,Transport
+2024-12-31,UPI to Friend 782,UPI,450.25,Miscellaneous
+2024-12-24,MedPlus Bill,MedPlus,467.0,Health
+2023-04-02,Gym Membership,Fitness First,2500.0,Health
+2023-05-04,Amazon.in Order AMZ10160,Amazon,5215.0,Shopping
+2025-09-04,Lab Test 154,Thyrocare,1262.66,Health
+2025-05-13,RAPIDO RIDE ID10171,Rapido,133.0,Transport
+2024-09-20,Local Tea Stall,Local Tea Shop,50.0,Food & Drink
+2023-02-18,Amazon.in,Amazon,1900.0,Shopping
+2024-09-28,Amazon Prime renewal,Amazon Prime,299.0,Subscriptions
+2024-10-24,TNEB Bill Pay 10063,TNEB,2661.0,Utilities
+2024-03-15,ATM WITHDRAWAL,ATM,9500.0,Miscellaneous
+2025-03-25,Swiggy order 4647,Swiggy,748.0,Food & Drink
+2025-01-11,Local Tea Shop Bill,Local Tea Shop,59.0,Food & Drink
+2024-12-14,Water Tax 664,CMWSSB,138.22,Bills
+2025-11-17,Steam Purchase,Steam Games,1499.0,Entertainment
+2025-08-31,NETFLIX.COM 892379,Netflix,199.0,Subscriptions
+2023-01-13,Myntra Retail,Myntra,3738.0,Shopping
+2024-10-14,Zomato order 9923,Zomato,270.0,Food & Drink
+2025-10-27,Spotify,Spotify,119.0,Subscriptions
+2025-02-12,Ola Ride 2073,Ola,122.0,Transport
+2024-03-24,Amusement Park 545,Wonderla,1313.41,Entertainment
+2024-05-21,Disney+ Hotstar,Hotstar,499.0,Subscriptions
+2024-08-12,Broadband Bill 555,ACT Fibernet,1065.07,Bills
+2024-01-16,H&M Retail Purchase,H&M,3091.0,Shopping
+2025-08-18,JIO RECHARGE 10029,Jio,290.0,Bills
+2025-05-24,CMRL Metro Card,Chennai Metro,300.0,Transport
+2023-10-03,Cafe Coffee Day Bill,Cafe Coffee Day,280.0,Food & Drink
+2023-03-12,Swiggy order 6088,Zomato,529.0,Food & Drink
+2024-12-17,Swiggy order 7741,Swiggy,324.0,Food & Drink
+2023-09-08,Swiggy Instamart,Swiggy,460.0,Groceries
+2024-12-11,Uber Ride 4745,Uber,212.0,Transport
+2025-05-08,Stationery 757,Local Shop,114.74,Miscellaneous
+2024-09-14,Zomato order 9935,Zomato,360.0,Food & Drink
+2023-11-03,Cafe Coffee Day,Cafe Coffee Day,300.0,Food & Drink
+2023-06-06,ACT Fibernet,ACT Fibernet,1049.0,Utilities
+2025-11-02,Maintenance Charge 741,Association,2112.09,Rent
+2024-09-11,Croma.com Inv#10170,Croma,6907.0,Shopping
+2025-07-25,Zomato order,Zomato,790.0,Food & Drink
+2023-04-13,Order #10133 from Zomato,Zomato,623.0,Food & Drink
+2025-05-03,Reliance Fresh,Reliance Fresh,1020.0,Groceries
+2025-02-24,Flat Rent Apr,Landlord,16931.9,Rent
+2023-03-08,ATM WITHDRAWAL 10087,ATM,12500.0,Miscellaneous
+2025-11-18,Zomato,Zomato,350.0,Food & Drink
+2023-11-11,CMRL Metro Card,Chennai Metro,300.0,Transport
+2023-01-17,Reliance Fresh,Reliance Fresh,1450.0,Groceries
+2024-11-07,RAPIDO RIDE 2310,Rapido,105.0,Transport
+2023-07-03,Apollo Pharmacy,Apollo Pharmacy,280.0,Health
+2024-12-10,Dominos Bill,Dominos,873.0,Food & Drink
+2025-01-25,NETMEDS BILL,Netmeds,2035.0,Health
+2023-03-19,Milk delivery,Local Mart,1200.0,Groceries
+2025-09-17,Gym Supplement 277,HealthKart,2734.29,Health
+2023-06-19,ACT Fibernet,ACT Fibernet,1049.0,Utilities
+2024-08-15,swiggy,Swiggy,320.0,Food & Drink
+2025-08-08,Stationery 867,Local Shop,131.87,Miscellaneous
+2025-02-08,Starbucks Bill,Starbucks,662.0,Food & Drink
+2024-10-13,Disney+ Hotstar,Hotstar,499.0,Subscriptions
+2024-04-14,Electricity Bill 683,TNEB,1207.16,Bills
+2025-02-13,Cafe Coffee Day Bill,Cafe Coffee Day,483.0,Food & Drink
+2024-03-03,Uber Ride ID10081,Uber,294.0,Transport
+2025-06-07,UPI to Friend 108,UPI,473.0,Miscellaneous
+2023-01-28,Courier Charges 346,DTDC,102.06,Miscellaneous
+2025-10-09,Doctor Consultation 479,Practo,486.62,Health
+2023-12-10,BigBazaar Purchase,BigBazaar,2282.0,Groceries
+2025-03-24,PVR Cinemas,PVR Cinemas,680.0,Entertainment
+2024-12-26,Uber Ride 5046,Uber,290.0,Transport
+2024-05-10,Electricity Bill 895,TNEB,1120.24,Bills
+2024-05-18,CMRL Metro Card,Chennai Metro,300.0,Transport
+2023-11-07,PG Rent Aug,Stanza Living,8251.78,Rent
+2023-01-28,CMRL Metro Card Recharge,Chennai Metro,450.0,Transport
+2023-10-04,ORDER #10040 FROM SWIGGY,Swiggy,437.0,Food & Drink
+2025-11-28,Fuel at IOCL Bill 10076,Indian Oil,2083.0,Transport
+2024-12-05,BookMyShow,BookMyShow,820.0,Entertainment
+2023-11-26,Dominos,Dominos,620.0,Food & Drink
+2025-09-08,FLIPKART Order FK2401,Flipkart,3299.0,Shopping
+2025-10-16,IMPS - Rent Oct,House Rent,22000.0,Rent
+2024-10-16,Steam Purchase,Steam Games,2099.0,Entertainment
+2024-04-26,Cafe Coffee Day,Cafe Coffee Day,350.0,Food & Drink
+2023-07-12,Reliance Digital Retail,Reliance Digital,7681.0,Shopping
+2024-07-19,Zomato order,Zomato,750.0,Food & Drink
+2023-10-05,Apollo Pharmacy,Apollo Pharmacy,610.0,Health
+2025-11-22,UPI to Friend,Miscellaneous,500.0,Miscellaneous
+2024-06-13,swiggy,Swiggy,390.0,Food & Drink
+2024-07-05,Water Tax,CMWSSB,150.0,Utilities
+2023-03-20,Swiggy order 3591,Swiggy,517.0,Food & Drink
+2025-08-21,House Rent Jul,House Rent,18436.57,Rent
+2023-04-22,Water Tax 267,CMWSSB,148.06,Bills
+2024-01-08,More Supermarket Purchase,More Supermarket,1564.0,Groceries
+2025-01-06,BSNL FTTH 10122,BSNL,2347.0,Utilities
+2024-06-16,More Supermarket,More Supermarket,2050.0,Groceries
+2023-10-02,Fuel at IOCL Bill 10120,Indian Oil,2083.0,Transport
+2025-01-08,Steam Purchase 10011,Steam Games,799.0,Entertainment
+2024-04-27,Mobile Recharge 577,Jio,320.69,Bills
+2025-04-10,Zomato Order #2355,Zomato,410.0,Food & Drink
+2023-01-18,Payment to Cafe Coffee Day,Cafe Coffee Day,779.0,Food & Drink
+2025-02-20,Starbucks Bill,Starbucks,669.0,Food & Drink
+2023-05-12,Streaming Sub 236,Netflix,183.78,Entertainment
+2023-06-22,Ola Ride,Ola,270.0,Transport
+2024-08-21,Subscr Google,Google,130.0,Subscriptions
+2023-02-06,Myntra Order 7531,Myntra,1248.0,Shopping
+2024-11-19,Amazon.in Order AMZ10034,Amazon,10352.0,Shopping
+2023-10-09,UPI to Starbucks,Starbucks,450.0,Food & Drink
+2025-02-23,Credit Card Bill 785,HDFC Bank,4584.01,Bills
+2024-04-10,Reliance Fresh Purchase 10129,Reliance Fresh,3350.0,Groceries
+2025-01-14,Maintenance Charge 985,Association,1921.47,Rent
+2024-11-18,Courier Charges 145,DTDC,101.26,Miscellaneous
+2024-02-04,Starbucks Bill,Starbucks,610.0,Food & Drink
+2023-05-13,Repair Services 308,Urban Company,413.2,Miscellaneous
+2025-11-19,Maintenance Charge 553,Association,1807.95,Rent
+2025-09-28,Google Cloud,Google,150.0,Subscriptions
+2023-11-21,NETFLIX.COM,Netflix,199.0,Subscriptions
+2025-02-16,Rapido Ride 1551,Rapido,94.0,Transport
+2025-05-11,Cafe Coffee Day,Cafe Coffee Day,370.0,Food & Drink
+2024-02-17,Licious,Licious,710.0,Groceries
+2025-05-18,Gas Cylinder 791,Indane,1191.33,Bills
+2023-09-05,ORDER #10163 FROM SWIGGY,Swiggy,981.0,Food & Drink
+2025-01-11,Uber Ride 7367,Uber,298.0,Transport
+2025-04-26,Local Mart Store Bill,Local Mart,2393.0,Groceries
+2024-12-09,Swiggy order 7760,Swiggy,434.0,Food & Drink
+2024-09-06,Swiggy Instamart,Swiggy,450.0,Groceries
+2025-02-09,Ola Ride 2807,Ola,128.0,Transport
+2024-12-29,Ola Ride ID10165,Ola,193.0,Transport
+2025-07-11,NETMEDS BILL,Netmeds,2035.0,Health
+2025-01-19,Mobile Recharge 545,Jio,314.03,Bills
+2024-01-25,PVR Cinemas Transaction,PVR Cinemas,697.0,Entertainment
+2025-01-07,Pizza Hut,Pizza Hut,970.0,Food & Drink
+2024-08-20,Google Cloud,Google,150.0,Subscriptions
+2023-03-25,Uber Ride,Uber,260.0,Transport
+2023-02-02,Uber Ride 1980,Uber,141.0,Transport
+2025-12-29,Stationery 570,Local Shop,115.03,Miscellaneous
+2024-11-17,Apollo Pharmacy,Apollo Pharmacy,220.0,Health
+2025-01-19,Rent Payment 269,Owner,23180.91,Rent
+2024-01-14,Maintenance Charge 614,Association,2130.92,Rent
+2023-09-20,Amazon.in Order AMZ936,Amazon,2699.0,Shopping
+2024-01-15,Monthly Rent 262,NoBroker,19727.95,Rent
+2023-05-09,UPI to Zomato Order #2350,Zomato,290.0,Food & Drink
+2023-08-06,amazon pay,Amazon,840.0,Shopping
+2024-03-11,flipkart,Flipkart,2300.0,Shopping
+2023-12-03,Payment to McDonald's,McDonald's,1166.0,Food & Drink
+2023-12-03,Rent Payment 238,Owner,20746.43,Rent
+2025-08-15,ATM WITHDRAWAL 10293,ATM,11500.0,Miscellaneous
+2025-01-29,CURE.FIT BILL,Cure.fit,2563.0,Health
+2025-03-23,Starbucks Bill,Starbucks,610.0,Food & Drink
+2024-08-03,Apollo Pharmacy,Apollo Pharmacy,330.0,Health
+2024-08-25,BigBazaar,BigBazaar,3700.0,Groceries
+2023-12-30,BigBazaar Purchase,BigBazaar,2889.0,Groceries
+2023-04-01,IMPS - House Rent Apr,House Rent,22253.0,Rent
+2025-11-20,Cafe Coffee Day,Cafe Coffee Day,330.0,Food & Drink
+2023-12-14,Swiggy Instamart,Swiggy,407.0,Groceries
+2023-04-08,Repair Services 324,Urban Company,406.3,Miscellaneous
+2023-02-28,CMRL Metro Card Recharge,Chennai Metro,298.0,Transport
+2024-01-26,Amazon.in Order AMZ10034,Amazon,10352.0,Shopping
+2024-05-14,Zomato order 5832,Zomato,520.0,Food & Drink
+2025-03-23,Concert Ticket 960,Insider,1584.85,Entertainment
+2024-10-13,Doctor Consultation 765,Practo,461.73,Health
+2023-05-02,Order Blinkit 10157,Blinkit,781.0,Groceries
+2024-05-01,ATM WITHDRAWAL,ATM,6000.0,Miscellaneous
+2025-01-18,Mobile Recharge 854,Jio,304.48,Bills
+2025-05-14,Dominos Bill 10172,Dominos,878.0,Food & Drink
+2023-01-10,Reliance Fresh,Reliance Fresh,1600.0,Groceries
+2023-12-23,Ola Ride 5919,Ola,273.0,Transport
+2024-09-16,Local Tea Stall,Local Tea Shop,110.0,Food & Drink
+2025-12-13,Credit Card Bill 867,HDFC Bank,4768.98,Bills
+2023-01-01,Croma.com Inv#10170,Croma,6907.0,Shopping
+2025-01-01,BookMyShow Transaction,BookMyShow,755.0,Entertainment

@@ -1,0 +1,32 @@
+{
+  "mean": {
+    "Bills & Utilities": 268.22868,
+    "Education": 869.9459832635984,
+    "Entertainment": 83.80963562753037,
+    "Food & Drink": 93.11417777777777,
+    "Healthcare": 326.02919678714863,
+    "Shopping": 315.165157480315,
+    "Transportation": 50.215139860139864,
+    "Travel": 1472.95
+  },
+  "std": {
+    "Bills & Utilities": 123.27992813015709,
+    "Education": 330.9931221196609,
+    "Entertainment": 58.47947723076674,
+    "Food & Drink": 66.94318922977878,
+    "Healthcare": 168.19770715468798,
+    "Shopping": 193.2963923374841,
+    "Transportation": 42.10872620921736,
+    "Travel": 627.4298497769809
+  },
+  "count": {
+    "Bills & Utilities": 250,
+    "Education": 239,
+    "Entertainment": 247,
+    "Food & Drink": 225,
+    "Healthcare": 249,
+    "Shopping": 254,
+    "Transportation": 286,
+    "Travel": 250
+  }
+}
